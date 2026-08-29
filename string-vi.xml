@@ -1,0 +1,1811 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string name="abc_action_bar_up_description">Điều hướng lên</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">xóa bỏ</string>
+    <string name="abc_menu_enter_shortcut_label">đi vào</string>
+    <string name="abc_menu_function_shortcut_label">Chức năng+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Thực đơn+</string>
+    <string name="abc_search_hint">Tìm kiếm...</string>
+    <string name="abc_searchview_description_clear">Truy vấn rõ ràng</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="accessibility_service_description">Ứng dụng này cần dịch vụ này để đưa các nhấp chuột bạn đã tạo vào các ứng dụng khác sau khi phát hiện được các Sự kiện.
+
+Không có dữ liệu sẽ được thu thập từ ứng dụng này. Vui lòng truy cập github của chúng tôi, mã là nguồn mở!</string>
+    <string name="activity_scenario_title">kịch bản</string>
+    <string name="activity_settings_title">Cài đặt</string>
+    <string name="activity_tutorial_name">Hướng dẫn</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_name">Klick'r</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="bottomsheet_action_collapse">Thu gọn</string>
+    <string name="bottomsheet_action_expand">Mở rộng</string>
+    <string name="bottomsheet_action_expand_halfway">Mở rộng nửa chừng</string>
+    <string name="bottomsheet_drag_handle_content_description">Tay cầm kéo</string>
+    <string name="brief_empty_actions">Không có hành động. Bạn cần ít nhất một Hành động để tạo Sự kiện hợp lệ</string>
+    <string name="brief_empty_image_conditions">Không có Sự kiện màn hình. Bạn cần ít nhất một Sự kiện để tạo Sự kiện hợp lệ</string>
+    <string name="button_condition_migration_finished">OK</string>
+    <string name="button_condition_migration_running">Đang di chuyển</string>
+    <string name="button_condition_migration_start">Di chuyển</string>
+    <string name="button_deny">Từ chối</string>
+    <string name="button_export">Xuất</string>
+    <string name="button_import">Nhập</string>
+    <string name="button_notification_config">Mở cài đặt</string>
+    <string name="button_open_dont_kill_my_app">Đừng tắt ứng dụng của tôi</string>
+    <string name="button_request_permission">Cấp quyền</string>
+    <string name="button_text_counter_actions_no_reference">Chưa bao giờ thay đổi</string>
+    <string name="button_text_counter_actions_references">%1$d viết</string>
+    <string name="button_text_counter_conditions_no_reference">Chưa bao giờ đọc</string>
+    <string name="button_text_counter_conditions_references">%1$d đã đọc</string>
+    <string name="button_text_counter_delete">Xóa bộ đếm</string>
+    <string name="button_text_counter_delete_and_replace">Thay thế và xóa</string>
+    <string name="button_text_create_scenario">Tạo một kịch bản</string>
+    <string name="button_text_day">Day</string>
+    <string name="button_text_goodbye">Goodbye</string>
+    <string name="button_text_hello">Hello</string>
+    <string name="button_text_night">Night</string>
+    <string name="button_text_tutorial_close">Đóng</string>
+    <string name="button_text_tutorial_next">Kế tiếp</string>
+    <string name="button_text_tutorial_start_game">Bắt đầu trò chơi</string>
+    <string name="button_tutorial_completed_close">Đóng</string>
+    <string name="button_tutorial_completed_keep_playing">Tiếp tục khám phá</string>
+    <string name="button_understood">đã hiểu</string>
+    <string name="character_counter_content_description">Các ký tự đã nhập %1$d trong tổng số %2$d</string>
+    <string name="character_counter_overflowed_content_description">Đã vượt quá giới hạn ký tự %1$d của %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Xóa văn bản</string>
+    <string name="comparison_operator_equals">=</string>
+    <string name="comparison_operator_equals_full">Bằng với</string>
+    <string name="comparison_operator_greater">&gt;</string>
+    <string name="comparison_operator_greater_full">lớn hơn</string>
+    <string name="comparison_operator_greater_or_equals">≥</string>
+    <string name="comparison_operator_greater_or_equals_full">lớn hơn hoặc bằng</string>
+    <string name="comparison_operator_lower">&lt;</string>
+    <string name="comparison_operator_lower_full">thấp hơn</string>
+    <string name="comparison_operator_lower_or_equals">≤</string>
+    <string name="comparison_operator_lower_or_equals_full">thấp hơn hoặc bằng</string>
+    <string name="condition_operator_and">AND</string>
+    <string name="condition_operator_or">OR </string>
+    <string name="content_desc_action_icon">Biểu tượng hiển thị loại hành động</string>
+    <string name="content_desc_actions_count">Số hành động trong Sự kiện này</string>
+    <string name="content_desc_add_action">Thêm một hành động mới vào kịch bản</string>
+    <string name="content_desc_add_button">Nút tạo một phần tử</string>
+    <string name="content_desc_add_scenario">Tạo một kịch bản mới</string>
+    <string name="content_desc_application_icon">Biểu tượng của ứng dụng để bắt đầu.</string>
+    <string name="content_desc_backup_state">Trạng thái sao lưu</string>
+    <string name="content_desc_conditions_count">Số lượng điều kiện trong Sự kiện này</string>
+    <string name="content_desc_confirm">Xác nhận</string>
+    <string name="content_desc_copy_button">Nút tạo bản sao từ phần tử hiện có</string>
+    <string name="content_desc_drag_and_drop">Kéo và thả để sắp xếp lại các phần tử</string>
+    <string name="content_desc_event_state">Trạng thái của Sự kiện</string>
+    <string name="content_desc_go_back">Quay lại hộp thoại</string>
+    <string name="content_desc_image_condition">Hình ảnh được phát hiện</string>
+    <string name="content_desc_move_menu">Di chuyển menu nổi</string>
+    <string name="content_desc_open_action_list">Mở danh sách hành động</string>
+    <string name="content_desc_open_event_list">Mở danh sách Sự kiện</string>
+    <string name="content_desc_play_pause_scenario">Phát hoặc tạm dừng kịch bản</string>
+    <string name="content_desc_show_actions">Hiển thị hoặc ẩn các hành động đã tạo</string>
+    <string name="content_desc_stop_clicker">Dừng Klick'r</string>
+    <string name="default_change_counter_name">Bộ đếm thay đổi</string>
+    <string name="default_click_name">nhấp chuột</string>
+    <string name="default_condition_name">Điều kiện</string>
+    <string name="default_dumb_click_name">nhấp chuột</string>
+    <string name="default_dumb_pause_name">Chờ đợi</string>
+    <string name="default_dumb_swipe_name">Vuốt</string>
+    <string name="default_event_name">Sự kiện mặc định</string>
+    <string name="default_intent_name">ý định</string>
+    <string name="default_notification_name">Thông báo</string>
+    <string name="default_pause_name">Chờ đợi</string>
+    <string name="default_scenario_name">chưa đặt tên</string>
+    <string name="default_set_text_name">Viết văn bản</string>
+    <string name="default_swipe_name">Vuốt</string>
+    <string name="default_system_action_name">Hành động hệ thống</string>
+    <string name="default_toggle_event_name">Chuyển đổi Sự kiện</string>
+    <string name="desc_event_occurrence_counters_empty">Không có bộ đếm nào được xác định cho kịch bản này.</string>
+    <string name="desc_event_occurrence_empty">Không có Sự kiện nào được thực hiện trong phiên kịch bản cuối cùng.</string>
+    <string name="dialog_condition_migration_title">Di chuyển</string>
+    <string name="dialog_intent_extra_title">Thêm</string>
+    <string name="dialog_move_to_position_label">chỉ mục</string>
+    <string name="dialog_move_to_title">Di chuyển đến</string>
+    <string name="dialog_overlay_title_copy_from">Sao chép từ</string>
+    <string name="dialog_overlay_title_debug_report">Báo cáo gỡ lỗi</string>
+    <string name="dialog_overlay_title_dumb_action_type">Loại hành động</string>
+    <string name="dialog_overlay_title_dumb_scenario_config">Kịch bản</string>
+    <string name="dialog_overlay_title_timeline_filters">Bộ lọc dòng thời gian</string>
+    <string name="dialog_overlay_title_warning">Cảnh báo</string>
+    <string name="dialog_title_action_type">Loại hành động</string>
+    <string name="dialog_title_add_scenario">Kịch bản mới</string>
+    <string name="dialog_title_application_selection">Chọn một ứng dụng</string>
+    <string name="dialog_title_backup">Hỗ trợ</string>
+    <string name="dialog_title_broadcast_received">Đã nhận được phát sóng</string>
+    <string name="dialog_title_change_counter">Bộ đếm thay đổi</string>
+    <string name="dialog_title_click">nhấp chuột</string>
+    <string name="dialog_title_condition_config">Điều kiện</string>
+    <string name="dialog_title_condition_selection">Chọn một Điều kiện</string>
+    <string name="dialog_title_copy_fix">Giải quyết vấn đề</string>
+    <string name="dialog_title_counter_reached">Đã đạt đến giá trị bộ đếm</string>
+    <string name="dialog_title_counters_config">Bộ đếm</string>
+    <string name="dialog_title_create_backup">Tạo bản sao lưu</string>
+    <string name="dialog_title_delete_scenario">Xóa kịch bản</string>
+    <string name="dialog_title_events_toggle">Chuyển đổi Sự kiện</string>
+    <string name="dialog_title_image_event">Sự kiện màn hình</string>
+    <string name="dialog_title_import_backup">Nhập bản sao lưu</string>
+    <string name="dialog_title_intent">ý định</string>
+    <string name="dialog_title_intent_actions">Hành động có ý định</string>
+    <string name="dialog_title_intent_component_name">Tên thành phần</string>
+    <string name="dialog_title_intent_flags">Cờ</string>
+    <string name="dialog_title_new_counter">Bộ đếm mới</string>
+    <string name="dialog_title_notification">Thông báo</string>
+    <string name="dialog_title_pause">Chờ đợi</string>
+    <string name="dialog_title_permission_accessibility">Dịch vụ tiếp cận</string>
+    <string name="dialog_title_permission_issue">Khắc phục sự cố</string>
+    <string name="dialog_title_permission_mandatory_denied">Quyền bị từ chối</string>
+    <string name="dialog_title_permission_notification">Thông báo</string>
+    <string name="dialog_title_permission_overlay">Lớp phủ</string>
+    <string name="dialog_title_scenario_config">Kịch bản</string>
+    <string name="dialog_title_screen_condition_type">Loại Điều kiện</string>
+    <string name="dialog_title_set_text_action">Viết văn bản</string>
+    <string name="dialog_title_swipe">Vuốt</string>
+    <string name="dialog_title_system_action">Hành động hệ thống</string>
+    <string name="dialog_title_timer_reached">Đã đạt đến bộ hẹn giờ</string>
+    <string name="dialog_title_toggle_event">Trạng thái Sự kiện</string>
+    <string name="dialog_title_trigger_condition_type">Loại kích hoạt</string>
+    <string name="dialog_title_trigger_event">Bộ kích hoạt</string>
+    <string name="dialog_title_tutorial">Hướng dẫn</string>
+    <string name="dialog_title_tutorial_completed">Chúc mừng</string>
+    <string name="dropdown_comparison_operator_label">Toán tử</string>
+    <string name="dropdown_counter_operation_item_add">+</string>
+    <string name="dropdown_counter_operation_item_minus">-</string>
+    <string name="dropdown_counter_operation_item_set">=</string>
+    <string name="dropdown_extra_boolean_item_false">Tắt</string>
+    <string name="dropdown_extra_boolean_item_true">Bật</string>
+    <string name="dropdown_helper_text_anti_detection_disabled">Thực hiện tất cả các hành động như đã khai báo</string>
+    <string name="dropdown_helper_text_anti_detection_enabled">Chọn ngẫu nhiên các vị trí và thời lượng nhấp chuột vuốt và tạm dừng bằng một khoảng bù ngẫu nhiên nhỏ</string>
+    <string name="dropdown_intent_extra_type_item_boolean">giữ nguyên</string>
+    <string name="dropdown_intent_extra_type_item_byte">Byte</string>
+    <string name="dropdown_intent_extra_type_item_char">Ký tự</string>
+    <string name="dropdown_intent_extra_type_item_double">Số thực kép</string>
+    <string name="dropdown_intent_extra_type_item_float">Số thực</string>
+    <string name="dropdown_intent_extra_type_item_int">Số nguyên</string>
+    <string name="dropdown_intent_extra_type_item_short">Độ dài ngắn</string>
+    <string name="dropdown_intent_extra_type_item_string">Chuỗi dài</string>
+    <string name="dropdown_intent_extra_type_title">Loại giá trị</string>
+    <string name="dropdown_intent_sending_type_item_activity">Bắt đầu hoạt động</string>
+    <string name="dropdown_intent_sending_type_item_broadcast">Gửi phát sóng</string>
+    <string name="dropdown_intent_sending_type_label">Kiểu</string>
+    <string name="dropdown_item_number_format_auto">Tự động phát hiện</string>
+    <string name="dropdown_item_number_format_auto_helper">Suy ra dấu phân cách từ cấu trúc số</string>
+    <string name="dropdown_item_number_format_comma_decimal">Dấu phẩy thập phân</string>
+    <string name="dropdown_item_number_format_comma_decimal_helper">Dấu phẩy là dấu phân cách thập phân (ví dụ: 1.234,56)</string>
+    <string name="dropdown_item_number_format_dot_decimal">Dấu chấm thập phân</string>
+    <string name="dropdown_item_number_format_dot_decimal_helper">Dấu chấm là dấu phân cách thập phân (e.g. 1,234.56)</string>
+    <string name="dropdown_label_time_unit">Đơn vị thời gian</string>
+    <string name="dropdown_label_time_unit_h">giờ</string>
+    <string name="dropdown_label_time_unit_min">phút</string>
+    <string name="dropdown_label_time_unit_ms">ms</string>
+    <string name="dropdown_label_time_unit_s">giây</string>
+    <string name="error_a11y_label">Lỗi: không hợp lệ</string>
+    <string name="error_dialog_message_error_native_lib">Klick'r được cài đặt không chính xác và không thể bắt đầu phát hiện.
+
+Nếu bạn đã cài đặt nó từ một cửa hàng ứng dụng hợp pháp, vui lòng liên hệ với chúng tôi trên GitHub vì nó sẽ giúp chúng tôi khắc phục vấn đề này.</string>
+    <string name="error_dialog_message_scenario_saving">Không thể lưu kịch bản của bạn do lỗi nội bộ.
+Bạn có muốn sửa đổi nó hoặc hủy tất cả các sửa đổi của mình không?</string>
+    <string name="error_dialog_message_screen_capture_unsupported">Klick'r không thể đọc màn hình thiết bị của bạn do giới hạn trình điều khiển.
+
+Thật không may, đây là một hạn chế về phần cứng không thể khắc phục được. Vui lòng liên hệ với chúng tôi trên GitHub kèm theo kiểu thiết bị của bạn để chúng tôi có thể theo dõi các thiết bị bị ảnh hưởng.</string>
+    <string name="error_icon_content_description">Lỗi</string>
+    <string name="event_state_changed_separator">  »  </string>
+    <string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
+    <string name="field_application_selection_desc">Khởi động ứng dụng khi hành động này được thực thi</string>
+    <string name="field_application_selection_title">Chọn một ứng dụng</string>
+    <string name="field_change_all_desc_disable_all">Vô hiệu hóa tất cả các Sự kiện trong trường hợp này. Khi tất cả các Sự kiện bị tắt, kịch bản sẽ tự động dừng.</string>
+    <string name="field_change_all_desc_enable_all">Kích hoạt tất cả các Sự kiện trong kịch bản này</string>
+    <string name="field_change_all_desc_invert_all">Đảo ngược trạng thái của tất cả các Sự kiện trong kịch bản này</string>
+    <string name="field_change_all_desc_manual">Xác định các Sự kiện để thay đổi theo cách thủ công</string>
+    <string name="field_change_all_title">Thay đổi tất cả</string>
+    <string name="field_change_counter_check_effect_desc">%1$s %2$s %3$s</string>
+    <string name="field_change_counter_check_effect_title">Chi tiết Sự kiện</string>
+    <string name="field_change_counter_effect_desc_operation">%1$s = %1$s %2$s %3$s</string>
+    <string name="field_change_counter_effect_desc_set">%1$s = %2$s</string>
+    <string name="field_change_counter_effect_title">Chi tiết hành động</string>
+    <string name="field_click_offset_desc">X=%1$d Y=%2$d</string>
+    <string name="field_click_offset_desc_none">Không có</string>
+    <string name="field_click_offset_title">Tọa độ lệch khi nhấp</string>
+    <string name="field_click_offset_x">X</string>
+    <string name="field_click_offset_y">Y</string>
+    <string name="field_click_position_desc">Nhấp vào %1$d, %2$d</string>
+    <string name="field_click_position_title">Vị trí nhấn</string>
+    <string name="field_click_type_desc_on_condition">Bấm vào Sự kiện được phát hiện</string>
+    <string name="field_click_type_desc_on_position">Click vào vị trí đã chọn</string>
+    <string name="field_click_type_title">Bấm vào</string>
+    <string name="field_condition_selection_desc_and_operator">%1$s</string>
+    <string name="field_condition_selection_desc_and_operator_not_found">Không có Sự kiện nào được chọn</string>
+    <string name="field_condition_selection_desc_or_operator">Điều kiện của Sự kiện được đặt thành "HOẶC", nhấp chuột sẽ xảy ra ở điều kiện được phát hiện đầu tiên</string>
+    <string name="field_condition_selection_title_and_operator">Bấm vào một Sự kiện</string>
+    <string name="field_condition_selection_title_or_operator">Nhấp vào Sự kiện được phát hiện đầu tiên</string>
+    <string name="field_condition_visibility_desc_absent">Điều kiện không được phát hiện</string>
+    <string name="field_condition_visibility_desc_present">Điều kiện phải được phát hiện</string>
+    <string name="field_condition_visibility_title">Kiểu nhận diện Điều kiện</string>
+    <string name="field_counter_name_already_declared">Tên bộ đếm này đã tồn tại</string>
+    <string name="field_counter_operation_value_label">Giá trị</string>
+    <string name="field_counter_selection_desc">Giá trị bắt đầu: %1$s</string>
+    <string name="field_counter_selection_desc_empty">Bấm vào đây để chọn bộ đếm</string>
+    <string name="field_counter_selection_title_empty">Không có bộ đếm nào được chọn</string>
+    <string name="field_counters_desc">%1$d Đã xác định bộ đếm</string>
+    <string name="field_counters_desc_empty">Không có bộ đếm nào được xác định</string>
+    <string name="field_counters_title">Bộ đếm</string>
+    <string name="field_debug_filter_events_show_select_desc">%1$d Sự kiện</string>
+    <string name="field_debug_filter_events_show_select_desc_none">Không có Sự kiện</string>
+    <string name="field_debug_filter_events_show_title">Bộ lọc</string>
+    <string name="field_debug_filter_image_events_show_desc_off">Ẩn tất cả các lần xuất hiện Sự kiện Hình ảnh trong dòng thời gian</string>
+    <string name="field_debug_filter_image_events_show_desc_on">Hiển thị các lần xuất hiện Sự kiện Hình ảnh trong dòng thời gian</string>
+    <string name="field_debug_filter_image_events_title">Sự kiện hình ảnh</string>
+    <string name="field_debug_filter_trigger_events_show_desc_off">Ẩn tất cả các lần xuất hiện Sự kiện kích hoạt trong dòng thời gian</string>
+    <string name="field_debug_filter_trigger_events_show_desc_on">Hiển thị các lần xuất hiện Sự kiện kích hoạt trong dòng thời gian</string>
+    <string name="field_debug_filter_trigger_events_title">Sự kiện kích hoạt</string>
+    <string name="field_detection_type_desc_exact">Phát hiện tại vị trí đã chụp</string>
+    <string name="field_detection_type_desc_screen">Phát hiện trên toàn màn hình</string>
+    <string name="field_detection_type_title">Loại phát hiện</string>
+    <string name="field_dropdown_item_notification_importance_type_default">Bình thường</string>
+    <string name="field_dropdown_item_notification_importance_type_default_desc">Tạo ra âm thanh.</string>
+    <string name="field_dropdown_item_notification_importance_type_high">Cao</string>
+    <string name="field_dropdown_item_notification_importance_type_high_desc">Tạo ra âm thanh và xuất hiện dưới dạng cảnh báo.</string>
+    <string name="field_dropdown_item_notification_importance_type_low">Thấp</string>
+    <string name="field_dropdown_item_notification_importance_type_low_desc">Không có âm thanh.</string>
+    <string name="field_dropdown_notification_importance_title">Tầm quan trọng</string>
+    <string name="field_dropdown_system_action_type_back">Quay lại</string>
+    <string name="field_dropdown_system_action_type_home">Trang chủ</string>
+    <string name="field_dropdown_system_action_type_recent_apps">Ứng dụng gần đây</string>
+    <string name="field_dropdown_system_action_type_title">Kiểu</string>
+    <string name="field_event_cooldown_desc">Bỏ qua Sự kiện này trong một khoảng thời gian nhất định sau khi được thực hiện.</string>
+    <string name="field_event_cooldown_edit_label">Khoảng thời gian</string>
+    <string name="field_event_cooldown_title">Thời gian hồi</string>
+    <string name="field_event_keep_detecting_desc_disabled">Khi Sự kiện này được kích hoạt, nó sẽ chạy lại từ đầu danh sách</string>
+    <string name="field_event_keep_detecting_desc_enabled">Khi Sự kiện này được kích hoạt, nó sẽ tiếp tục chạy đến cuối danh sách</string>
+    <string name="field_event_keep_detecting_title">Tiếp tục thực thi</string>
+    <string name="field_event_state_desc_disabled">Đã Tắt Sự kiện (nó vẫn có thể Bật/Tắt bằng cách dùng hành động: Thay đổi trạng thái Bật/Tắt của Sự kiện)</string>
+    <string name="field_event_state_desc_enabled">Đã Bật Sự kiện (nó vẫn có thể Bật/Tắt bằng cách dùng hành động: Thay đổi trạng thái Bật/Tắt của Sự kiện)</string>
+    <string name="field_event_state_title">Bật/Tắt Sự kiện</string>
+    <string name="field_force_entire_screen_desc">Buộc bộ chọn chụp màn hình thành "Toàn bộ màn hình". Có thể không hoạt động tùy thuộc vào thiết bị của bạn</string>
+    <string name="field_force_entire_screen_title">Buộc toàn bộ màn hình</string>
+    <string name="field_input_block_workaround_desc">Trên thiết bị Pixel chạy Android 15, việc sử dụng trình nhấp chuột tự động có thể chặn màn hình cảm ứng.
+Để bỏ chặn, bạn cần chạm vào màn hình bằng nhiều ngón tay cùng lúc. Cài đặt này cố gắng mô phỏng điều này cứ sau 10 giây.</string>
+    <string name="field_input_block_workaround_title">Bỏ chặn màn hình cảm ứng</string>
+    <string name="field_input_set_text_text_to_write_title">Chữ</string>
+    <string name="field_intent_action_label">Hoạt động</string>
+    <string name="field_intent_broadcast_action_label">Hành động phát sóng</string>
+    <string name="field_intent_component_name_label">Tên thành phần</string>
+    <string name="field_intent_extra_key_label">Chìa khóa</string>
+    <string name="field_intent_extra_title">Tiện ích bổ sung</string>
+    <string name="field_intent_extra_value_title">Giá trị</string>
+    <string name="field_intent_flags_label">Cờ</string>
+    <string name="field_label_counter_starting_value">Giá trị ban đầu</string>
+    <string name="field_legacy_action_ui_desc">Thay đổi hiển thị hành động theo danh sách. Hữu ích cho các tình huống phức tạp.</string>
+    <string name="field_legacy_action_ui_title">Giao diện người dùng hành động kế thừa</string>
+    <string name="field_legacy_notification_ui_desc">Sử dụng các nút hệ thống thay vì các nút biểu tượng trong thông báo.</string>
+    <string name="field_legacy_notification_ui_title">Giao diện người dùng thông báo kế thừa</string>
+    <string name="field_new_counter_starting_value">Giá trị ban đầu</string>
+    <string name="field_notification_message_text_label">Nội dung</string>
+    <string name="field_number_condition_effect_title">Chi tiết Sự kiện</string>
+    <string name="field_number_condition_number_format_label">Định dạng số phát hiện</string>
+    <string name="field_operator_desc_and">Phải thỏa mãn tất cả điều kiện để kích hoạt hành động</string>
+    <string name="field_operator_desc_or">​Chỉ cần thỏa mãn một điều kiện để kích hoạt hành động</string>
+    <string name="field_operator_title">Toán tử</string>
+    <string name="field_privacy">Cài đặt quyền riêng tư</string>
+    <string name="field_remove_ads">Xóa quảng cáo</string>
+    <string name="field_scenario_fps_dropdown_item_minute">Phút</string>
+    <string name="field_scenario_fps_dropdown_item_second">Giây</string>
+    <string name="field_scenario_fps_limit_desc">Giới hạn tần suất xử lý kịch bản của bạn để tiết kiệm pin. Việc phát hiện sẽ chậm hơn.</string>
+    <string name="field_scenario_fps_limit_disable_rate">∞</string>
+    <string name="field_scenario_fps_limit_title">Giới hạn thực thi</string>
+    <string name="field_scenario_fps_rate_label">Thi hành</string>
+    <string name="field_scenario_fps_rate_unit_label">Trên</string>
+    <string name="field_scenario_keep_screen_on_disabled">Sử dụng hoạt động bình thường của màn hình thiết bị.</string>
+    <string name="field_scenario_keep_screen_on_enabled">Giữ màn hình thiết bị luôn bật trong khi phát hiện.</string>
+    <string name="field_scenario_keep_screen_on_title">Giữ màn hình luôn bật</string>
+    <string name="field_scenario_quality_description">Để tăng tốc độ nhận diện, Klick'r sẽ giảm độ phân giải của hình ảnh trước khi quét.
+
+Nếu bạn tăng độ phân giải, quá trình nhận diện sẽ chậm hơn nhưng chính xác hơn. Nếu giảm độ phân giải, tốc độ nhận diện sẽ nhanh hơn nhưng kém chính xác hơn. Hãy cân đối giữa độ phân giải nhận diện và ngưỡng điều kiện để kịch bản hoạt động tối ưu nhất!</string>
+    <string name="field_scenario_quality_resolution">%1$d x %2$d</string>
+    <string name="field_scenario_quality_title">Độ phân giải phát hiện</string>
+    <string name="field_select_detection_area_desc">Trong [%1$d, %2$d, %3$d, %4$d]</string>
+    <string name="field_select_detection_area_title">Khu vực phát hiện</string>
+    <string name="field_select_toggle_events_desc_empty">Chọn ít nhất một Sự kiện để thay đổi sang trạng thái</string>
+    <string name="field_select_toggle_events_title">%1$d thay đổi</string>
+    <string name="field_select_toggle_events_title_empty">Không có thay đổi</string>
+    <string name="field_set_text_validate_desc_disabled">Chỉ cần viết văn bản</string>
+    <string name="field_set_text_validate_desc_enabled">Nhấn Enter sau khi viết văn bản</string>
+    <string name="field_set_text_validate_title">Xác thực văn bản</string>
+    <string name="field_show_debug_report_desc_available">Báo cáo gỡ lỗi có sẵn</string>
+    <string name="field_show_debug_report_desc_not_available">Không có báo cáo gỡ lỗi</string>
+    <string name="field_show_debug_report_title">Hiển thị báo cáo</string>
+    <string name="field_show_debug_view_desc">Hiển thị các Sự kiện được kích hoạt trong khi phát hiện.</string>
+    <string name="field_show_debug_view_title">Hiển thị chế độ xem gỡ lỗi</string>
+    <string name="field_show_scenario_filters_ui_desc">Hiển thị hoặc ẩn các bộ lọc trong màn hình danh sách kịch bản.</string>
+    <string name="field_show_scenario_filters_ui_title">Hiển thị bộ lọc kịch bản</string>
+    <string name="field_swipe_positions_desc">Vuốt từ %1$d, %2$d sang %3$d, %4$d</string>
+    <string name="field_swipe_positions_title">Vuốt vị trí</string>
+    <string name="field_text_detection_alphabet_title">Bảng chữ cái</string>
+    <string name="field_text_to_detect_label">Văn bản cần phát hiện</string>
+    <string name="field_timer_restart_desc_off">Khi đạt mốc thời gian, bộ đếm giờ sẽ không khởi động lại, đồng nghĩa với việc điều kiện này chỉ có thể được thỏa mãn một lần duy nhất.</string>
+    <string name="field_timer_restart_desc_on">Khi đạt mốc thời gian, bộ đếm giờ sẽ khởi động lại, cho phép điều kiện này có thể được thỏa mãn thêm lần nữa.</string>
+    <string name="field_timer_restart_title">Khởi động lại khi đạt</string>
+    <string name="field_troubleshooting">Khắc phục sự cố</string>
+    <string name="generic_area_desc">[%1$d - %2$d; %3$d - %4$d]</string>
+    <string name="generic_condition_threshold_title">Chênh lệch chấp nhận được</string>
+    <string name="generic_config">Cấu hình</string>
+    <string name="generic_counters">Bộ đếm</string>
+    <string name="generic_detection_area_desc_empty">Bạn phải xác định một khu vực phát hiện. Nhấn vào đây để xác định một</string>
+    <string name="generic_detection_area_title">Khu vực phát hiện</string>
+    <string name="generic_modify">Biến đổi</string>
+    <string name="generic_name">Tên</string>
+    <string name="generic_select_the_position">Chọn vị trí</string>
+    <string name="input_field_error_required">Yêu cầu</string>
+    <string name="input_field_label_anti_detection">Chống phát hiện</string>
+    <string name="input_field_label_click_press_duration">Thời lượng nhấn (ms)</string>
+    <string name="input_field_label_maximum_duration">Thời lượng tối đa (phút)</string>
+    <string name="input_field_label_name">Tên</string>
+    <string name="input_field_label_pause_duration">Thời gian tạm dừng</string>
+    <string name="input_field_label_repeat_count">Số lần lặp lại</string>
+    <string name="input_field_label_repeat_delay">Độ trễ lặp lại (ms)</string>
+    <string name="input_field_label_scenario_name">Tên kịch bản</string>
+    <string name="input_field_label_swipe_duration">Thời lượng vuốt (ms)</string>
+    <string name="input_field_label_timer_duration_no_unit">After</string>
+    <string name="item_alphabet_name_arabic">Arabic</string>
+    <string name="item_alphabet_name_arabic_desc">أبج</string>
+    <string name="item_alphabet_name_chinese_simplified">Chinese simplified</string>
+    <string name="item_alphabet_name_chinese_simplified_desc">汉字</string>
+    <string name="item_alphabet_name_chinese_traditional">Chinese traditional</string>
+    <string name="item_alphabet_name_chinese_traditional_desc">漢字</string>
+    <string name="item_alphabet_name_cyrillic">Cyrillic</string>
+    <string name="item_alphabet_name_cyrillic_desc">АБВ</string>
+    <string name="item_alphabet_name_devanagari">Devanagari</string>
+    <string name="item_alphabet_name_devanagari_desc">अआइ</string>
+    <string name="item_alphabet_name_japanese">Japanese</string>
+    <string name="item_alphabet_name_japanese_desc">あア日</string>
+    <string name="item_alphabet_name_kannada">Kannada</string>
+    <string name="item_alphabet_name_kannada_desc">ಅಆಇ</string>
+    <string name="item_alphabet_name_korean">Korean</string>
+    <string name="item_alphabet_name_korean_desc">가나다</string>
+    <string name="item_alphabet_name_latin">Latin</string>
+    <string name="item_alphabet_name_latin_desc">ABC</string>
+    <string name="item_alphabet_name_tamil">Tamil</string>
+    <string name="item_alphabet_name_tamil_desc">அஆஇ</string>
+    <string name="item_alphabet_name_telugu">Telugu</string>
+    <string name="item_alphabet_name_telugu_desc">అఆఇ</string>
+    <string name="item_alphabet_required_header">Để chạy kịch bản này, bạn cần tải xuống các mô hình bảng chữ cái sau.
+
+Mỗi mô hình có thể chiếm tới 5MB.</string>
+    <string name="item_alphabet_selection_header">Để sử dụng tính năng phát hiện văn bản trong trường hợp của bạn, bạn cần tải xuống mô hình bảng chữ cái có liên quan.
+
+Mỗi mô hình có thể chiếm tới 5MB.</string>
+    <string name="item_brief_items_count_land">%1$d
+—
+%2$d</string>
+    <string name="item_brief_items_count_port">%1$d/%2$d</string>
+    <string name="item_broadcast_received_desc">Hoàn thành khi nhận được Broadcast</string>
+    <string name="item_broadcast_received_details">%1$s đã nhận được</string>
+    <string name="item_broadcast_received_title">Đã nhận được khi phát sóng</string>
+    <string name="item_change_counter_desc">Thay đổi một giá trị để xác minh nó sau</string>
+    <string name="item_change_counter_details">%1$s %2$s %3$s</string>
+    <string name="item_change_counter_details_error">Bộ đếm không hợp lệ</string>
+    <string name="item_change_counter_title">Bộ đếm thay đổi</string>
+    <string name="item_click_desc">Bấm vào đâu đó trên màn hình</string>
+    <string name="item_click_details_at_position">Trong %1$s</string>
+    <string name="item_click_details_on_condition">Trong %1$s       bấm vào Sự kiện</string>
+    <string name="item_click_details_on_condition_unknown">Trong %1$s       bấm vào điều kiện</string>
+    <string name="item_click_title">nhấp chuột</string>
+    <string name="item_color_condition_desc">Hoàn thành khi một màu hiển thị ở đâu đó trên màn hình</string>
+    <string name="item_color_condition_title">Phát hiện màu</string>
+    <string name="item_copy_desc">Sao chép Hành động hiện có từ bất kỳ Kịch bản nào</string>
+    <string name="item_copy_fix_description_missing">Thiếu (các) mục được tham chiếu</string>
+    <string name="item_copy_fix_description_ok">Mục hợp lệ</string>
+    <string name="item_copy_title">Sao chép</string>
+    <string name="item_counter_desc_collapsed_no_reference">Bộ đếm này không được sử dụng. (%1$s)</string>
+    <string name="item_counter_desc_collapsed_referenced">Bộ đếm này được tham chiếu %1$d lần. (%2$s)</string>
+    <string name="item_counter_desc_expanded_no_reference">Bộ đếm này không được sử dụng.</string>
+    <string name="item_counter_desc_expanded_referenced">Bộ đếm này được tham chiếu %1$d lần.</string>
+    <string name="item_counter_reached_desc">Xác minh giá trị của bộ đếm được sửa đổi bởi Hành động</string>
+    <string name="item_counter_reached_details">%1$s %2$s %3$s</string>
+    <string name="item_counter_reached_title">Khi bộ đếm đạt đến ngưỡng</string>
+    <string name="item_counter_state_value_changed">%1$s » %2$s</string>
+    <string name="item_counter_state_value_same">%1$s</string>
+    <string name="item_desc_debug_generate_report">Ghi lại hành vi kịch bản của bạn trong khi phát hiện để tạo báo cáo.</string>
+    <string name="item_desc_dumb_action_copy">Sao chép Hành động hiện có từ bất kỳ Kịch bản nào</string>
+    <string name="item_desc_dumb_action_duration">Trong %1$s</string>
+    <string name="item_desc_dumb_click">Bấm vào đâu đó trên màn hình</string>
+    <string name="item_desc_dumb_click_details">Trong %1$s lúc [%2$d, %3$d]</string>
+    <string name="item_desc_dumb_click_on_position">Nhấp vào %1$d, %2$d</string>
+    <string name="item_desc_dumb_pause">Tạm dừng thực hiện</string>
+    <string name="item_desc_dumb_pause_details">Trong %1$s</string>
+    <string name="item_desc_dumb_repeat_count">Lặp lại %1$d lần</string>
+    <string name="item_desc_dumb_repeat_infinite">Lặp lại vô hạn</string>
+    <string name="item_desc_dumb_scenario">Trải nghiệm clicker tự động thông thường.
+Chỉ cần nhấp chuột và vuốt trên màn hình.</string>
+    <string name="item_desc_dumb_scenario_max_duration">Dừng sau %1$s</string>
+    <string name="item_desc_dumb_scenario_max_duration_infinite">Không có thời lượng tối đa</string>
+    <string name="item_desc_dumb_scenario_repeat_count">Lặp lại %1$d lần</string>
+    <string name="item_desc_dumb_scenario_repeat_infinite">Lặp lại vô hạn</string>
+    <string name="item_desc_dumb_swipe">Vuốt từ vị trí trên màn hình sang vị trí khác</string>
+    <string name="item_desc_dumb_swipe_details">Trong %1$s từ [%2$d, %3$d] đến [%4$d, %5$d]</string>
+    <string name="item_desc_dumb_swipe_positions">Vuốt từ %1$d, %2$d sang %3$d, %4$d</string>
+    <string name="item_desc_smart_scenario">Sử dụng tính năng phát hiện hình ảnh để tạo các trường hợp sử dụng phức tạp.</string>
+    <string name="item_desc_smart_scenario_pro_mode">Yêu cầu xem quảng cáo hoặc mua chế độ chuyên nghiệp</string>
+    <string name="item_desc_tutorial_color_conditions">Tìm hiểu cách phát hiện một màu cụ thể trên màn hình và nhấp vào khi nó xuất hiện</string>
+    <string name="item_desc_tutorial_combine_conditions_not_visible_target">Sử dụng tùy chọn Hiển thị để kích hoạt nhấp chuột khi mục tiêu không có trên màn hình</string>
+    <string name="item_desc_tutorial_combine_conditions_operator_and">Sử dụng điều kiện AND để chỉ nhấp khi có nhiều mục tiêu hiển thị cùng lúc</string>
+    <string name="item_desc_tutorial_combine_conditions_operator_or">Sử dụng điều kiện OR để nhấp vào mục tiêu đầu tiên xuất hiện trên màn hình</string>
+    <string name="item_desc_tutorial_counters_basics">Tìm hiểu cách sử dụng hành động Đặt bộ đếm và điều kiện Đã đạt bộ đếm.</string>
+    <string name="item_desc_tutorial_events_priority">Ưu tiên một Sự kiện hơn một Sự kiện khác</string>
+    <string name="item_desc_tutorial_events_state">Thay đổi trạng thái Bật/Tắt của Sự kiện của nhiều Sự kiện để tối ưu hóa một kịch bản phức tạp.</string>
+    <string name="item_desc_tutorial_number_conditions_static_value">So sánh một số được hiển thị trên màn hình của bạn với một giá trị được xác định trước</string>
+    <string name="item_desc_tutorial_screen_condition_moving_target">Tìm hiểu cách tạo Sự kiện để nhấp vào mục tiêu di chuyển ngẫu nhiên</string>
+    <string name="item_desc_tutorial_screen_condition_still_target">Tìm hiểu cách tạo Sự kiện đầu tiên của bạn để nhấp vào mục tiêu tĩnh</string>
+    <string name="item_desc_tutorial_text_conditions_moving_text">Tìm hiểu cách tạo Sự kiện nhấp vào văn bản chuyển động ngẫu nhiên</string>
+    <string name="item_desc_tutorial_text_conditions_still_text">Tìm hiểu cách phát hiện một văn bản cụ thể trên màn hình và nhấp vào khi nó xuất hiện</string>
+    <string name="item_desc_tutorial_timer_reached_conditions">Tìm hiểu cách kích hoạt một hành động ở một chu kỳ nhất định.</string>
+    <string name="item_error_action_invalid_generic">Hành động này không hợp lệ</string>
+    <string name="item_event_desc_disabled_children">Tắt</string>
+    <string name="item_event_desc_enabled_children">Bật</string>
+    <string name="item_event_occurrence_details_header_title">Toán tử điều kiện</string>
+    <string name="item_event_occurrence_details_image_confidence">Độ tin cậy: %1$.2f/%2$.2f</string>
+    <string name="item_event_occurrence_details_image_fulfilled">Đã hoàn thành chưa?</string>
+    <string name="item_event_occurrence_details_image_should_be_detected">Có nên phát hiện?</string>
+    <string name="item_event_occurrence_details_trigger_desc_broadcast">Đã nhận được chương trình phát sóng: %1$s</string>
+    <string name="item_event_occurrence_details_trigger_desc_counter">Đã đạt đến bộ đếm: %1$s %2$s %3$s</string>
+    <string name="item_event_occurrence_details_trigger_desc_timer">Đã đạt đến bộ hẹn giờ: %1$s</string>
+    <string name="item_event_occurrence_frame_number">Khung #%1$d</string>
+    <string name="item_event_occurrence_one_condition_fulfilled">Đã hoàn thành: %1$s</string>
+    <string name="item_event_occurrence_several_condition_processed">%1$d Điều kiện đã xử lý</string>
+    <string name="item_event_occurrence_trigger">Bộ kích hoạt</string>
+    <string name="item_event_state_header_image">Sự kiện hình ảnh</string>
+    <string name="item_event_state_header_trigger">Sự kiện kích hoạt</string>
+    <string name="item_header_event_copy_fix">Một hoặc nhiều mục trong bản sao này đang tham chiếu đến một mục không thể truy cập được.
+Bấm vào mục có vấn đề để khắc phục những vấn đề đó.</string>
+    <string name="item_image_condition_desc">Hoàn thành khi hình ảnh hiển thị ở đâu đó trên màn hình</string>
+    <string name="item_image_condition_desc_complete_threshold">Chênh lệch: %1$d%%</string>
+    <string name="item_image_condition_desc_threshold">%1$d%%</string>
+    <string name="item_image_condition_not_visible">Không hiển thị</string>
+    <string name="item_image_condition_title">Phát hiện hình ảnh</string>
+    <string name="item_image_condition_visible">Dễ thấy</string>
+    <string name="item_intent_desc">Tương tác với ứng dụng khác</string>
+    <string name="item_intent_details">Gửi %1$s</string>
+    <string name="item_intent_details_component_name">Gửi %1$s tới %2$s</string>
+    <string name="item_intent_details_start_activity">Bắt đầu %1$s</string>
+    <string name="item_intent_title">ý định</string>
+    <string name="item_notification_desc">Gửi thông báo tới thiết bị của bạn</string>
+    <string name="item_notification_details_text">Gửi "%1$s"</string>
+    <string name="item_notification_title">Thông báo</string>
+    <string name="item_number_condition_desc">Hoàn thành khi một số hiển thị ở đâu đó trên màn hình</string>
+    <string name="item_number_condition_title">Phát hiện số</string>
+    <string name="item_pause_desc">Tạm dừng thực hiện phát hiện</string>
+    <string name="item_pause_details">Trong %1$s</string>
+    <string name="item_pause_title">Chờ đợi</string>
+    <string name="item_scenario_filter_by_most_used">Công dụng</string>
+    <string name="item_scenario_filter_by_name">Tên</string>
+    <string name="item_scenario_filter_by_recent">Gần đây</string>
+    <string name="item_scenario_last_used_never">Chưa bao giờ sử dụng</string>
+    <string name="item_set_text_desc">Viết văn bản trong chế độ xem hiện được đặt tiêu điểm</string>
+    <string name="item_set_text_details_text">%1$s</string>
+    <string name="item_set_text_details_text_empty">Xóa văn bản</string>
+    <string name="item_set_text_title">Viết văn bản</string>
+    <string name="item_swipe_desc">Vuốt từ vị trí trên màn hình sang vị trí khác</string>
+    <string name="item_swipe_details">Trong %1$s</string>
+    <string name="item_swipe_title">Vuốt</string>
+    <string name="item_system_action_desc">Sử dụng tác vụ của hệ thống Android (trở lại, về nhà hoặc ứng dụng gần đây)</string>
+    <string name="item_system_action_details_text">%1$s</string>
+    <string name="item_system_action_title">Hành động hệ thống</string>
+    <string name="item_text_condition_desc">Hoàn thành khi văn bản hiển thị ở đâu đó trên màn hình</string>
+    <string name="item_text_condition_title">Phát hiện văn bản</string>
+    <string name="item_timer_reached_desc">Hoàn thành sau một thời gian xác định kể từ lần kích hoạt kích hoạt này</string>
+    <string name="item_timer_reached_details">%1$s sau khi Sự kiện được kích hoạt</string>
+    <string name="item_timer_reached_title">Đã đạt đến thời gian hẹn giờ</string>
+    <string name="item_title_backup_create_select_file">Chọn tập tin đầu ra</string>
+    <string name="item_title_backup_import_select_file">Chọn tập tin sao lưu</string>
+    <string name="item_title_debug_generate_report">Tạo báo cáo</string>
+    <string name="item_title_dumb_action_copy">Sao chép</string>
+    <string name="item_title_dumb_click">nhấp chuột</string>
+    <string name="item_title_dumb_pause">Chờ đợi</string>
+    <string name="item_title_dumb_scenario">Đơn giản</string>
+    <string name="item_title_dumb_swipe">Vuốt</string>
+    <string name="item_title_report_avg_image_processing_duration">Thời gian xử lý trung bình</string>
+    <string name="item_title_report_frame_processed">Khung đã được xử lý</string>
+    <string name="item_title_report_image_event_fulfilled">Sự kiện màn hình đã hoàn thành</string>
+    <string name="item_title_report_total_duration">Tổng thời lượng</string>
+    <string name="item_title_report_trigger_event_fulfilled">Sự kiện kích hoạt đã được thực hiện</string>
+    <string name="item_title_smart_scenario">Thông minh</string>
+    <string name="item_title_try_element">Kiểm tra %1$s</string>
+    <string name="item_title_tutorial_color_conditions">Phát hiện màu cho một pixel nhất định</string>
+    <string name="item_title_tutorial_combine_conditions_not_visible_target">Độ hiển thị điều kiện</string>
+    <string name="item_title_tutorial_combine_conditions_operator_and">Điều kiện AND</string>
+    <string name="item_title_tutorial_combine_conditions_operator_or">Điều kiện OR</string>
+    <string name="item_title_tutorial_counters_basics">Thông tin cơ bản về bộ đếm</string>
+    <string name="item_title_tutorial_events_priority">Ưu tiên một Sự kiện</string>
+    <string name="item_title_tutorial_events_state">Vô hiệu hóa các Sự kiện không sử dụng</string>
+    <string name="item_title_tutorial_number_conditions_static_value">Phát hiện một số trên màn hình</string>
+    <string name="item_title_tutorial_screen_condition_moving_target">Nhấn một mục tiêu di chuyển</string>
+    <string name="item_title_tutorial_screen_condition_still_target">Nhấn một mục tiêu tĩnh</string>
+    <string name="item_title_tutorial_text_conditions_moving_text">Phát hiện văn bản chuyển động trên màn hình</string>
+    <string name="item_title_tutorial_text_conditions_still_text">Phát hiện văn bản trên màn hình</string>
+    <string name="item_title_tutorial_timer_reached_conditions">Đã đạt đến thời gian bật</string>
+    <string name="item_toggle_event_desc">Thay đổi trạng thái Bật/Tắt của Sự kiện</string>
+    <string name="item_toggle_event_details_disable_all">Vô hiệu hóa tất cả</string>
+    <string name="item_toggle_event_details_enable_all">Kích hoạt tất cả</string>
+    <string name="item_toggle_event_details_error">Không tìm thấy Sự kiện mục tiêu</string>
+    <string name="item_toggle_event_details_invert_all">Đảo ngược tất cả</string>
+    <string name="item_toggle_event_details_manual">Thay đổi Sự kiện %1$d</string>
+    <string name="item_toggle_event_title">Thay đổi trạng thái Bật/Tắt của Sự kiện</string>
+    <string name="item_view_role_description">Thẻ</string>
+    <string name="list_header_copy_action_all">Hành động từ tất cả các kịch bản</string>
+    <string name="list_header_copy_action_this">Hành động từ Sự kiện này</string>
+    <string name="list_header_copy_action_this_scenario">Hành động từ kịch bản này</string>
+    <string name="list_header_copy_conditions_all">Điều kiện từ tất cả kịch bản</string>
+    <string name="list_header_copy_conditions_this">Điều kiện từ Sự kiện này</string>
+    <string name="list_header_copy_conditions_this_scenario">Điều kiện từ kịch bản này</string>
+    <string name="list_header_copy_dumb_action_all">Hành động từ tất cả các kịch bản</string>
+    <string name="list_header_copy_dumb_action_this">Hành động từ kịch bản này</string>
+    <string name="list_header_copy_event_all">Sự kiện từ mọi tình huống</string>
+    <string name="list_header_copy_event_this">Sự kiện từ kịch bản này</string>
+    <string name="list_header_image_events">Sự kiện màn hình</string>
+    <string name="list_header_trigger_events">Sự kiện kích hoạt</string>
+    <string name="m3_exceed_max_badge_text_suffix">%1$s%2$s</string>
+    <string name="m3_loading_indicator_content_description">Đang tải</string>
+    <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_brand_regular">sans-serif</string>
+    <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+    <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0, 1, 1)</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0, 0, 0.2, 1)</string>
+    <string name="m3_sys_motion_easing_linear">cubic-bezier(0, 0, 1, 1)</string>
+    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0, 0, 1)</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="material_slider_range_end">Cuối phạm vi</string>
+    <string name="material_slider_range_start">Bắt đầu phạm vi</string>
+    <string name="material_slider_value">Giá trị</string>
+    <string name="menu_item_debug_event_occurrence_conditions">Các điều kiện</string>
+    <string name="menu_item_debug_event_occurrence_counters">Bộ đếm</string>
+    <string name="menu_item_debug_event_occurrence_events_state">tiểu bang</string>
+    <string name="menu_item_debug_report_overview">Tổng quan</string>
+    <string name="menu_item_debug_report_timeline">Dòng thời gian</string>
+    <string name="menu_item_title_actions">hành động</string>
+    <string name="menu_item_title_advanced">Trình độ cao</string>
+    <string name="menu_item_title_cancel">Hủy bỏ</string>
+    <string name="menu_item_title_conditions">Các điều kiện</string>
+    <string name="menu_item_title_dumb_actions">hành động</string>
+    <string name="menu_item_title_dumb_config">Cấu hình</string>
+    <string name="menu_item_title_export">Xuất</string>
+    <string name="menu_item_title_image_events">Màn hình</string>
+    <string name="menu_item_title_import">Nhập</string>
+    <string name="menu_item_title_more">Hơn</string>
+    <string name="menu_item_title_search">Tìm kiếm</string>
+    <string name="menu_item_title_select_all">Chọn tất cả</string>
+    <string name="menu_item_title_settings">Cài đặt</string>
+    <string name="menu_item_title_simple">Đơn giản</string>
+    <string name="menu_item_title_state">Trạng thái</string>
+    <string name="menu_item_title_trigger_events">Trình kích hoạt</string>
+    <string name="message_accessibility_issues">Có vẻ như quyền Dịch vụ trợ năng đã bị xóa nhiều lần. Nếu bạn chưa tự thay đổi thì điều này có nghĩa là thiết bị của bạn đã xóa nó.
+
+ Một số nhà sản xuất thiết bị Android không tôn trọng hành vi tiêu chuẩn về ứng dụng nền và tùy thuộc vào thương hiệu thiết bị của bạn, bạn có thể cần phải thực hiện cấu hình bổ sung.
+
+ Vui lòng tham khảo trang web sau để tìm hiểu sâu hơn về vấn đề đó và cách bạn có thể cải thiện tính ổn định của quyền.</string>
+    <string name="message_backup">Tạo hoặc nhập kho lưu trữ zip của các kịch bản</string>
+    <string name="message_backup_create_completed">Sao lưu hoàn tất</string>
+    <string name="message_backup_create_error">Đã xảy ra lỗi và quá trình xuất bản sao lưu đã bị hủy</string>
+    <string name="message_backup_create_progress">Đang tạo bản sao lưu: %1$d/%2$d</string>
+    <string name="message_backup_error_no_zip_app">Không tìm thấy ứng dụng nào trên thiết bị để xử lý việc lưu/tải tệp zip.</string>
+    <string name="message_backup_import_compatibility">Một số kịch bản được nhập vào đã được tạo từ thiết bị có kích thước màn hình khác, điều này có thể gây ra lỗi nhận diện và lệch tọa độ hành động.
+
+Để khắc phục, bạn cần chụp lại ảnh màn hình mới cho các điều kiện và cập nhật lại vị trí nhấp/vuốt của mình.</string>
+    <string name="message_backup_import_completed">Đã nhập xong
+Đã nhập %1$d kịch bản</string>
+    <string name="message_backup_import_completed_with_error">Đã nhập xong
+Đã nhập %1$d kịch bản
+%2$d lỗi</string>
+    <string name="message_backup_import_error">Đã xảy ra lỗi và quá trình nhập bản sao lưu đã bị hủy</string>
+    <string name="message_backup_import_progress">Đang nhập bản sao lưu: %1$d</string>
+    <string name="message_backup_import_verification">Xác minh dữ liệu</string>
+    <string name="message_click_count">Số lần nhấp chuột:
+%1$d/%2$d</string>
+    <string name="message_condition_migration_count">%1$d Các điều kiện hình ảnh cần chuyển đổi dữ liệu.</string>
+    <string name="message_condition_migration_desc">Định dạng hình ảnh của Klick'r đã thay đổi và kịch bản của bạn cần được cập nhật. Quá trình này có thể mất vài phút tùy thuộc vào số lượng điều kiện cần chuyển đổi dữ liệu.</string>
+    <string name="message_condition_migration_error">Một số điều kiện không thể chuyển đổi dữ liệu. Vui lòng kiểm tra lại các kịch bản của bạn.</string>
+    <string name="message_condition_migration_success">Đã chuyển đổi dữ liệu tất cả điều kiện hình ảnh.</string>
+    <string name="message_delete_scenario">Thao tác này sẽ xóa %1$s. Bạn có chắc không?</string>
+    <string name="message_dont_show_again">Không hiển thị lại thông báo này</string>
+    <string name="message_dumb_brief_empty_action_list">Bạn cần ít nhất một hành động để thực hiện một kịch bản</string>
+    <string name="message_empty_action_list_desc">Hành động là một tương tác (nhấp, vuốt…) với điện thoại của bạn, được kích hoạt khi các điều kiện đã tạo được thỏa mãn.</string>
+    <string name="message_empty_action_list_title">Không có hành động!</string>
+    <string name="message_empty_copy">Không có gì để sao chép</string>
+    <string name="message_empty_counter_name_list_desc">Bộ đếm lưu trữ một giá trị số có thể thay đổi, kiểm tra hoặc sử dụng trong các Hành động hoặc Điều kiện của bạn.</string>
+    <string name="message_empty_counter_name_list_title">Không có bộ đếm được xác định</string>
+    <string name="message_empty_dumb_action_list">Không có hành động nào được tạo!</string>
+    <string name="message_empty_image_events_scenario_list">Không có Sự kiện hình ảnh</string>
+    <string name="message_empty_scenario_list">Tạo kịch bản đầu tiên của bạn và bắt đầu tự động hóa các tác vụ trên điện thoại của bạn</string>
+    <string name="message_empty_screen_condition_list_desc">Điều kiện màn hình là một phần của ảnh chụp màn hình sẽ được tìm kiếm trên từng khung hình hiển thị bởi màn hình điện thoại của bạn.</string>
+    <string name="message_empty_screen_condition_list_title">Không có điều kiện màn hình nào!</string>
+    <string name="message_empty_screen_event_desc">Sự kiện màn hình chứa một tập hợp các hành động được thực thi khi một điều kiện cụ thể được phát hiện trên màn hình.
+Bạn cần ít nhất một Sự kiện màn hình hoặc Sự kiện kích hoạt trong kịch bản để có thể thực thi nó.</string>
+    <string name="message_empty_screen_event_title">Không có Sự kiện màn hình nào!</string>
+    <string name="message_empty_secondary_dumb_action_list">Bạn cần ít nhất một hành động để chạy kịch bản</string>
+    <string name="message_empty_trigger_condition_list_desc">Sự kiện là tiêu chí tùy chỉnh để bắt đầu một hành động.</string>
+    <string name="message_empty_trigger_condition_list_title">Không có điều kiện nào!</string>
+    <string name="message_empty_trigger_event_list_desc">Sự kiện kích hoạt chứa một tập hợp các hành động được thực thi khi một tập hợp các điều kiện tùy chỉnh được đáp ứng.
+Bạn cần ít nhất một Sự kiện màn hình hoặc Sự kiện kích hoạt trong kịch bản để có thể thực thi nó.</string>
+    <string name="message_empty_trigger_event_list_title">Không có Sự kiện kích hoạt!</string>
+    <string name="message_error_screen_capture_permission_dialog_not_found">Thiết bị của bạn không cung cấp hộp thoại cấp phép chụp màn hình Android tiêu chuẩn. Klick'r sẽ không thể chạy trên đó.</string>
+    <string name="message_game_tutorial_color_conditions">Bấm vào nút màu xanh càng nhanh càng tốt</string>
+    <string name="message_game_tutorial_combine_conditions_not_visible_target">Chỉ nhấp vào nút màu xanh khi không nhìn thấy nút màu đỏ</string>
+    <string name="message_game_tutorial_combine_conditions_operator_and">Chỉ nhấp vào nút màu xanh khi cả hai mục tiêu màu xanh và đỏ đều hiển thị</string>
+    <string name="message_game_tutorial_combine_conditions_operator_or">Nhấp vào bất kỳ mục tiêu nào ngay khi nó xuất hiện trên màn hình</string>
+    <string name="message_game_tutorial_counters_basics">Nhấp 10 lần vào mục tiêu màu xanh, sau đó nhấp một lần vào mục tiêu màu đỏ</string>
+    <string name="message_game_tutorial_events_priority">Nhấp chuột càng nhanh càng tốt vào các mục tiêu. Màu xanh = 1 điểm; Đỏ = 10 điểm</string>
+    <string name="message_game_tutorial_events_state">Bấm vào các mục tiêu theo thứ tự: xanh dương, đỏ, xanh lá cây và sau đó là vàng.</string>
+    <string name="message_game_tutorial_number_conditions_static_value">Chỉ nhấp khi giá trị trên 9000!</string>
+    <string name="message_game_tutorial_screen_condition_moving_target">Bấm vào nút màu xanh di chuyển càng nhanh càng tốt</string>
+    <string name="message_game_tutorial_screen_condition_still_target">Bấm vào nút màu xanh càng nhanh càng tốt</string>
+    <string name="message_game_tutorial_text_conditions_moving_text">Chỉ nhấp vào nút "Hello", càng nhanh càng tốt</string>
+    <string name="message_game_tutorial_text_conditions_still_text">Bấm vào nút khi nó hiển thị "Hello", càng nhanh càng tốt</string>
+    <string name="message_game_tutorial_timer_reached_conditions">Nhấp vào nút mỗi giây trong 5 giây. Hãy cố gắng duy trì sự nhất quán để đạt điểm cao hơn!</string>
+    <string name="message_high_score">Tốt nhất: %1$d</string>
+    <string name="message_last_diff">Cuối cùng:
+%1$sms</string>
+    <string name="message_notification_config">Hành vi thông báo tùy thuộc vào hệ điều hành thiết bị của bạn. Bạn có thể định cấu hình cách xử lý thông báo trong cài đặt thiết bị của mình.</string>
+    <string name="message_number_condition_counter_value_desc">Số được phát hiện phải là giá trị %1$s bộ đếm "%2$s"</string>
+    <string name="message_number_condition_static_value_desc">Số được phát hiện phải là %1$s %2$s</string>
+    <string name="message_permission_desc_accessibility">Quyền dịch vụ trợ năng cho phép Klick'r thực hiện cử chỉ trên màn hình thiết bị của bạn. Quyền này là bắt buộc để thực hiện các thao tác nhấp và vuốt mà bạn sẽ tạo trong các kịch bản tự động hóa của mình.
+
+Không có dữ liệu nào được Klick'r thu thập
+
+Để cấp quyền cho dịch vụ Trợ năng, hãy nhấp vào nút bên dưới.</string>
+    <string name="message_permission_desc_notification">Tùy chọn: Hiển thị thông báo khi ứng dụng đang chạy để dễ dàng quay lại màn hình chọn kịch bản.</string>
+    <string name="message_permission_desc_overlay">Cần có quyền lớp phủ để hiển thị giao diện Klick'r trên các ứng dụng bạn muốn tự động hóa, cho phép bạn định cấu hình kịch bản của mình mà không cần dừng ứng dụng khác.</string>
+    <string name="message_permission_mandatory_denied">Sự cho phép này là bắt buộc đối với Klick'r. Nó sẽ không thể hoạt động chính xác nếu không có nó.</string>
+    <string name="message_replace_by">Thay thế bằng…</string>
+    <string name="message_score">Người chơi: %1$d</string>
+    <string name="message_set_text_focus">Để viết văn bản vào vị trí mong muốn, trước tiên bạn cần tập trung vào trường văn bản bằng cách nhấp vào nó.
+
+Xin lưu ý rằng tùy thuộc vào ứng dụng, bạn có thể phải đợi một chút sau khi nhấp vào, nếu không văn bản sẽ được viết quá sớm.
+
+Đây cũng có thể là những ứng dụng không hoạt động không hỗ trợ tính năng viết văn bản tiêu chuẩn, vì vậy, hãy luôn kiểm tra hành động của bạn trước!</string>
+    <string name="message_target_diff">Mục tiêu:
+±%1$dms</string>
+    <string name="message_time_left">Thời gian còn lại: %1$d</string>
+    <string name="message_total_diff">Tổng số:
+%1$sms</string>
+    <string name="message_tutorial_color_conditions_step_1">Chào mừng bạn đến với hướng dẫn về Sự kiện màu sắc!
+
+Tại đây, bạn sẽ cố gắng vượt qua số điểm cao của trò chơi với sự trợ giúp của Klick'r.
+
+Trước tiên, bạn có thể thử bằng cách nhấn bắt đầu trò chơi hoặc trực tiếp tiến hành cài đặt Kịch bản.</string>
+    <string name="message_tutorial_color_conditions_step_10">Đóng danh sách Sự kiện để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_color_conditions_step_11">Với Sự kiện này, kịch bản sẽ biết khi nào nên kích hoạt Hành động.
+
+ Bây giờ bạn cần xác định Hành động nào sẽ kích hoạt, vì vậy, đối với trò chơi này, hãy nhấp vào nút màu xanh lam.
+
+Bấm vào Hành động để hiển thị danh sách Hành động.</string>
+    <string name="message_tutorial_color_conditions_step_12">Hành động là hành động được thực hiện sau khi các Sự kiện của Sự kiện của nó được đáp ứng.
+
+Đó có thể là một lần nhấp, vuốt, tạm dừng, Ý định (tương tác với ứng dụng khác) hoặc thay đổi trong quá trình thực thi Kịch bản và nhiều Hành động có thể được xác định cho cùng một Sự kiện.
+
+Nhấp vào nút tạo Hành động để tạo Hành động đầu tiên của bạn.</string>
+    <string name="message_tutorial_color_conditions_step_13">Đầu tiên, chúng ta cần chọn loại cho Hành động của bạn.
+
+Đối với trò chơi này, chúng ta chỉ cần nhấn vào nút màu xanh lam nên hãy chọn Click để tạo Hành động Click mới.</string>
+    <string name="message_tutorial_color_conditions_step_14">Hành động nhấp chuột được xác định bởi vị trí và thời lượng nhấn.
+
+Vì muốn nhấp chuột nhanh nhất có thể nên chúng ta có thể giữ thời lượng nhấn mặc định là 1ms, đây là giá trị thấp nhất có thể. Vì vậy, chúng ta chỉ cần xác định một vị trí.
+
+Bấm vào nút chọn vị trí để chọn vị trí Hành động Bấm.</string>
+    <string name="message_tutorial_color_conditions_step_15">Bạn cần chọn chính xác vị trí cần nhấp, vì vậy bạn cần bắt đầu lại trò chơi để hiển thị nút màu xanh lam, sau đó chọn vị trí của nó.
+
+Khi vị trí đã chính xác, hãy nhấp vào nút xác thực để lưu nó.</string>
+    <string name="message_tutorial_color_conditions_step_16">Nhấp chuột hiện đã được cấu hình chính xác!
+
+Nhấp vào nút lưu để đăng ký và quay lại danh sách Hành động.</string>
+    <string name="message_tutorial_color_conditions_step_17">Đóng danh sách Hành động để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_color_conditions_step_18">Sự kiện của bạn hiện có Sự kiện và Hành động, có nghĩa là Sự kiện biết phải thực hiện điều gì và khi nào thực hiện.
+
+Nhấp vào nút lưu để đăng ký và quay lại hộp thoại Kịch bản.</string>
+    <string name="message_tutorial_color_conditions_step_19">Yêu cầu duy nhất đối với Kịch bản là phải có ít nhất một Sự kiện.
+ Vì Sự kiện của chúng tôi đã đề cập đến cách giành chiến thắng trong trò chơi nên chúng tôi không cần bất cứ điều gì khác.
+
+Nhấp vào nút lưu để lưu Kịch bản trong cơ sở dữ liệu và đóng hộp thoại cấu hình.</string>
+    <string name="message_tutorial_color_conditions_step_2">Cũng giống như bất kỳ Sự kiện màn hình nào khác, trước tiên chúng ta cần tạo Sự kiện màn hình.</string>
+    <string name="message_tutorial_color_conditions_step_20">Như bạn có thể thấy, nút phát hiện có sẵn, nghĩa là Kịch bản của bạn hợp lệ và có thể được sử dụng để phát hiện.
+
+Click vào nó để bắt đầu phát hiện.</string>
+    <string name="message_tutorial_color_conditions_step_21">Nó đang chơi nhưng không có gì xảy ra?
+
+Điều đó là bình thường, nó sẽ chỉ nhấp khi nhìn thấy nút màu xanh, nhớ không? Trong khi vẫn tiếp tục kịch bản, hãy nhấn nút bắt đầu trò chơi và chỉ cần xem Klick'r sẽ đánh bại nó giúp bạn!</string>
+    <string name="message_tutorial_color_conditions_step_22">Chúc mừng!
+
+Bây giờ bạn đã biết những điều cơ bản về Klick'r, nhưng không phải tất cả các trường hợp sử dụng đều đơn giản như trò chơi này.
+Hãy xem các hướng dẫn khác để khám phá thêm các trường hợp sử dụng.</string>
+    <string name="message_tutorial_color_conditions_step_3">Bây giờ, hãy nhấp vào trường Sự kiện để mở danh sách Sự kiện.</string>
+    <string name="message_tutorial_color_conditions_step_4">Chúng ta cần tạo Điều kiện. Bấm vào Tạo.</string>
+    <string name="message_tutorial_color_conditions_step_5">Trong phần hướng dẫn này, chúng ta sẽ học cách phát hiện màu sắc trên màn hình, vì vậy hãy chọn Điều kiện màu sắc</string>
+    <string name="message_tutorial_color_conditions_step_6">Bước đầu tiên để tạo một Điều kiện là chụp ảnh màn hình và sau đó chọn một màu cho nó.
+
+Vì chúng ta muốn nhấp khi nút màu xanh dương hiển thị, ảnh chụp màn hình bắt buộc phải chứa nút đó. Hãy mở lại trò chơi để nút xuất hiện, sau đó chụp ảnh màn hình.</string>
+    <string name="message_tutorial_color_conditions_step_7">Bây giờ, bạn có thể chọn điểm ảnh để theo dõi màu sắc. Bạn có thể nhấn trực tiếp lên màn hình để chọn một điểm ảnh, khung nhìn phóng to sẽ xuất hiện giúp bạn quan sát rõ hơn.</string>
+    <string name="message_tutorial_color_conditions_step_8">Hãy thử chọn một vị trí trên phần màu xanh lá hoặc xanh dương của mục tiêu, vì đó là phần chúng ta muốn phát hiện để chiến thắng trò chơi.</string>
+    <string name="message_tutorial_color_conditions_step_9">Màu sắc Điều kiện của bạn hiện đã được ghi lại!
+
+Có nhiều tùy chỉnh có thể áp dụng, nhưng cài đặt mặc định đã phù hợp với nhu cầu cơ bản của chúng ta.
+
+Hãy nhấn vào nút lưu để ghi nhận và quay trở lại danh sách Điều kiện.</string>
+    <string name="message_tutorial_color_conditions_step_secondary_15">Bạn không thể tương tác với trò chơi khi bộ chọn vị trí đang hiển thị, nhưng bạn có thể dùng nút này để ẩn hoặc hiện nó, cho phép bạn gỡ bỏ giới hạn đó bất cứ lúc nào.</string>
+    <string name="message_tutorial_color_conditions_step_secondary_6">Sử dụng nút chụp trên menu nổi để chụp ảnh màn hình.</string>
+    <string name="message_tutorial_color_conditions_step_secondary_7">Bạn có thể nhấn vào khung nhìn phóng to để chọn điểm ảnh chính xác hơn.</string>
+    <string name="message_tutorial_color_conditions_step_secondary_8">Sau khi điểm ảnh đã được chọn chính xác, hãy nhấn vào biểu tượng này để xác nhận.</string>
+    <string name="message_tutorial_combine_conditions_not_visible_target_step_1">Quy tắc mới! Mục tiêu màu xanh đã ngừng di chuyển nhưng chỉ nên nhấp vào khi không nhìn thấy mục tiêu màu đỏ. 
+
+Bắt đầu trò chơi và xem liệu bạn có thể tự mình giành chiến thắng hay không.</string>
+    <string name="message_tutorial_combine_conditions_not_visible_target_step_10">Bắt đầu kịch bản của bạn và khởi động trò chơi để giành chiến thắng! 
+
+Nếu nó không hoạt động, hãy kiểm tra kỹ xem các điều kiện của bạn có được ghi lại chính xác không và thời lượng nhấp chuột có được đặt thành 1 mili giây hay không.</string>
+    <string name="message_tutorial_combine_conditions_not_visible_target_step_11">Chúc mừng! Bạn đã học cách sử dụng điều kiện "Không hiển thị". Luôn kết hợp nó với ít nhất một điều kiện khác để tránh vô tình kích hoạt các hành động trong toàn bộ kịch bản của bạn.</string>
+    <string name="message_tutorial_combine_conditions_not_visible_target_step_2">Một lần nữa, điều này dường như không thể giành được bằng tay, vì vậy hãy sử dụng Klick'r. 
+
+Mở menu cấu hình kịch bản, tạo Sự kiện màn hình mới và bắt đầu thêm điều kiện cho mục tiêu trò chơi.</string>
+    <string name="message_tutorial_combine_conditions_not_visible_target_step_3">Đầu tiên, chúng ta cần một điều kiện để kiểm tra khi mục tiêu màu đỏ KHÔNG hiển thị trên màn hình. 
+
+Tạo điều kiện hình ảnh mới và chụp mục tiêu màu đỏ.</string>
+    <string name="message_tutorial_combine_conditions_not_visible_target_step_4">Chúng tôi chỉ muốn nhấp khi mục tiêu màu đỏ không hiển thị, vì vậy hãy đặt tùy chọn Hiển thị thành Không. Bằng cách này, điều kiện sẽ chỉ được đáp ứng khi mục tiêu màu đỏ không xuất hiện trên màn hình.</string>
+    <string name="message_tutorial_combine_conditions_not_visible_target_step_5">Các cài đặt khác có vẻ phù hợp với nhu cầu của chúng tôi - hãy tiếp tục và lưu điều kiện này.</string>
+    <string name="message_tutorial_combine_conditions_not_visible_target_step_6">Chỉ riêng điều kiện này là đủ để giành chiến thắng trong trò chơi, nhưng nó cũng sẽ kích hoạt khi trò chơi thậm chí không chạy, điều này không lý tưởng. 
+
+Để ngăn chặn điều đó, hãy ghép nối nó với điều kiện thứ hai để kiểm tra xem mục tiêu màu xanh có hiển thị hay không. Tạo Điều kiện hình ảnh mới và chụp mục tiêu màu xanh.</string>
+    <string name="message_tutorial_combine_conditions_not_visible_target_step_7">Đối với điều kiện này, chúng tôi muốn kiểm tra xem mục tiêu màu xanh có hiển thị hay không, vì vậy tất cả các cài đặt mặc định đều chính xác. Lưu điều kiện và quay lại Sự kiện để tiếp tục.</string>
+    <string name="message_tutorial_combine_conditions_not_visible_target_step_8">Với nhiều điều kiện, điều kiện rất quan trọng. Chúng tôi muốn Sự kiện được kích hoạt khi mục tiêu màu xanh hiển thị VÀ mục tiêu màu đỏ không hiển thị, vì vậy điều kiện AND là thứ chúng tôi cần; và nó đã là mặc định rồi nên chúng ta ổn. 
+
+Bây giờ hãy tạo một hành động nhấp chuột mới để tiếp tục.</string>
+    <string name="message_tutorial_combine_conditions_not_visible_target_step_9">Chúng tôi muốn nhấp vào mục tiêu màu xanh lam, vì vậy hãy chọn loại vị trí "Có điều kiện" và chọn Điều kiện hình ảnh mục tiêu màu xanh lam. 
+
+Khi bạn hoàn tất, hãy lưu lần nhấp, sau đó lưu Sự kiện và kịch bản của bạn rồi quay lại trò chơi.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_1">Quy tắc mới! Trò chơi bây giờ hiển thị hai mục tiêu. Bạn nên nhấp vào mục tiêu màu xanh lam, nhưng chỉ khi cả hai mục tiêu màu xanh lam và đỏ đều xuất hiện trên màn hình cùng một lúc. 
+
+Bắt đầu trò chơi và xem liệu bạn có thể tự mình theo kịp không.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_10">Bắt đầu kịch bản của bạn và khởi động trò chơi để giành chiến thắng! 
+
+Nếu nó không hoạt động, hãy kiểm tra kỹ xem cả hai điều kiện có được nắm bắt chính xác không và thời lượng nhấp chuột có được đặt thành 1 mili giây hay không.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_11">Chúc mừng! Bạn đã học cách sử dụng điều kiện AND. Sự kiện bây giờ chỉ kích hoạt khi tất cả các điều kiện của nó được thỏa mãn cùng một lúc.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_2">Thời gian quá chặt để xử lý thủ công, vì vậy hãy sử dụng Klick'r. 
+
+Mở menu cấu hình kịch bản, tạo Sự kiện màn hình mới và bắt đầu thêm điều kiện cho mục tiêu trò chơi.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_3">Chúng ta cần một điều kiện cho mỗi mục tiêu. Hãy bắt đầu với màu xanh. 
+
+Tạo điều kiện hình ảnh mới và chụp mục tiêu màu xanh.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_4">Chúng tôi muốn đáp ứng điều kiện này khi mục tiêu màu xanh lam hiển thị, vì vậy tất cả các cài đặt mặc định đều chính xác. Lưu điều kiện này.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_5">Bây giờ hãy thêm điều kiện thứ hai cho mục tiêu màu đỏ. 
+
+Tạo một điều kiện hình ảnh khác và chụp mục tiêu màu đỏ.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_6">Tương tự ở đây; mục tiêu màu đỏ sẽ hiển thị, do đó cài đặt mặc định là chính xác. Lưu điều kiện này và quay lại Sự kiện.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_7">Với hai điều kiện được thiết lập, điều kiện sẽ quyết định cách kết hợp chúng. Chọn điều kiện bằng cách sử dụng bộ chọn được hiển thị ở trên. 
+
+• VÀ: Sự kiện chỉ kích hoạt khi TẤT CẢ các điều kiện được đáp ứng.
+• HOẶC: Sự kiện kích hoạt ngay khi đáp ứng MỘT điều kiện.
+
+Đối với trò chơi của chúng tôi, chúng tôi cần cả hai mục tiêu trên màn hình cùng một lúc, vì vậy hãy chọn VÀ.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_8">AND đã là điều kiện mặc định nên chúng ta đã sẵn sàng. 
+
+Bây giờ hãy mở phần Hành động và tạo hành động nhấp chuột mới.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_9">Chúng tôi muốn nhấp vào mục tiêu màu xanh lam, vì vậy hãy chọn loại vị trí "Có điều kiện" và chọn điều kiện hình ảnh mục tiêu màu xanh lam. 
+
+Khi bạn hoàn tất, hãy lưu lần nhấp, sau đó là Sự kiện và kịch bản của bạn, rồi quay lại trò chơi.</string>
+    <string name="message_tutorial_combine_conditions_operator_and_step_secondary_7">Bộ chọn điều kiện</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_1">Thử thách mới! Hai mục tiêu có thể xuất hiện trên màn hình. Cái màu đỏ có giá trị 2 điểm và cái màu xanh có giá trị 1 điểm, vì vậy hãy nhấp vào cái nào hiển thị càng nhanh càng tốt. 
+
+Bắt đầu trò chơi và xem bạn tự làm như thế nào.</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_10">Chúng tôi muốn nhấp vào bất kỳ mục tiêu nào đã kích hoạt Sự kiện. Chọn loại vị trí "Có điều kiện". Với OR, mỗi lần chỉ có thể phát hiện một điều kiện tích cực, do đó không cần phải chọn điều kiện cụ thể. Klick'r sẽ tự động nhấp vào vị trí có điều kiện phù hợp. 
+
+Khi bạn hoàn tất, hãy lưu lần nhấp, sau đó là Sự kiện và kịch bản của bạn, rồi quay lại trò chơi.</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_11">Bắt đầu kịch bản của bạn và khởi động trò chơi để giành chiến thắng! 
+
+Nếu nó không hoạt động, hãy kiểm tra kỹ xem các điều kiện của bạn có được ghi lại chính xác không và thời lượng nhấp chuột có được đặt thành 1 mili giây hay không.</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_12">Chúc mừng! Bạn đã học cách sử dụng điều kiện OR và tại sao mức độ ưu tiên của điều kiện lại quan trọng. Bằng cách đặt điều kiện màu đỏ lên hàng đầu, Klick'r luôn ưu tiên mục tiêu có giá trị cao hơn khi cả hai đều hiển thị cùng lúc.</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_2">Quá nhanh để xử lý thủ công nên hãy sử dụng Klick'r. 
+
+Mở menu cấu hình kịch bản, tạo Sự kiện màn hình mới và bắt đầu thêm điều kiện cho mục tiêu trò chơi.</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_3">Chúng ta cần một điều kiện cho mỗi mục tiêu. Hãy bắt đầu với màu xanh. 
+
+Tạo điều kiện hình ảnh mới và chụp mục tiêu màu xanh.</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_4">Tình trạng này sẽ kích hoạt khi mục tiêu màu xanh hiển thị, do đó tất cả các cài đặt mặc định đều chính xác. Lưu điều kiện này.</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_5">Bây giờ hãy thêm điều kiện thứ hai cho mục tiêu màu đỏ. 
+
+Tạo một điều kiện hình ảnh khác và chụp mục tiêu màu đỏ.</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_6">Tương tự ở đây, mục tiêu màu đỏ sẽ hiển thị, do đó cài đặt mặc định là chính xác. Lưu điều kiện này.</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_7">Với OR, các điều kiện được kiểm tra theo thứ tự và Sự kiện sẽ kích hoạt ngay khi Sự kiện đầu tiên khớp, do đó thứ tự các điều kiện của bạn rất quan trọng. 
+
+Mục tiêu màu đỏ mang lại nhiều điểm hơn nên chúng tôi muốn nó được kiểm tra trước. Sử dụng nút « để di chuyển nó trước nút màu xanh lam, sau đó quay lại hộp thoại Sự kiện.</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_8">Bây giờ đặt điều kiện thành OR. Sự kiện sẽ kích hoạt ngay khi một trong hai mục tiêu xuất hiện. Nếu cả hai đều hiển thị cùng lúc, điều kiện màu đỏ sẽ được khớp trước vì nó có mức độ ưu tiên cao hơn. 
+
+Chọn HOẶC.</string>
+    <string name="message_tutorial_combine_conditions_operator_or_step_9">điều kiện OR hiện đã được đặt. Mở phần Hành động và tạo hành động nhấp chuột mới.</string>
+    <string name="message_tutorial_completed">Bạn đã hoàn thành bài hướng dẫn này!</string>
+    <string name="message_tutorial_counters_basics_step_1">Chào mừng bạn đến với hướng dẫn về Bộ đếm! 
+
+Tại đây, bạn sẽ tự động hóa một trò chơi trong đó bạn nhấp vào mục tiêu màu xanh 10 lần, sau đó nhấp vào mục tiêu màu đỏ một lần để xác thực số điểm của bạn và kiếm được 10 điểm. Bạn có thể thử trò chơi trước hoặc chuyển thẳng vào cấu hình kịch bản.</string>
+    <string name="message_tutorial_counters_basics_step_10">Hiện tại danh sách này đang trống. Nhấp vào nút tạo để tạo bộ đếm mới. Đặt tên cho nó (ví dụ: Nhấp chuột màu xanh lam), giữ giá trị bắt đầu bằng 0, sau đó lưu và chọn nó.</string>
+    <string name="message_tutorial_counters_basics_step_11">Bây giờ hãy định cấu hình cách bộ đếm thay đổi mỗi lần nhấp vào mục tiêu màu xanh. 
+
+Đặt điều kiện thành + và giá trị thành 1, để bộ đếm tăng thêm 1 sau mỗi lần nhấp. 
+
+Sau đó lưu hành động và quay lại hộp thoại Sự kiện.</string>
+    <string name="message_tutorial_counters_basics_step_11_secondary">Giá trị có thể là một số cố định hoặc giá trị hiện tại của bộ đếm khác.</string>
+    <string name="message_tutorial_counters_basics_step_12">Tuyệt vời! Sự kiện màn hình này bây giờ sẽ nhấp vào mục tiêu màu xanh lam và tăng bộ đếm của bạn sau mỗi lần phát hiện. 
+
+Lưu Sự kiện để quay lại kịch bản.</string>
+    <string name="message_tutorial_counters_basics_step_13">Bây giờ chúng ta cần một Sự kiện phản ứng khi bộ đếm đạt đến 10. Loại Sự kiện đó không được kích hoạt bởi màn hình nên nó là Sự kiện kích hoạt. 
+
+Nhấp vào tab Sự kiện kích hoạt để mở danh sách Sự kiện kích hoạt.</string>
+    <string name="message_tutorial_counters_basics_step_14">Nhấp vào nút tạo để thêm Sự kiện kích hoạt mới.</string>
+    <string name="message_tutorial_counters_basics_step_15">Cũng giống như Sự kiện màn hình, Sự kiện kích hoạt cần có điều kiện. Nhấp vào trường Điều kiện để mở danh sách điều kiện và tạo điều kiện kích hoạt mới.</string>
+    <string name="message_tutorial_counters_basics_step_16">Chọn loại điều kiện Đã đạt đến bộ đếm để kích hoạt Sự kiện này khi bộ đếm đạt đến một giá trị cụ thể.</string>
+    <string name="message_tutorial_counters_basics_step_17">Chọn bộ đếm bạn đã tạo trước đó (bộ đếm số lần nhấp chuột màu xanh lam) để sử dụng nó làm bộ kích hoạt.</string>
+    <string name="message_tutorial_counters_basics_step_18">Bây giờ hãy đặt phép so sánh sao cho điều kiện được đáp ứng khi bộ đếm bằng 10. Có một số điều kiện so sánh, nhưng ở đây chúng ta cần kiểm tra xem khi nào nó bằng, vì vậy hãy chọn "=". Sau đó nhập giá trị 10, lưu điều kiện và quay lại hộp thoại Sự kiện.</string>
+    <string name="message_tutorial_counters_basics_step_18_secondary">Giá trị để so sánh có thể là một số cố định hoặc giá trị hiện tại của bộ đếm khác.</string>
+    <string name="message_tutorial_counters_basics_step_19">Điều kiện đã được thiết lập! Bây giờ chúng ta cần xác định điều gì sẽ xảy ra khi bộ đếm đạt đến 10. Nhấp vào trường Hành động để mở danh sách hành động.</string>
+    <string name="message_tutorial_counters_basics_step_2">Đầu tiên, chúng ta cần tạo Sự kiện màn hình để phát hiện mục tiêu màu xanh và nhấp vào mục tiêu đó. 
+
+Nhấp vào Tạo Sự kiện để bắt đầu.</string>
+    <string name="message_tutorial_counters_basics_step_20">Trước tiên, hãy tạo hành động Nhấp chuột và đặt hành động đó vào mục tiêu màu đỏ theo cách thủ công để xác thực số lượng.</string>
+    <string name="message_tutorial_counters_basics_step_21">Định cấu hình nhấp chuột để chạm vào mục tiêu màu đỏ, sau đó lưu hành động. Lưu ý rằng trong Sự kiện kích hoạt, vị trí nhấp chuột phải luôn được đặt theo cách thủ công. 
+
+Hướng dẫn sẽ tiếp tục sau khi lưu lần nhấp.</string>
+    <string name="message_tutorial_counters_basics_step_22">Bây giờ hãy tạo hành động thứ hai để đặt lại bộ đếm. Nhấp lại vào nút tạo và chọn hành động Thay đổi bộ đếm.</string>
+    <string name="message_tutorial_counters_basics_step_23">Chúng tôi muốn đặt bộ đếm nhấp chuột màu xanh lam thành 0, vì vậy trước tiên hãy chọn bộ đếm nhấp chuột màu xanh lam.</string>
+    <string name="message_tutorial_counters_basics_step_24">Đặt điều kiện thành = và giá trị thành 0 để đặt lại bộ đếm sau mỗi lần xác thực. Sau đó lưu hành động và quay lại hộp thoại Sự kiện để tiếp tục.</string>
+    <string name="message_tutorial_counters_basics_step_25">Sự kiện kích hoạt này sẽ nhấp vào mục tiêu màu đỏ và đặt lại bộ đếm mỗi khi đếm được 10 lần nhấp màu xanh. Danh sách Sự kiện kích hoạt được thực thi giữa mỗi khung màn hình, trước danh sách Sự kiện màn hình, do đó, khi bộ đếm bằng 10, Sự kiện này sẽ chạy ngay lập tức: mục tiêu màu đỏ được nhấp vào và bộ đếm được đặt lại, sẵn sàng bắt đầu lại. 
+
+Lưu Sự kiện để quay lại kịch bản.</string>
+    <string name="message_tutorial_counters_basics_step_26">Kịch bản đã hoàn tất! Nó sẽ nhấp vào mục tiêu màu xanh, đếm từng lần nhấp, sau đó xác thực bằng mục tiêu màu đỏ sau mỗi 10 lần nhấp và bắt đầu lại. 
+
+Lưu kịch bản để áp dụng cấu hình của bạn.</string>
+    <string name="message_tutorial_counters_basics_step_27">Mọi thứ đã sẵn sàng! Bắt đầu kịch bản, sau đó khởi chạy trò chơi và xem Klick'r xử lý việc đếm cho bạn.</string>
+    <string name="message_tutorial_counters_basics_step_28">Làm tốt! Bạn đã học cách sử dụng Bộ đếm để theo dõi giá trị trên nhiều Sự kiện. 
+
+Kết hợp với hành động Thay đổi bộ đếm và điều kiện Đã đạt đến bộ đếm, giờ đây bạn có thể xây dựng các quy trình tự động hóa phản ứng với các mẫu lặp lại.</string>
+    <string name="message_tutorial_counters_basics_step_3">Hãy bắt đầu bằng cách thêm một điều kiện để phát hiện mục tiêu màu xanh. Bấm vào trường Điều kiện để mở danh sách điều kiện và tạo điều kiện này. 
+
+Hướng dẫn sẽ tiếp tục sau khi điều kiện của bạn được tạo.</string>
+    <string name="message_tutorial_counters_basics_step_4">Tốt! Bây giờ hãy nhấp vào trường Hành động để thêm các hành động sẽ chạy khi phát hiện mục tiêu màu xanh.</string>
+    <string name="message_tutorial_counters_basics_step_5">Trước tiên chúng ta cần hành động Nhấp chuột để chạm vào mục tiêu màu xanh lam. Bấm vào nút tạo để thêm một hành động mới.</string>
+    <string name="message_tutorial_counters_basics_step_6">Định cấu hình nhấp chuột để chạm vào mục tiêu màu xanh lam, sau đó lưu hành động. 
+
+Hướng dẫn sẽ tiếp tục sau khi lưu lần nhấp.</string>
+    <string name="message_tutorial_counters_basics_step_7">Chúng ta cũng cần đếm xem mình đã click vào mục tiêu màu xanh bao nhiêu lần. Điều này có thể đạt được bằng hành động Bộ đếm thay đổi, bằng cách thêm một hành động mỗi lần chúng ta nhấp vào. 
+
+Nhấp lại vào nút tạo để thêm hành động thứ hai.</string>
+    <string name="message_tutorial_counters_basics_step_8">Chọn hành động Thay đổi bộ đếm để tăng bộ đếm mỗi lần nhấp vào mục tiêu màu xanh.</string>
+    <string name="message_tutorial_counters_basics_step_9">Đầu tiên chúng ta cần chọn bộ đếm cần cập nhật. Bấm vào Chọn bộ đếm để mở danh sách bộ đếm.</string>
+    <string name="message_tutorial_events_priority_step_1">Trò chơi mới, chúng ta cần nhấp vào mục tiêu nào nhanh nhất có thể, nhưng mục tiêu màu đỏ sẽ bổ ích hơn. Bạn có thể thử nghiệm trò chơi trước hoặc mở menu cấu hình kịch bản để bắt đầu tự động hóa trò chơi này.</string>
+    <string name="message_tutorial_events_priority_step_2">Chúng tôi muốn phát hiện hai mục tiêu khác nhau, xanh và đỏ. Đối với hướng dẫn này, chúng ta sẽ tạo hai Sự kiện riêng biệt: Sự kiện đầu tiên dành cho mục tiêu màu xanh và Sự kiện thứ hai dành cho mục tiêu màu đỏ. 
+
+Đầu tiên, tạo Sự kiện cho mục tiêu màu xanh lam; nó phải bấm vào nó khi phát hiện. Đừng quên sử dụng các tính năng kiểm tra để đảm bảo tình trạng của bạn được phát hiện chính xác. 
+
+Hướng dẫn sẽ tiếp tục sau khi Sự kiện mục tiêu màu xanh lam của bạn được lưu.</string>
+    <string name="message_tutorial_events_priority_step_3">Tuyệt vời! Bây giờ chúng ta cần điều tương tự, nhưng đối với mục tiêu màu đỏ. Nhấp vào nút tạo Sự kiện và tạo một Sự kiện cho mục tiêu màu đỏ; nó phải bấm vào nó khi phát hiện. 
+
+Hướng dẫn sẽ tiếp tục sau khi Sự kiện mục tiêu màu đỏ của bạn được lưu.</string>
+    <string name="message_tutorial_events_priority_step_4">Danh sách của chúng tôi hiện có hai Sự kiện, một Sự kiện cho mỗi mục tiêu. Lưu Kịch bản của bạn và thử nghiệm nó với trò chơi.</string>
+    <string name="message_tutorial_events_priority_step_5">Có điều gì đó có vẻ không ổn. Kịch bản chỉ nhấp vào mục tiêu màu xanh, hoàn toàn bỏ qua mục tiêu màu đỏ, điều này khiến chúng ta không thể giành chiến thắng trong trò chơi. 
+
+Tại sao điều này lại xảy ra? Vì Sự kiện màu xanh lam diễn ra trước Sự kiện màu đỏ và vì nó luôn được kích hoạt nên khung hiện tại không được đánh giá thêm nữa và khung tiếp theo bắt đầu từ đầu danh sách Sự kiện. 
+
+Có nhiều cách để khắc phục điều này. Mở hộp thoại cấu hình kịch bản để tìm hiểu cách thực hiện.</string>
+    <string name="message_tutorial_events_priority_step_6">Chúng ta có thể khắc phục sự cố theo hai cách: 
+
+Chúng ta có thể thay đổi tùy chọn "Tiếp tục thực thi" của Sự kiện mục tiêu màu xanh để tiếp tục xử lý cùng một khung và cũng thực hiện Sự kiện màu đỏ. Điều này sẽ kích hoạt cả hai lần nhấp chuột khi cả hai mục tiêu đều hiển thị cùng một lúc. 
+
+Hoặc chúng ta có thể di chuyển Sự kiện mục tiêu màu đỏ lên đầu danh sách Sự kiện, để nó được kiểm tra trước và luôn nhấp vào khi hiển thị, nhưng mục tiêu màu xanh sẽ không được nhấp nữa khi mục tiêu màu đỏ cũng được hiển thị. 
+
+Sự khác biệt chính giữa cả hai giải pháp là tốc độ: đặt Sự kiện màu đỏ lên hàng đầu có nghĩa là chúng ta phản ứng nhanh nhất có thể khi nó xuất hiện, đồng thời chậm hơn một chút khi chỉ nhìn thấy mục tiêu màu xanh.</string>
+    <string name="message_tutorial_events_priority_step_7">Vì trò chơi cho 10 điểm cho mục tiêu màu đỏ nên chúng tôi muốn phản ứng nhanh nhất có thể khi nó xuất hiện bằng cách di chuyển Sự kiện màu đỏ lên đầu danh sách Sự kiện. 
+
+Di chuyển Sự kiện màu đỏ trước và lưu kịch bản. Bạn sẽ có thể đánh bại trò chơi bây giờ.</string>
+    <string name="message_tutorial_events_priority_step_7_secondary">Bạn có thể sắp xếp lại Sự kiện bằng cách nhấn và giữ biểu tượng này và kéo Sự kiện đến đúng vị trí.</string>
+    <string name="message_tutorial_events_priority_step_8">Như thường lệ, hãy bắt đầu kịch bản của bạn trước, sau đó bắt đầu trò chơi. 
+
+Nếu bạn vẫn không thể vượt qua, hãy đảm bảo rằng mỗi Sự kiện đều tự hoạt động bằng cách sử dụng các tính năng thử nghiệm.</string>
+    <string name="message_tutorial_events_priority_step_9">Tuyệt vời! Bây giờ bạn đã hiểu mức độ ưu tiên của Sự kiện hoạt động như thế nào và vòng lặp Sự kiện màn hình hoạt động như thế nào. Đây là chìa khóa để xây dựng và quản lý các kịch bản phức tạp.</string>
+    <string name="message_tutorial_events_state_step_1">Trò chơi mới! Lần này bạn cần nhấp vào bốn mục tiêu có màu theo thứ tự: đầu tiên là màu xanh lam, sau đó là màu đỏ, sau đó là màu xanh lá cây và cuối cùng là màu vàng. 
+
+Bạn có thể thử trò chơi trước để xem nó hoạt động như thế nào hoặc mở cấu hình kịch bản ngay lập tức để bắt đầu tự động hóa nó.</string>
+    <string name="message_tutorial_events_state_step_10">Tất cả bốn Sự kiện đã sẵn sàng. Như chúng tôi đã xác định theo thứ tự trình tự trò chơi, mức độ ưu tiên của chúng là ổn. 
+
+Lưu Kịch bản của bạn và thử nghiệm nó với trò chơi để xem nó hoạt động như thế nào.</string>
+    <string name="message_tutorial_events_state_step_11">Kịch bản là phát hiện và click vào mục tiêu nhưng chắc là quá chậm để giành chiến thắng. 
+
+Hiện tại, cả bốn Sự kiện đều hoạt động cùng lúc, do đó, mỗi khung hình của kịch bản sẽ kiểm tra màu xanh lam, rồi đỏ, rồi xanh lục, rồi vàng; bất kể mục tiêu nào vừa được nhấp vào. Điều này lãng phí thời gian quý báu! 
+
+Mở cấu hình kịch bản để tìm hiểu cách cải thiện điều này.</string>
+    <string name="message_tutorial_events_state_step_12">Mỗi Sự kiện có trạng thái ban đầu: nó có thể bắt đầu được bật hoặc tắt. Hiện tại, cả bốn Sự kiện đều đã được bật nên tất cả chúng đều được kiểm tra trên mọi khung hình. 
+
+Giải pháp là chỉ giữ cho Sự kiện của mục tiêu hiện tại hoạt động và vô hiệu hóa phần còn lại. Khi một mục tiêu được nhấp vào, Sự kiện của nó sẽ kích hoạt mục tiêu tiếp theo và vô hiệu hóa tất cả các mục tiêu khác. 
+
+Hãy bắt đầu bằng cách chỉnh sửa Sự kiện mục tiêu màu xanh lam.</string>
+    <string name="message_tutorial_events_state_step_13">Mục tiêu màu xanh lam là mục tiêu được nhấp chuột đầu tiên, vì vậy Sự kiện của mục tiêu đó sẽ bắt đầu được bật; không cần thay đổi ở đây. 
+
+Chúng ta chỉ cần thêm hành động "Thay đổi trạng thái Bật/Tắt của Sự kiện" để khi nhấp vào mục tiêu màu xanh, Sự kiện mục tiêu màu đỏ được bật và các Sự kiện khác bị tắt. Nhấn vào khu vực Hành động để thêm hành động này.</string>
+    <string name="message_tutorial_events_state_step_14">Chọn loại hành động "Thay đổi trạng thái Bật/Tắt của Sự kiện".</string>
+    <string name="message_tutorial_events_state_step_15">Hành động này cho phép bạn Thay đổi trạng thái Bật/Tắt của Sự kiện của bất kỳ Sự kiện nào trong kịch bản của bạn khi Sự kiện này được kích hoạt. Nhấn vào trường "Không thay đổi" để chọn Sự kiện cần thay đổi.</string>
+    <string name="message_tutorial_events_state_step_16">Đối với mỗi Sự kiện trong danh sách, bạn có thể đặt một trong ba trạng thái: 
+• Kích hoạt: Sự kiện bắt đầu hoạt động và sẽ được kiểm tra trên mọi khung hình 
+• Tắt: Sự kiện trở nên không hoạt động và bị bỏ qua hoàn toàn 
+• Đảo ngược: chuyển đổi giữa hoạt động và không hoạt động mỗi lần 
+
+Vì màu xanh lam vừa được nhấp vào, hãy bật Sự kiện mục tiêu màu đỏ và tắt tất cả các Sự kiện khác. Nhấn vào Tiếp theo khi bạn hoàn tất.</string>
+    <string name="message_tutorial_events_state_step_16_secondary">Mỗi hàng Sự kiện hiển thị ba tùy chọn: Bật, Tắt và Chuyển đổi. Nhấn vào cái bạn muốn áp dụng khi hành động này được thực hiện.</string>
+    <string name="message_tutorial_events_state_step_17">Hoàn hảo! Lưu Sự kiện mục tiêu màu xanh.</string>
+    <string name="message_tutorial_events_state_step_18">Bây giờ hãy mở Sự kiện mục tiêu màu đỏ trong danh sách để định cấu hình theo cách tương tự.</string>
+    <string name="message_tutorial_events_state_step_19">Không giống như Sự kiện mục tiêu màu xanh lam, Sự kiện này không nên hoạt động khi bắt đầu kịch bản vì mục tiêu của nó không phải là Sự kiện đầu tiên. Thay đổi trạng thái Bật/Tắt của Sự kiện ban đầu thành Tắt.</string>
+    <string name="message_tutorial_events_state_step_2">Chúng ta cần phát hiện bốn mục tiêu khác nhau, mỗi mục tiêu có một màu. Chúng tôi sẽ tạo một Sự kiện cho mỗi mục tiêu. 
+
+Bắt đầu với mục tiêu màu xanh lam: tạo Sự kiện mới phát hiện mục tiêu đó trong khu vực trò chơi và nhấp vào mục tiêu đó.</string>
+    <string name="message_tutorial_events_state_step_20">Bây giờ, hãy thêm hành động "Thay đổi trạng thái Bật/Tắt của Sự kiện" để khi mục tiêu này được nhấp vào, Sự kiện của mục tiêu tiếp theo sẽ được bật và các mục tiêu khác sẽ bị tắt. Nhấn vào khu vực Hành động.</string>
+    <string name="message_tutorial_events_state_step_21">Đặt các nút chuyển đổi: bật mục tiêu màu xanh lá cây và tắt tất cả các mục tiêu khác. Nhấn vào Tiếp theo khi bạn hoàn tất.</string>
+    <string name="message_tutorial_events_state_step_22">Làm tốt lắm! Bây giờ hãy mở Sự kiện mục tiêu màu xanh lá cây để định cấu hình theo cách tương tự.</string>
+    <string name="message_tutorial_events_state_step_23">Mục tiêu màu xanh lá cây cũng không nên hoạt động khi bắt đầu. Thay đổi trạng thái Bật/Tắt của Sự kiện ban đầu thành Tắt.</string>
+    <string name="message_tutorial_events_state_step_24">Bây giờ, hãy thêm hành động "Thay đổi trạng thái Bật/Tắt của Sự kiện" để khi nhấp vào mục tiêu màu xanh lá cây, Sự kiện của mục tiêu màu vàng sẽ được bật và các mục tiêu khác sẽ bị tắt. Nhấn vào khu vực Hành động.</string>
+    <string name="message_tutorial_events_state_step_25">Đặt các nút chuyển đổi: bật mục tiêu màu vàng và tắt tất cả các mục tiêu khác. Nhấn vào Tiếp theo khi bạn hoàn tất.</string>
+    <string name="message_tutorial_events_state_step_26">Gần xong rồi! Mở Sự kiện mục tiêu màu vàng để hoàn tất cấu hình.</string>
+    <string name="message_tutorial_events_state_step_27">Mục tiêu màu vàng là mục tiêu cuối cùng trong chuỗi, vì vậy nó cũng sẽ bắt đầu bị vô hiệu hóa. Thay đổi trạng thái Bật/Tắt của Sự kiện ban đầu thành Tắt.</string>
+    <string name="message_tutorial_events_state_step_28">Thêm hành động "Thay đổi trạng thái Bật/Tắt của Sự kiện" vào Sự kiện mục tiêu màu vàng. Khi nhấp vào màu vàng, chúng tôi muốn quay lại từ đầu: bật mục tiêu màu xanh lam và tắt tất cả các mục tiêu khác. Nhấn vào khu vực Hành động.</string>
+    <string name="message_tutorial_events_state_step_29">Đặt các nút chuyển đổi: bật mục tiêu màu xanh lam và tắt tất cả các mục tiêu khác. Bằng cách này, chuỗi sẽ lặp vô thời hạn. Nhấn vào Tiếp theo khi bạn hoàn tất.</string>
+    <string name="message_tutorial_events_state_step_3">Khi sử dụng nhiều Sự kiện, điều quan trọng là phải tùy chỉnh tên Sự kiện để theo dõi những gì bạn đang làm. Đặt tên rõ ràng cho Sự kiện này, chẳng hạn như "Mục tiêu xanh" để bạn có thể dễ dàng xác định nó sau này trong kịch bản của mình. 
+
+Khi bạn đã hoàn tất, hãy tạo điều kiện Hình ảnh mới và chụp mục tiêu màu xanh lam.</string>
+    <string name="message_tutorial_events_state_step_30">Tất cả các Sự kiện hiện đã được định cấu hình đầy đủ. Lưu Kịch bản của bạn để áp dụng các thay đổi.</string>
+    <string name="message_tutorial_events_state_step_31">Tất cả các Sự kiện được cấu hình! Lưu Kịch bản của bạn và sau đó bắt đầu trò chơi. Hãy nhớ bắt đầu Kịch bản của bạn trước khi khởi chạy trò chơi. 
+
+Vì kịch bản của chúng tôi có trạng thái nội bộ nên bạn cần khởi động lại nó mỗi khi khởi động lại trò chơi để đảm bảo nó không phải chờ mục tiêu cuối cùng của phiên trò chơi trước đó. Điều này có thể được tự động hóa dễ dàng bằng cách phát hiện xem nút bắt đầu có hiển thị hay không để đặt lại trạng thái Sự kiện.</string>
+    <string name="message_tutorial_events_state_step_32">Bạn đã thắng! 
+
+Bằng cách kiểm soát Sự kiện nào đang hoạt động tại bất kỳ thời điểm nhất định nào, kịch bản luôn biết chính xác mục tiêu nào cần tìm tiếp theo — không lãng phí khung hình khi kiểm tra mục tiêu không theo trình tự. 
+
+Đây là cách hành động Chuyển đổi Sự kiện cho phép bạn xây dựng tính năng tự động hóa theo trình tự và theo trạng thái.</string>
+    <string name="message_tutorial_events_state_step_4">Khi mục tiêu đang di chuyển, chúng ta cần đặt loại phát hiện thành "Khu vực phát hiện" rồi chọn khu vực trò chơi. 
+
+Khi khu vực được định cấu hình chính xác, hãy lưu nó và quay lại hộp thoại Sự kiện.</string>
+    <string name="message_tutorial_events_state_step_5">Điều kiện của bạn đã được đặt, bây giờ chúng tôi cần hành động Nhấp chuột để Sự kiện nhấp vào mục tiêu được phát hiện. 
+
+Tạo một hành động Nhấp chuột mới để tiếp tục.</string>
+    <string name="message_tutorial_events_state_step_6">Mục tiêu đang chuyển động nên chúng ta không thể xác định được vị trí cố định. Đặt trường "Nhấp vào" thành "Nhấp vào điều kiện được phát hiện" và chọn điều kiện mục tiêu màu xanh lam của bạn. Bằng cách này, cú nhấp chuột sẽ luôn hạ cánh chính xác ở vị trí mục tiêu được tìm thấy trên màn hình.
+
+Sau khi điều kiện được chọn, hãy lưu lần nhấp và quay lại hộp thoại Sự kiện.</string>
+    <string name="message_tutorial_events_state_step_7">Sự kiện mục tiêu xanh đã kết thúc! Bây giờ, hãy tạo Sự kiện cho mục tiêu màu đỏ theo cách tương tự: phát hiện nó trong khu vực trò chơi và nhấp vào nó. Hướng dẫn sẽ tiếp tục sau khi Sự kiện mục tiêu màu đỏ của bạn được lưu.</string>
+    <string name="message_tutorial_events_state_step_8">Tuyệt vời! Bây giờ hãy tạo Sự kiện tương tự cho mục tiêu xanh. Hướng dẫn sẽ tiếp tục sau khi Sự kiện mục tiêu màu xanh lá cây của bạn được lưu.</string>
+    <string name="message_tutorial_events_state_step_9">Hầu như ở đó! Tạo một Sự kiện cuối cùng cho mục tiêu màu vàng. Hướng dẫn sẽ tiếp tục sau khi Sự kiện mục tiêu màu vàng của bạn được lưu.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_1">Chào mừng bạn đến với bài hướng dẫn điều kiện số lượng!
+
+Tại đây, bạn sẽ thử phá kỷ lục điểm cao của một trò chơi với sự trợ giúp từ Klick'r.
+
+Trước tiên, bạn có thể chơi thử bằng cách nhấn Bắt đầu trò chơi, hoặc chuyển thẳng đến phần cấu hình Kịch bản..</string>
+    <string name="message_tutorial_number_conditions_static_value_step_10">Bây giờ, chúng ta cần chỉ định cho Klick'r vị trí cần tìm số.
+
+Hãy nhấn vào bộ chọn vùng nhận diện để thiết lập.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_11">Hãy căn chỉnh vị trí và thay đổi kích thước khung nhận diện sao cho bao trọn chữ số hiển thị. Bạn có thể bắt đầu trò chơi để xem vị trí số xuất hiện. Sau khi vùng chọn đã chính xác, hãy nhấn nút xác nhận để lưu lại.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_12">Điều kiện của bạn hiện đã được cấu hình!
+
+Có nhiều tùy chỉnh khác có thể áp dụng, nhưng cài đặt mặc định đã phù hợp với nhu cầu cơ bản của chúng ta.
+
+Hãy nhấn vào nút lưu để ghi nhận và quay trở lại danh sách Điều kiện.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_13">Đóng danh sách Sự kiện để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_14">Với Điều kiện này, kịch bản sẽ biết khi nào cần kích hoạt các Hành động.
+
+Bây giờ bạn cần định nghĩa những Hành động nào cần kích hoạt, cụ thể cho trò chơi này là một cú nhấp vào nút.
+
+Hãy nhấn vào trường Hành động để hiển thị danh sách Hành động.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_15">Hành động là hành động được thực hiện sau khi các Sự kiện của Sự kiện của nó được đáp ứng.
+
+Đó có thể là một lần nhấp, vuốt, tạm dừng, Ý định (tương tác với ứng dụng khác) hoặc thay đổi trong quá trình thực thi Kịch bản và nhiều Hành động có thể được xác định cho cùng một Sự kiện.
+
+Nhấp vào nút tạo Hành động để tạo Hành động đầu tiên của bạn.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_16">Đầu tiên, chúng ta cần chọn loại cho Hành động của bạn.
+
+Đối với trò chơi này, chúng ta chỉ cần nhấp vào nút, vì vậy hãy chọn Nhấp để tạo một Hành động Nhấp mới.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_17">Hành động nhấp chuột được xác định bởi vị trí và thời lượng nhấn.
+
+Vì muốn nhấp chuột nhanh nhất có thể nên chúng ta có thể giữ thời lượng nhấn mặc định là 1ms, đây là giá trị thấp nhất có thể. Vì vậy, chúng ta chỉ cần xác định một vị trí.
+
+Bấm vào nút chọn vị trí để chọn vị trí Hành động Bấm.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_18">Bạn cần chọn chính xác vị trí cần nhấp, vì vậy bạn cần mở lại trò chơi để hiển thị nút, sau đó chọn vị trí của nó.
+
+Sau khi vị trí đã chính xác, hãy nhấp vào nút xác nhận để lưu lại.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_19">Nhấp chuột hiện đã được cấu hình chính xác!
+
+Nhấp vào nút lưu để đăng ký và quay lại danh sách Hành động.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_2">Cũng giống như bất kỳ Sự kiện màn hình nào khác, trước tiên chúng ta cần tạo Sự kiện màn hình.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_20">Đóng danh sách Hành động để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_21">Sự kiện của bạn hiện có Sự kiện và Hành động, có nghĩa là Sự kiện biết phải thực hiện điều gì và khi nào thực hiện.
+
+Nhấp vào nút lưu để đăng ký và quay lại hộp thoại Kịch bản.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_22">Yêu cầu duy nhất đối với Kịch bản là phải có ít nhất một Sự kiện.
+ Vì Sự kiện của chúng tôi đã đề cập đến cách giành chiến thắng trong trò chơi nên chúng tôi không cần bất cứ điều gì khác.
+
+Nhấp vào nút lưu để lưu Kịch bản trong cơ sở dữ liệu và đóng hộp thoại cấu hình.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_23">Như bạn có thể thấy, nút phát hiện có sẵn, nghĩa là Kịch bản của bạn hợp lệ và có thể được sử dụng để phát hiện.
+
+Click vào nó để bắt đầu phát hiện.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_24">Đang chạy nhưng không có chuyện gì xảy ra ư?
+
+Điều đó hoàn toàn bình thường, nó sẽ chỉ nhấp khi nút hiển thị số lớn hơn 9000, bạn nhớ chứ? Trong lúc vẫn giữ kịch bản chạy, hãy nhấn nút bắt đầu trò chơi và cứ ngồi xem Klick'r phá đảo hộ bạn nhé!</string>
+    <string name="message_tutorial_number_conditions_static_value_step_25">Chúc mừng bạn!
+
+Giờ đây bạn đã biết cách nhận diện một con số hiển thị trên màn hình.
+Hãy xem qua các bài hướng dẫn khác để khám phá thêm nhiều trường hợp sử dụng nhé.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_3">Bây giờ, hãy nhấp vào trường Sự kiện để mở danh sách Sự kiện.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_4">Chúng ta cần tạo Điều kiện. Bấm vào Tạo.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_5">Trong bài hướng dẫn này, chúng ta muốn tìm hiểu cách nhận diện một con số trên màn hình, vì vậy hãy chọn Điều kiện Số.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_6">Điều kiện Số được xác định bởi con số cần nhận diện và một phép so sánh áp dụng cho con số đó.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_7">Chúng ta muốn phát hiện xem giá trị hiển thị có lớn hơn 9000 hay không. Do đó, trước tiên hãy nhấp vào toán tử để thay đổi toán tử so sánh.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_8">Chọn điều kiện >.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_9">Bây giờ, bạn cần nhập giá trị để so sánh. Chỉ cần nhập "9000" vào trường giá trị để chuyển sang bước hướng dẫn tiếp theo.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_secondary_11">Hãy cố gắng sử dụng khung nhỏ nhất có thể nhưng vẫn phải đảm bảo có một khoảng lề xung quanh con số cần nhận diện.</string>
+    <string name="message_tutorial_number_conditions_static_value_step_secondary_6">Trong bài hướng dẫn này, chúng ta sẽ chỉ so sánh con số được nhận diện với một giá trị tĩnh, nhưng bạn hoàn toàn có thể so sánh nó với giá trị của một bộ đếm. Hãy tham khảo các bài hướng dẫn riêng về bộ đếm nếu bạn cần thêm thông tin về tính năng này.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_1">Chào mừng bạn đến với bài hướng dẫn thứ hai!
+
+Lần này, mục tiêu sẽ di chuyển ngẫu nhiên trên màn hình.
+
+Trước tiên, hãy bắt đầu trò chơi và xem liệu bạn có thể tự mình chiến thắng không nhé.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_10">Đối với trò chơi này, điểm thú vị là nhân vật màu xanh dương, vì vậy hãy cắt ảnh chụp màn hình của bạn để chỉ lấy nhân vật này.
+
+Bạn có thể chụm hai ngón tay trên ảnh chụp màn hình để phóng to và thao tác chọn vùng cắt chính xác hơn.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_11">Hình ảnh Điều kiện của bạn hiện đã được chụp!
+
+Theo mặc định, loại phát hiện được đặt thành "Chính xác", nghĩa là Klick'r sẽ chỉ tìm kiếm nó ở vị trí chụp. Vì nhân vật màu xanh lam có thể xuất hiện ở bất kỳ đâu trên khu vực trò chơi nên hãy chọn "Trong khu vực".</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_12">Nhấn vào bộ chọn khu vực để thay đổi vùng nhận diện.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_13">Hãy điều chỉnh kích thước hình chữ nhật nhận diện vừa bằng khu vực trò chơi, vì các mục tiêu sẽ không xuất hiện bên ngoài vùng đó. Khi kích thước đã chính xác, hãy nhấn nút xác nhận để lưu lại.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_14">Thế là xong!
+Chúng ta chỉ cần định nghĩa khu vực nhận diện để Điều kiện của bạn phù hợp với nhu cầu.
+
+Hãy nhấn vào nút lưu để ghi nhận và quay trở lại danh sách Điều kiện..</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_15">Đóng danh sách Sự kiện để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_16">Điều kiện của bạn hiện đã được cấu hình! Nhờ đó, kịch bản sẽ biết khi nào nhân vật màu xanh xuất hiện ở bất kỳ đâu trên màn hình.
+
+Tuy nhiên, vì nhân vật có thể xuất hiện ở mọi vị trí, chúng ta không thể dùng một điểm nhấp cố định — mà cần nhấp vào ngay vị trí phát hiện ra Điều kiện đó.
+
+Hãy nhấn vào trường Hành động để hiển thị danh sách Hành động.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_17">Hành động là một tác vụ được thực thi khi các Điều kiện trong Sự kiện đó được thỏa mãn.
+
+Đối với trò chơi này, chúng ta cần một Hành động Nhấp để nhấp vào bất cứ nơi nào nhân vật màu xanh dương được phát hiện.
+
+Nhấn vào nút tạo Hành động để tạo một Hành động mới.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_18">Trước tiên, chúng ta cần chọn loại cho Hành động của bạn.
+
+Đối với trò chơi này, chúng ta cần nhấp vào nhân vật màu xanh dương, vì vậy hãy chọn Nhấp để tạo một Hành động Nhấp mới.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_19">Hành động Nhấp được xác định bởi vị trí và thời gian nhấn.
+
+Vì nhân vật màu xanh dương đang di chuyển, chúng ta không thể sử dụng một vị trí cố định. Thay đổi cài đặt "Nhấp vào" thành "Điều kiện" Để nhấp vào bất cứ nơi nào tìm thấy Điều kiện được nhận diện.
+
+Hãy chọn tùy chọn này để sử dụng trong Hành động của bạn.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_20">Nhấn vào bộ chọn Điều kiện để chọn Điều kiện được nhận diện nào sẽ được nhấp vào.
+
+Chúng ta cần chỉ định điều này vì một Sự kiện có thể có nhiều Điều kiện.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_21">Đối với trường hợp sử dụng của chúng ta thì rất đơn giản, chúng ta chỉ có một Điều kiện duy nhất là nhân vật màu xanh dương.
+
+Hãy chọn nó để nhấp vào Điều kiện này khi nó được phát hiện trên màn hình của bạn.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_22">Thế là xong!
+Hành động Nhấp của bạn hiện đã được cấu hình chính xác để vượt qua màn chơi.
+
+Hãy nhấn vào nút lưu để ghi nhận và quay trở lại danh sách Hành động.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_23">Đóng danh sách Hành động để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_24">Sự kiện của bạn hiện có Sự kiện và Hành động, có nghĩa là Sự kiện biết phải thực hiện điều gì và khi nào thực hiện.
+
+Nhấp vào nút lưu để đăng ký và quay lại hộp thoại Kịch bản.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_25">Yêu cầu duy nhất đối với một Kịch bản là phải có ít nhất một Sự kiện.
+Vì Sự kiện của chúng ta đã bao gồm cách để chiến thắng trò chơi, nên chúng ta không cần thêm gì nữa.
+
+Nhấn vào nút lưu để lưu Kịch bản vào cơ sở dữ liệu và đóng các hộp thoại cấu hình.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_26">Như bạn có thể thấy, nút phát hiện giờ đã khả dụng, nghĩa là Kịch bản của bạn hợp lệ và có thể được sử dụng để nhận diện.
+
+Hãy nhấn vào đó để bắt đầu quá trình nhận diện, sau đó bắt đầu trò chơi nhé.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_27">Chúc mừng bạn!
+
+Bây giờ bạn đã biết cách theo dõi một mục tiêu di chuyển bằng cách sử dụng "Toàn màn hình" và tính năng "Nhấp vào Sự kiện"!</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_3">Khó phải không nào?
+Hãy dùng Klick'r để vượt qua nó nhé!
+
+Nhấn vào biểu tượng cấu hình Kịch bản để bắt đầu chỉnh sửa kịch bản mới của bạn.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_4">Một Kịch bản là cấu trúc gốc của tính năng tự động hóa trong Klick'r.
+
+Nó chứa các cài đặt nhận diện chung và danh sách các Sự kiện mô tả những gì sẽ được thực thi khi Kịch bản của bạn chạy.
+
+Nhấn vào nút tạo Sự kiện để tạo Sự kiện đầu tiên của bạn.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_5">Một Sự kiện mô tả các Hành động (nhấp, vuốt…) cần thực thi khi các Điều kiện nhất định được đáp ứng.
+
+Để vượt qua trò chơi này, chúng ta cần phát hiện nhân vật màu xanh lam khi cậu ấy di chuyển trên màn hình.
+
+Nhấn vào trường Điều kiện để hiển thị danh sách Điều kiện.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_6">Điều kiện hình ảnh là một phần của ảnh chụp màn hình sẽ được so sánh với từng khung hình trên thiết bị của bạn.
+
+Để vượt qua trò chơi, chúng ta muốn nhấp vào nhân vật màu xanh lam khi nó hiển thị, vì vậy chúng ta cần một Điều kiện được thỏa mãn khi nhân vật xuất hiện trên màn hình thiết bị của bạn.
+
+Nhấn vào nút tạo Điều kiện để tạo Điều kiện đầu tiên của bạn.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_7">Trong hướng dẫn này, chúng ta muốn học cách nhận diện một hình ảnh trên màn hình, vì vậy hãy chọn Điều kiện hình ảnh</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_8">Bước đầu tiên khi tạo Điều kiện màn hình là chụp ảnh màn hình cho nó.
+
+Vì chúng ta muốn nhấp khi nhân vật màu xanh lam hiển thị, ảnh chụp màn hình phải chứa nhân vật đó. Hãy khởi động lại trò chơi để hiển thị nhân vật, sau đó chụp ảnh màn hình.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_9">Sau khi chụp ảnh màn hình, bạn có thể cắt ảnh để chỉ giữ lại phần cần thiết cho quá trình nhận diện.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_secondary_10">Đảm bảo nhân vật hiển thị đầy đủ trong vùng chọn. Hãy cố gắng cắt sát nhân vật nhất có thể để giúp quá trình nhận diện hình ảnh diễn ra dễ dàng hơn.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_secondary_11">Tùy chọn thứ ba là "Toàn màn hình". Vùng phát hiện càng lớn thì tốc độ phát hiện càng chậm. Hãy ghi nhớ điều đó khi thời gian thực hiện Kịch bản của bạn là quan trọng.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_secondary_8">Sử dụng nút chụp trên menu nổi để chụp ảnh màn hình.</string>
+    <string name="message_tutorial_screen_condition_moving_target_step_secondary_9">Nếu ảnh chụp màn hình của bạn không chứa nhân vật màu xanh lam, bạn có thể nhấn nút này để chụp ảnh mới.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_1">Chào mừng bạn đến với hướng dẫn đầu tiên!
+
+Tại đây, bạn sẽ thử phá kỷ lục điểm số cao của một trò chơi với sự trợ giúp của Klick'r.
+
+Đầu tiên, hãy khởi động trò chơi và cố gắng tự mình giành chiến thắng.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_10">Đối với trò chơi này, điểm thú vị là nhân vật màu xanh dương, vì vậy hãy cắt ảnh chụp màn hình của bạn để chỉ lấy nhân vật này.
+
+Bạn có thể chụm hai ngón tay trên ảnh chụp màn hình để phóng to và thao tác chọn vùng cắt chính xác hơn.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_11">Hình ảnh Điều kiện của bạn đã được ghi lại!
+
+Bây giờ có một số điều chỉnh có thể được thực hiện đối với nó, nhưng các cài đặt mặc định phù hợp với trường hợp sử dụng cơ bản của chúng ta. Vì mục tiêu của chúng ta không di chuyển, nó sẽ chỉ phát hiện ở vị trí chụp, nhanh hơn so với việc phát hiện trên toàn màn hình.
+
+Nhấn vào nút lưu để ghi lại và quay lại danh sách Điều kiện.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_12">Đóng danh sách Sự kiện để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_13">Với Điều kiện này, kịch bản biết khi nào cần kích hoạt các Hành động.
+
+Bây giờ bạn cần xác định những Hành động nào sẽ được kích hoạt, đối với trò chơi này là một cú nhấp vào nhân vật màu xanh lam.
+
+Nhấp vào trường Hành động để hiển thị danh sách Hành động.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_14">Hành động là hành động được thực hiện sau khi các Sự kiện của Sự kiện của nó được đáp ứng.
+
+Đó có thể là một lần nhấp, vuốt, tạm dừng, Ý định (tương tác với ứng dụng khác) hoặc thay đổi trong quá trình thực thi Kịch bản và nhiều Hành động có thể được xác định cho cùng một Sự kiện.
+
+Nhấp vào nút tạo Hành động để tạo Hành động đầu tiên của bạn.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_15">Đầu tiên, chúng ta cần chọn một loại cho Hành động của bạn.
+
+Đối với trò chơi này, chúng ta chỉ cần nhấp vào nhân vật màu xanh lam, vì vậy hãy chọn Click để tạo một Hành động Click mới.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_16">Hành động nhấp chuột được xác định bởi vị trí và thời lượng nhấn.
+
+Vì muốn nhấp chuột nhanh nhất có thể nên chúng ta có thể giữ thời lượng nhấn mặc định là 1ms, đây là giá trị thấp nhất có thể. Vì vậy, chúng ta chỉ cần xác định một vị trí.
+
+Bấm vào nút chọn vị trí để chọn vị trí Hành động Bấm.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_17">Bạn cần chọn chính xác vị trí cần nhấp, vì vậy bạn cần khởi động lại trò chơi để hiển thị nhân vật màu xanh lam, sau đó chọn vị trí của nó.
+
+Khi vị trí đã chính xác, hãy nhấp vào nút xác nhận để lưu.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_18">Nhấp chuột hiện đã được cấu hình chính xác!
+
+Nhấp vào nút lưu để đăng ký và quay lại danh sách Hành động.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_19">Đóng danh sách Hành động để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_20">Sự kiện của bạn giờ đây đã có Điều kiện và Hành động, có nghĩa là nó biết phải thực thi cái gì và thực thi khi nào.
+
+Nhấp vào nút lưu để ghi lại và quay lại hộp thoại Kịch bản.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_21">Yêu cầu duy nhất cho một Kịch bản là phải có ít nhất một Sự kiện.
+ Vì Sự kiện của chúng ta đã bao gồm cách để chiến thắng trò chơi, chúng ta không cần thêm gì nữa.
+
+Nhấp vào nút lưu để lưu Kịch bản vào cơ sở dữ liệu và đóng các hộp thoại cấu hình.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_22">Như bạn có thể thấy, nút phát hiện nay đã khả dụng, có nghĩa là Kịch bản của bạn hợp lệ và có thể được sử dụng để phát hiện.
+
+Nhấp vào nó để bắt đầu quá trình phát hiện.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_23">Trò chơi đang chạy nhưng không có chuyện gì xảy ra?
+
+Đó là điều bình thường, nó sẽ chỉ nhấp khi nhân vật màu xanh lam hiển thị, bạn nhớ chứ? Trong khi vẫn giữ cho kịch bản chạy, hãy nhấn nút bắt đầu trò chơi và chỉ cần ngồi xem Klick'r chơi thay bạn nhé!</string>
+    <string name="message_tutorial_screen_condition_still_target_step_24">Chúc mừng bạn!
+
+Bây giờ bạn đã biết những điều cơ bản về Klick'r, nhưng không phải mọi trường hợp sử dụng đều đơn giản như trò chơi này.
+Hãy xem hướng dẫn tiếp theo để tìm hiểu cách theo dõi một mục tiêu đang di chuyển</string>
+    <string name="message_tutorial_screen_condition_still_target_step_3">Khó phải không?
+Hãy sử dụng Klick'r để vượt qua nó!
+
+ Nhấp vào biểu tượng cấu hình kịch bản để bắt đầu chỉnh sửa kịch bản mới của bạn.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_4">Kịch bản là cấu trúc gốc của tự động hóa Klick'r.
+
+ Nó chứa các cài đặt phát hiện chung và danh sách các Sự kiện mô tả những gì sẽ được thực thi khi chạy Kịch bản của bạn.
+
+Nhấp vào nút tạo Sự kiện để tạo Sự kiện đầu tiên của bạn.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_5">Một Sự kiện mô tả những Hành động nào (nhấp, vuốt…) sẽ được thực thi khi đáp ứng các Điều kiện nhất định.
+
+Bạn phải tạo ít nhất một Điều kiện và một Hành động để tạo một Sự kiện hợp lệ và sử dụng nó trong kịch bản của mình
+
+Nhấp vào trường Điều kiện để hiển thị danh sách Điều kiện.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_6">Điều kiện là một phần của ảnh chụp màn hình sẽ được so sánh với từng khung hình trên thiết bị của bạn.
+
+Để vượt qua trò chơi, chúng ta muốn nhấp vào nhân vật màu xanh lam khi nó hiển thị, vì vậy chúng ta cần một Điều kiện được thỏa mãn khi nhân vật xuất hiện trên màn hình thiết bị.
+
+Nhấp vào nút tạo Điều kiện để tạo Điều kiện đầu tiên của bạn.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_7">Trong hướng dẫn này, chúng ta muốn học cách nhận diện một hình ảnh trên màn hình, vì vậy hãy chọn Điều kiện hình ảnh</string>
+    <string name="message_tutorial_screen_condition_still_target_step_8">Bước đầu tiên trong việc tạo Điều kiện là chụp ảnh màn hình cho nó.
+
+ Vì chúng ta muốn nhấp khi nhân vật màu xanh lam hiển thị, ảnh chụp màn hình phải chứa nhân vật đó. Hãy khởi động lại trò chơi để hiển thị nhân vật, sau đó chụp ảnh màn hình.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_9">Sau khi chụp ảnh màn hình, bạn có thể cắt ảnh để chỉ giữ lại phần cần thiết cho quá trình nhận diện.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_secondary_10">Đảm bảo nhân vật hiển thị đầy đủ trong vùng chọn. Hãy cố gắng cắt sát nhân vật nhất có thể để giúp quá trình nhận diện hình ảnh diễn ra dễ dàng hơn.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_secondary_17">Bạn không thể tương tác với trò chơi khi bộ chọn vị trí đang hiển thị, nhưng bạn có thể dùng nút này để ẩn hoặc hiện nó, cho phép bạn gỡ bỏ giới hạn đó bất cứ lúc nào.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_secondary_8">Sử dụng nút chụp trên menu nổi để chụp ảnh màn hình.</string>
+    <string name="message_tutorial_screen_condition_still_target_step_secondary_9">Nếu ảnh chụp màn hình của bạn không chứa nhân vật màu xanh lam, bạn có thể nhấn nút này để chụp ảnh mới.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_1">Chào mừng bạn đến với hướng dẫn điều kiện mục tiêu di chuyển!
+
+Tại đây, bạn sẽ thử phá kỷ lục điểm số cao của một trò chơi với sự trợ giúp của Klick'r.
+
+Bạn có thể thử trước bằng cách nhấn bắt đầu trò chơi, hoặc tiến hành cấu hình Kịch bản trực tiếp.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_10">Đóng danh sách Sự kiện để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_11">Với Điều kiện này, kịch bản biết khi nào cần kích hoạt các Hành động.
+
+Bây giờ bạn cần xác định những Hành động nào sẽ được kích hoạt, đối với trò chơi này là một cú nhấp vào nút ..Hello...;
+
+Nhấp vào trường Hành động để hiển thị danh sách Hành động.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_12">Hành động là hành động được thực hiện sau khi các Sự kiện của Sự kiện của nó được đáp ứng.
+
+Đó có thể là một lần nhấp, vuốt, tạm dừng, Ý định (tương tác với ứng dụng khác) hoặc thay đổi trong quá trình thực thi Kịch bản và nhiều Hành động có thể được xác định cho cùng một Sự kiện.
+
+Nhấp vào nút tạo Hành động để tạo Hành động đầu tiên của bạn.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_13">Đầu tiên, chúng ta cần chọn loại cho Hành động của bạn.
+
+Đối với trò chơi này, chúng ta chỉ cần nhấp vào nút, vì vậy hãy chọn Nhấp để tạo một Hành động Nhấp mới.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_14">Vì chữ "Hello" đang di chuyển, chúng ta không thể sử dụng một vị trí cố định. Hãy thay đổi cài đặt "Nhấp vào" thành "Sự kiện" để nhấp vào Điều kiện phát hiện.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_15">Nhấn vào bộ chọn Điều kiện để chọn Điều kiện được nhận diện nào sẽ được nhấp vào.
+
+Chúng ta cần chỉ định điều này vì một Sự kiện có thể có nhiều Điều kiện.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_16">Đối với trường hợp sử dụng của chúng ta thì rất đơn giản, chúng ta chỉ có một Điều kiện duy nhất là văn bản "Hello". 
+
+Chọn nó để nhấp vào vị trí Điều kiện này khi nó được phát hiện trên màn hình của bạn.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_17">Thế là xong!
+Hành động Nhấp của bạn hiện đã được cấu hình chính xác để vượt qua màn chơi.
+
+Hãy nhấn vào nút lưu để ghi nhận và quay trở lại danh sách Hành động.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_18">Đóng danh sách Hành động để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_19">Sự kiện của bạn hiện có Sự kiện và Hành động, có nghĩa là Sự kiện biết phải thực hiện điều gì và khi nào thực hiện.
+
+Nhấp vào nút lưu để đăng ký và quay lại hộp thoại Kịch bản.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_2">Cũng giống như bất kỳ Sự kiện màn hình nào khác, trước tiên chúng ta cần tạo Sự kiện màn hình.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_20">Yêu cầu duy nhất đối với Kịch bản là phải có ít nhất một Sự kiện.
+ Vì Sự kiện của chúng tôi đã đề cập đến cách giành chiến thắng trong trò chơi nên chúng tôi không cần bất cứ điều gì khác.
+
+Nhấp vào nút lưu để lưu Kịch bản trong cơ sở dữ liệu và đóng hộp thoại cấu hình.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_21">Như bạn có thể thấy, nút phát hiện có sẵn, nghĩa là Kịch bản của bạn hợp lệ và có thể được sử dụng để phát hiện.
+
+Click vào nó để bắt đầu phát hiện.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_22">Trò chơi đang chạy nhưng không có chuyện gì xảy ra?
+
+Đó là điều bình thường, nó sẽ chỉ nhấp khi nút hiển thị "Hello", bạn nhớ chứ? Trong khi vẫn giữ cho kịch bản chạy, hãy nhấn nút bắt đầu trò chơi và chỉ cần ngồi xem Klick'r chơi thay bạn nhé!</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_23">Chúc mừng bạn!
+
+Bây giờ bạn đã biết cách phát hiện một văn bản đang di chuyển hiển thị trên màn hình.
+Hãy xem các hướng dẫn khác để khám phá thêm nhiều trường hợp sử dụng.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_3">Bây giờ, hãy nhấp vào trường Sự kiện để mở danh sách Sự kiện.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_4">Chúng ta cần tạo Điều kiện. Bấm vào Tạo.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_5">Trong hướng dẫn này, chúng ta muốn tìm hiểu cách phát hiện văn bản trên màn hình, vì vậy hãy chọn Điều kiện Văn bản</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_6">Điều kiện Văn bản được định nghĩa bằng văn bản cần phát hiện và vùng màn hình để tìm kiếm.
+
+Vì chúng ta muốn nhấp vào nút trò chơi khi nó hiển thị "Hello", hãy nhập Hello vào trường văn bản cần phát hiện.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_7">Bây giờ, chúng ta cần cho Klick'r biết vị trí cần tìm kiếm văn bản.
+
+Nhấp vào trình chọn vùng phát hiện để xác định vùng đó.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_8">Đặt vị trí và thay đổi kích thước hình chữ nhật phát hiện sao cho nó bao phủ bốn nút, vì "Hello" có thể xuất hiện ngẫu nhiên ở 4 vị trí đó. Khi khu vực đã chính xác, hãy nhấn nút xác nhận để lưu lại.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_9">Điều kiện của bạn hiện đã được cấu hình!
+
+Có nhiều tùy chỉnh khác có thể áp dụng, nhưng cài đặt mặc định đã phù hợp với nhu cầu cơ bản của chúng ta.
+
+Hãy nhấn vào nút lưu để ghi nhận và quay trở lại danh sách Điều kiện.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_secondary_6">Trường Bảng chữ cái xác định hệ thống chữ viết của văn bản cần phát hiện. "Hello" sử dụng bảng chữ cái Latinh, vì vậy bạn có thể giữ nguyên giá trị mặc định ở đây, nhưng đừng quên thay đổi nó khi phát hiện các văn bản không phải chữ Latinh.</string>
+    <string name="message_tutorial_text_conditions_moving_text_step_secondary_8">Như thường lệ, hãy cố gắng sử dụng khung nhỏ nhất có thể trong khi vẫn giữ một khoảng lề xung quanh văn bản cần phát hiện. Khu vực càng nhỏ, tốc độ phát hiện càng nhanh.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_1">Chào mừng bạn đến với hướng dẫn điều kiện văn bản!
+
+Tại đây, bạn sẽ thử phá kỷ lục điểm số của một trò chơi với sự trợ giúp của Klick'r.
+
+Bạn có thể thử trước bằng cách nhấn bắt đầu trò chơi, hoặc tiến hành cấu hình Kịch bản trực tiếp.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_10">Đóng danh sách Sự kiện để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_11">Với Điều kiện này, kịch bản sẽ biết khi nào cần kích hoạt các Hành động.
+
+Bây giờ bạn cần định nghĩa những Hành động nào cần kích hoạt, cụ thể cho trò chơi này là một cú nhấp vào nút.
+
+Hãy nhấn vào trường Hành động để hiển thị danh sách Hành động.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_12">Hành động là hành động được thực hiện sau khi các Sự kiện của Sự kiện của nó được đáp ứng.
+
+Đó có thể là một lần nhấp, vuốt, tạm dừng, Ý định (tương tác với ứng dụng khác) hoặc thay đổi trong quá trình thực thi Kịch bản và nhiều Hành động có thể được xác định cho cùng một Sự kiện.
+
+Nhấp vào nút tạo Hành động để tạo Hành động đầu tiên của bạn.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_13">Đầu tiên, chúng ta cần chọn loại cho Hành động của bạn.
+
+Đối với trò chơi này, chúng ta chỉ cần nhấp vào nút, vì vậy hãy chọn Nhấp để tạo một Hành động Nhấp mới.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_14">Hành động nhấp chuột được xác định bởi vị trí và thời lượng nhấn.
+
+Vì muốn nhấp chuột nhanh nhất có thể nên chúng ta có thể giữ thời lượng nhấn mặc định là 1ms, đây là giá trị thấp nhất có thể. Vì vậy, chúng ta chỉ cần xác định một vị trí.
+
+Bấm vào nút chọn vị trí để chọn vị trí Hành động Bấm.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_15">Bạn cần chọn chính xác vị trí cần nhấp, vì vậy bạn cần mở lại trò chơi để hiển thị nút, sau đó chọn vị trí của nó.
+
+Sau khi vị trí đã chính xác, hãy nhấp vào nút xác nhận để lưu lại.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_16">Nhấp chuột hiện đã được cấu hình chính xác!
+
+Nhấp vào nút lưu để đăng ký và quay lại danh sách Hành động.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_17">Đóng danh sách Hành động để quay lại cấu hình Sự kiện.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_18">Sự kiện của bạn hiện có Sự kiện và Hành động, có nghĩa là Sự kiện biết phải thực hiện điều gì và khi nào thực hiện.
+
+Nhấp vào nút lưu để đăng ký và quay lại hộp thoại Kịch bản.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_19">Yêu cầu duy nhất đối với Kịch bản là phải có ít nhất một Sự kiện.
+ Vì Sự kiện của chúng tôi đã đề cập đến cách giành chiến thắng trong trò chơi nên chúng tôi không cần bất cứ điều gì khác.
+
+Nhấp vào nút lưu để lưu Kịch bản trong cơ sở dữ liệu và đóng hộp thoại cấu hình.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_2">Cũng giống như bất kỳ Sự kiện màn hình nào khác, trước tiên chúng ta cần tạo Sự kiện màn hình.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_20">Như bạn có thể thấy, nút phát hiện có sẵn, nghĩa là Kịch bản của bạn hợp lệ và có thể được sử dụng để phát hiện.
+
+Click vào nó để bắt đầu phát hiện.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_21">Trò chơi đang chạy nhưng không có chuyện gì xảy ra?
+
+Đó là điều bình thường, nó sẽ chỉ nhấp khi nút hiển thị "Hello", bạn nhớ chứ? Trong khi vẫn giữ cho kịch bản chạy, hãy nhấn nút bắt đầu trò chơi và chỉ cần ngồi xem Klick'r chơi thay bạn nhé!</string>
+    <string name="message_tutorial_text_conditions_still_text_step_22">Chúc mừng bạn!
+
+Bây giờ bạn đã biết cách phát hiện văn bản hiển thị trên màn hình.
+Hãy xem các hướng dẫn khác để khám phá thêm nhiều trường hợp sử dụng.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_3">Bây giờ, hãy nhấp vào trường Sự kiện để mở danh sách Sự kiện.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_4">Chúng ta cần tạo Điều kiện. Bấm vào Tạo.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_5">Trong hướng dẫn này, chúng ta muốn tìm hiểu cách phát hiện văn bản trên màn hình, vì vậy hãy chọn Điều kiện Văn bản</string>
+    <string name="message_tutorial_text_conditions_still_text_step_6">Điều kiện Văn bản được định nghĩa bằng văn bản cần phát hiện và vùng màn hình để tìm kiếm.
+
+Vì chúng ta muốn nhấp vào nút trò chơi khi nó hiển thị "Hello", hãy nhập Hello vào trường văn bản cần phát hiện.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_7">Bây giờ, chúng ta cần cho Klick'r biết vị trí cần tìm kiếm văn bản.
+
+Nhấp vào trình chọn vùng phát hiện để xác định vùng đó.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_8">Đặt vị trí và thay đổi kích thước hình chữ nhật phát hiện sao cho nó bao phủ nút trò chơi, vì đó là nơi ..Hello... sẽ được hiển thị. Khi khu vực đã chính xác, hãy nhấn nút xác nhận để lưu lại.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_9">Điều kiện của bạn hiện đã được cấu hình!
+
+Có nhiều tùy chỉnh khác có thể áp dụng, nhưng cài đặt mặc định đã phù hợp với nhu cầu cơ bản của chúng ta.
+
+Hãy nhấn vào nút lưu để ghi nhận và quay trở lại danh sách Điều kiện.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_secondary_15">Bạn không thể tương tác với trò chơi khi bộ chọn vị trí đang hiển thị, nhưng bạn có thể dùng nút này để ẩn hoặc hiện nó, cho phép bạn gỡ bỏ giới hạn đó bất cứ lúc nào.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_secondary_6">Trường Bảng chữ cái xác định hệ thống chữ viết của văn bản cần phát hiện. "Hello" sử dụng bảng chữ cái Latinh, vì vậy bạn có thể giữ nguyên giá trị mặc định ở đây, nhưng đừng quên thay đổi nó khi phát hiện các văn bản không phải chữ Latinh.</string>
+    <string name="message_tutorial_text_conditions_still_text_step_secondary_8">Hãy cố gắng sử dụng khung nhỏ nhất có thể trong khi vẫn giữ một khoảng lề xung quanh văn bản cần phát hiện.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_1">Chào mừng bạn đến với hướng dẫn điều kiện đạt đến Bộ đếm thời gian!
+
+Tại đây, bạn sẽ thử kích hoạt một hành động ở một chu kỳ nhất định. Bạn có thể thử chơi trò chơi trước, hoặc bỏ qua để chuyển thẳng đến phần cấu hình kịch bản nhằm bắt đầu tự động hóa.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_10">Đó là tất cả các điều kiện chúng ta cần. Đóng hộp thoại để quay lại phần cấu hình Sự kiện Kích hoạt.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_11">Bây giờ Sự kiện đã biết khi nào nên kích hoạt các hành động của nó, nhưng chúng ta vẫn cần xác định những gì cần kích hoạt. Bấm vào trường Hành động để hiển thị danh sách hành động.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_12">Khi Sự kiện được đáp ứng (mỗi giây), chúng ta cần nhấp vào nút trò chơi. Chỉ cần tạo hành động Nhấp chuột mới và đặt vị trí của nó trên nút trò chơi. 
+
+Hướng dẫn sẽ tiếp tục khi bạn quay lại danh sách Sự kiện với Sự kiện đã tạo của mình.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_13">Sự kiện kích hoạt của chúng tôi biết khi nào nên hành động và phải làm gì, giờ đây chúng tôi có thể lưu kịch bản của mình và cố gắng đánh bại trò chơi. 
+
+Hướng dẫn sẽ tiếp tục sau khi bạn lưu kịch bản.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_14">Bây giờ hãy khởi động lại trò chơi, bắt đầu kịch bản của bạn và xem Klick'r đánh bại trò chơi giúp bạn!</string>
+    <string name="message_tutorial_timer_reached_conditions_step_2">Sự kiện kích hoạt nằm trong danh sách riêng biệt với Sự kiện trên màn hình, hãy nhấp vào biểu tượng Sự kiện kích hoạt để mở.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_3">Bây giờ, hãy nhấp vào tạo để tạo Sự kiện kích hoạt mới.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_4">Như bạn có thể thấy, cấu trúc Sự kiện kích hoạt gần giống với Sự kiện màn hình. Trước tiên chúng ta cần khai báo khi nào chúng ta muốn thực hiện hành động của mình. 
+
+Bấm vào trường Sự kiện kích hoạt để mở danh sách Sự kiện.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_5">Hiện tại, danh sách này trống. Nhấp vào nút tạo để tạo Sự kiện kích hoạt mới.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_6">Để đánh bại trò chơi, chúng ta cần nhấp chuột vào một thời điểm nhất định, vì vậy hãy chọn loại Sự kiện Đã đạt đến bộ đếm thời gian.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_7">Sự kiện đạt được của bộ đếm thời gian được coi là đã hoàn thành sau một khoảng thời gian nhất định. Chúng tôi muốn nhấp chuột mỗi giây, vì vậy hãy sử dụng 1000 mili giây. 
+
+Hướng dẫn sẽ tiếp tục khi bạn nhập 1000 vào hộp "Sau".</string>
+    <string name="message_tutorial_timer_reached_conditions_step_8">Theo mặc định, Sự kiện đạt đến bộ hẹn giờ chỉ được kích hoạt một lần, nhưng ở đây chúng tôi muốn nhấp vào mỗi giây chứ không chỉ một giây sau khi bắt đầu. 
+
+Nhấp vào hộp kiểm để khởi động lại bộ đếm thời gian Sự kiện khi đã đạt đến mức đó.</string>
+    <string name="message_tutorial_timer_reached_conditions_step_9">Sự kiện của chúng tôi hiện được cấu hình để được đáp ứng mỗi giây. Hãy nhớ rằng các thành phần kịch bản khác của bạn vẫn cần được xử lý, do đó, một kịch bản có nhiều Sự kiện được bật có thể trì hoãn Sự kiện này. 
+
+Bấm vào lưu để đóng hộp thoại và quay lại danh sách Sự kiện kích hoạt.</string>
+    <string name="message_tutorial_volume_down_stop">Nếu kịch bản của bạn nhấp quá nhanh, nó có thể chặn bạn sử dụng menu Klick'r để dừng nó.
+
+Trong trường hợp đó, bạn có thể nhấn nút "Giảm âm lượng" vật lý trên thiết bị của mình để dừng kịch bản đang chạy.</string>
+    <string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
+    <string name="mtrl_button_snackbar_close_content_description">Đóng</string>
+    <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
+    <string name="mtrl_checkbox_button_icon_path_group_name">biểu tượng</string>
+    <string name="mtrl_checkbox_button_icon_path_indeterminate">M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
+    <string name="mtrl_checkbox_button_icon_path_name">đường dẫn biểu tượng</string>
+    <string name="mtrl_checkbox_button_path_checked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
+    <string name="mtrl_checkbox_button_path_group_name">cái nút</string>
+    <string name="mtrl_checkbox_button_path_name">đường dẫn nút</string>
+    <string name="mtrl_checkbox_button_path_unchecked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
+    <string name="mtrl_checkbox_state_description_checked">Đã kiểm tra</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Đã kiểm tra một phần</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Chưa được kiểm tra</string>
+    <string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Hơn %1$d thông báo mới</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_switch_thumb_group_name">nhóm_vòng tròn</string>
+    <string name="mtrl_switch_thumb_path_checked">M4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16</string>
+    <string name="mtrl_switch_thumb_path_morphing">M0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16</string>
+    <string name="mtrl_switch_thumb_path_name">vòng tròn</string>
+    <string name="mtrl_switch_thumb_path_pressed">M2,16 A14,14 0 0,1 16,2 H16 A14,14 0 0,1 16,30 H16 A14,14 0 0,1 2,16</string>
+    <string name="mtrl_switch_thumb_path_unchecked">M8,16 A8,8 0 0,1 16,8 H16 A8,8 0 0,1 16,24 H16 A8,8 0 0,1 8,16</string>
+    <string name="mtrl_switch_track_decoration_path">M1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16</string>
+    <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
+    <string name="notification_button_config">Cấu hình</string>
+    <string name="notification_button_hide">Ẩn</string>
+    <string name="notification_button_pause">Tắt</string>
+    <string name="notification_button_play">Sẵn sàng</string>
+    <string name="notification_button_show">Hiện</string>
+    <string name="notification_button_stop">Dừng lại</string>
+    <string name="notification_message">Nhấn để thay đổi kịch bản</string>
+    <string name="notification_scenario_channel_default_name">Bình thường</string>
+    <string name="notification_scenario_channel_group_name">kịch bản Klick'r</string>
+    <string name="notification_scenario_channel_high_name">Cao</string>
+    <string name="notification_scenario_channel_low_name">Thấp</string>
+    <string name="notification_service_channel_name">Klick'r</string>
+    <string name="notification_title">Kịch bản: %1$s</string>
+    <string name="overlay_instructions_gesture_record">Đang ghi lại cử chỉ…</string>
+    <string name="overlay_title_results">Kết quả</string>
+    <string name="overlay_title_threshold">Ngưỡng</string>
+    <string name="password_toggle_content_description">Hiển thị mật khẩu</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="path_pause">M 25 33 L 25 56 L 103 56 L 103 33 Z M 25 95 L 25 72 L 103 72 L 103 95 Z</string>
+    <string name="path_play">M 34 22 L 34 64 L 100 64 L 100 64 Z M 34 106 L 34 64 L 100 64 L 100 64 Z</string>
+    <string name="search_view_hint_action_copy">Tìm kiếm theo tên hành động</string>
+    <string name="search_view_hint_condition_copy">Tìm kiếm theo tên Sự kiện</string>
+    <string name="search_view_hint_dumb_action_copy">Tìm kiếm theo tên hành động</string>
+    <string name="search_view_hint_event_copy">Tìm kiếm theo tên Sự kiện</string>
+    <string name="side_sheet_accessibility_pane_title">Trang bên</string>
+    <string name="tile_label_start_scenario">Start click'r</string>
+    <string name="tile_label_stop_scenario">Dừng Klick'r</string>
+    <string name="tile_subtext_unavailable">Không có kịch bản nào được xác định</string>
+    <string name="title_event_occurrence_counters_empty">Không có bộ đếm</string>
+    <string name="title_event_occurrence_empty">Không có Sự kiện</string>
+    <string name="toast_capture_failed">Ảnh chụp màn hình không thành công, không có khung nào được tạo.</string>
+    <string name="toast_configure_single_click">Chạm vào vị trí để nhấp vào</string>
+    <string name="toast_configure_swipe_from">Chạm vào vị trí để bắt đầu vuốt từ</string>
+    <string name="toast_configure_swipe_to">Chạm vào vị trí để kết thúc thao tác vuốt tới</string>
+    <string name="toast_denied_foreground_permission">Người dùng bị từ chối quyền sử dụng dịch vụ trên nền trước</string>
+    <string name="toast_denied_screen_sharing_permission">Người dùng bị từ chối quyền chia sẻ màn hình</string>
+    <string name="tutorial_category_action_desc_long">Một Hành động được thực thi khi Sự kiện của Sự kiện được đáp ứng. Các hành động bao gồm từ cử chỉ (Nhấp, Vuốt) đến điều khiển luồng (ToggleEvent, ChangeCounter, Tạm dừng) và tương tác hệ thống (Ý định, Thông báo, SystemAction, SetText).
+
+ Tìm hiểu ở đây cách sử dụng từng loại Hành động để xây dựng tập lệnh tự động hóa của bạn.</string>
+    <string name="tutorial_category_action_desc_short">Thực hiện điều gì đó khi Sự kiện của bạn được đáp ứng</string>
+    <string name="tutorial_category_action_name">hành động</string>
+    <string name="tutorial_category_basics_desc_long">Kịch bản là thành phần gốc của tập lệnh tự động hóa của bạn. Nó chứa danh sách ScreenEvents và danh sách TriggerEvents.
+Sự kiện là danh sách các Sự kiện màn hình/Sự kiện kích hoạt cần thực hiện để thực thi danh sách Hành động.
+
+ Tìm hiểu ở đây cách sử dụng từng thành phần của Kịch bản.</string>
+    <string name="tutorial_category_basics_desc_short">Tìm hiểu cách sử dụng từng phần tử Kịch bản</string>
+    <string name="tutorial_category_basics_name">Kịch bản cơ bản</string>
+    <string name="tutorial_category_change_counter_action_desc_long">Hành động phản đối thay đổi sửa đổi một biến Bộ đếm được đặt tên bằng cách đặt biến đó thành một giá trị cố định, thêm vào hoặc trừ đi. Sau đó, bộ đếm có thể được đọc theo Điều kiện hoặc Hành động khác.
+
+ Tìm hiểu ở đây cách sử dụng nó để quản lý trạng thái trong Kịch bản của bạn.</string>
+    <string name="tutorial_category_change_counter_action_desc_short">Đặt, cộng hoặc trừ một giá trị trên Bộ đếm</string>
+    <string name="tutorial_category_change_counter_action_name">Bộ đếm thay đổi</string>
+    <string name="tutorial_category_change_event_state_action_desc_long">Hành động trạng thái Sự kiện thay đổi sẽ bật, tắt hoặc chuyển đổi một hoặc nhiều Sự kiện trong thời gian chạy. Điều này cho phép bạn xây dựng các quy trình gồm nhiều bước trong đó các bước trước sẽ kiểm soát các bước sau.
+
+ Tìm hiểu ở đây cách sử dụng nó để kiểm soát luồng Kịch bản của bạn.</string>
+    <string name="tutorial_category_change_event_state_action_desc_short">Bật, tắt hoặc chuyển đổi một hoặc nhiều Sự kiện</string>
+    <string name="tutorial_category_change_event_state_action_name">Thay đổi trạng thái Bật/Tắt của Sự kiện</string>
+    <string name="tutorial_category_click_action_desc_long">Hành động nhấp chuột mô phỏng một lần nhấn tại tọa độ cố định hoặc ở giữa Điều kiện phù hợp. Bạn có thể định cấu hình thời lượng nhấn để mô phỏng các lần nhấn dài. 
+
+ Tìm hiểu ở đây cách sử dụng nó để tương tác với màn hình của bạn.</string>
+    <string name="tutorial_category_click_action_desc_short">Nhấn vào một vị trí cố định hoặc vào một điều kiện phù hợp</string>
+    <string name="tutorial_category_click_action_name">nhấp chuột</string>
+    <string name="tutorial_category_color_condition_desc_long">Sự kiện màu sẽ kiểm tra màu của một pixel cụ thể trên màn hình của bạn và so sánh nó với màu mục tiêu. Đây là loại Sự kiện nhẹ nhất, không liên quan đến xử lý hình ảnh.
+
+ Tìm hiểu ở đây cách sử dụng nó để phản ứng với những thay đổi màu sắc trên màn hình của bạn.</string>
+    <string name="tutorial_category_color_condition_desc_short">Xác minh xem một màu cụ thể có được hiển thị hay không</string>
+    <string name="tutorial_category_color_condition_name">Sự kiện màu sắc</string>
+    <string name="tutorial_category_combine_conditions_desc_long">Mỗi Sự kiện có một điều kiện Sự kiện:AND yêu cầu phải đáp ứng tất cả các Sự kiện, trong khi OR yêu cầu ít nhất một Sự kiện. Việc kết hợp các loại Sự kiện và điều kiện cho phép bạn xử lý các tình huống phức tạp trong thế giới thực.
+
+ Tìm hiểu ở đây cách kết hợp các Sự kiện một cách hiệu quả.</string>
+    <string name="tutorial_category_combine_conditions_desc_short">Kích hoạt các Sự kiện sử dụng nhiều Sự kiện cùng nhau.</string>
+    <string name="tutorial_category_combine_conditions_name">Sự kiện kết hợp</string>
+    <string name="tutorial_category_combine_event_desc_long">Klick'r cho phép bạn điều phối nhiều Sự kiện để xây dựng các luồng tự động hóa nâng cao. Bằng cách kiểm soát thứ tự đánh giá Sự kiện và bật hoặc tắt chúng trong thời gian chạy, bạn có thể tạo các Kịch bản phức tạp gồm nhiều bước.
+
+ Tìm hiểu ở đây cách kết hợp Sự kiện hiệu quả để kiểm soát hoàn toàn quá trình tự động hóa của bạn.</string>
+    <string name="tutorial_category_combine_event_desc_short">Sử dụng nhiều Sự kiện để điều khiển logic phức tạp</string>
+    <string name="tutorial_category_combine_event_name">Kết hợp Sự kiện</string>
+    <string name="tutorial_category_counters_desc_long">Bộ đếm là một biến số được đặt tên trong phạm vi Kịch bản của bạn. Nó bắt đầu ở một giá trị mặc định và có thể được đọc theo Sự kiện hoặc Hành động và được ghi bởi Hành động phản đối thay đổi.
+
+ Tìm hiểu ở đây cách sử dụng Bộ đếm để xây dựng các tập lệnh tự động hóa thông minh hơn.</string>
+    <string name="tutorial_category_counters_desc_short">Theo dõi và sử dụng các giá trị số trong Kịch bản của bạn.</string>
+    <string name="tutorial_category_counters_name">Bộ đếm</string>
+    <string name="tutorial_category_events_priority_desc_long">Sự kiện màn hình được đánh giá theo thứ tự ưu tiên trong mỗi chu kỳ phát hiện. Sự kiện cao hơn trong danh sách được kiểm tra trước Sự kiện thấp hơn, cho phép bạn xác định Sự kiện nào được ưu tiên khi nhiều Sự kiện có thể kích hoạt cùng một lúc.
+
+ Tìm hiểu ở đây cách đặt mức độ ưu tiên của Sự kiện để tinh chỉnh thứ tự thực hiện Kịch bản của bạn.</string>
+    <string name="tutorial_category_events_priority_desc_short">Kiểm soát tầm quan trọng của Sự kiện của bạn</string>
+    <string name="tutorial_category_events_priority_name">Ưu tiên Sự kiện</string>
+    <string name="tutorial_category_events_state_desc_long">Sự kiện có thể được bật hoặc tắt trong thời gian chạy bằng cách sử dụng Hành động Thay đổi trạng thái Bật/Tắt của Sự kiện. Điều này cho phép bạn xây dựng các quy trình tự động hóa nhiều bước trong đó các bước trước sẽ kiểm soát các bước sau hoặc khi một số Sự kiện nhất định chỉ hoạt động trong các điều kiện cụ thể.
+
+ Tìm hiểu ở đây cách kiểm soát trạng thái Sự kiện để xây dựng các Kịch bản nâng cao.</string>
+    <string name="tutorial_category_events_state_desc_short">Bật hoặc tắt Sự kiện một cách linh hoạt.</string>
+    <string name="tutorial_category_events_state_name">Trạng thái Sự kiện</string>
+    <string name="tutorial_category_image_condition_desc_long">Sự kiện Hình ảnh chụp ảnh chụp màn hình của một phần màn hình của bạn và tìm kiếm nó sau, ở một vị trí chính xác, ở bất kỳ đâu trên màn hình hoặc trong một khu vực xác định. Một ngưỡng kiểm soát mức độ nghiêm ngặt của trận đấu.
+
+ Tìm hiểu ở đây cách sử dụng nó để phản ứng với hình ảnh xuất hiện trên màn hình của bạn.</string>
+    <string name="tutorial_category_image_condition_desc_short">Xác minh nếu một hình ảnh cụ thể được hiển thị</string>
+    <string name="tutorial_category_image_condition_name">Sự kiện hình ảnh</string>
+    <string name="tutorial_category_intent_action_desc_long">Một Hành động có ý định sẽ gửi một Ý định của Android, dưới dạng phát sóng hoặc để bắt đầu một Hoạt động hoặc Dịch vụ. Bạn có thể đính kèm các cặp khóa-giá trị bổ sung để truyền dữ liệu cùng với Ý định.
+
+ Tìm hiểu ở đây cách sử dụng nó để kích hoạt các hành động trong các ứng dụng khác.</string>
+    <string name="tutorial_category_intent_action_desc_short">Gửi Ý định Android đến một ứng dụng hoặc thành phần khác</string>
+    <string name="tutorial_category_intent_action_name">ý định</string>
+    <string name="tutorial_category_notification_action_desc_long">Hành động thông báo đăng thông báo hệ thống Android với tiêu đề và thông báo tùy chỉnh. Sẽ rất hữu ích khi cảnh báo người dùng khi phát hiện một tình trạng cụ thể.
+
+ Tìm hiểu ở đây cách sử dụng nó để hiển thị thông tin trong khi Kịch bản của bạn chạy ở chế độ nền.</string>
+    <string name="tutorial_category_notification_action_desc_short">Đăng thông báo hệ thống</string>
+    <string name="tutorial_category_notification_action_name">Thông báo</string>
+    <string name="tutorial_category_number_condition_desc_long">Sự kiện Số đọc một số được hiển thị trong một vùng xác định trên màn hình của bạn và so sánh nó với một giá trị cố định hoặc Bộ đếm bằng cách sử dụng các điều kiện như bằng, lớn hơn hoặc nhỏ hơn.
+
+ Tìm hiểu ở đây cách sử dụng nó để phản ứng với các giá trị số được hiển thị trên màn hình của bạn.</string>
+    <string name="tutorial_category_number_condition_desc_short">Xác minh nếu một số cụ thể được hiển thị</string>
+    <string name="tutorial_category_number_condition_name">Sự kiện số</string>
+    <string name="tutorial_category_pause_action_desc_long">Hành động tạm dừng sẽ trì hoãn việc thực thi trong một khoảng thời gian được định cấu hình. Sẽ rất hữu ích khi chèn khoảng thời gian chờ giữa hai hành động khi ứng dụng cần thời gian để phản ứng. 
+
+ Tìm hiểu ở đây cách sử dụng nó để tăng tốc các tập lệnh tự động hóa của bạn.</string>
+    <string name="tutorial_category_pause_action_desc_short">Đợi một lúc trước khi thực hiện hành động tiếp theo</string>
+    <string name="tutorial_category_pause_action_name">Tắt</string>
+    <string name="tutorial_category_root_desc_long">Tự động hóa Klick'r dựa trên những gì được hiển thị trên màn hình của bạn, điều này khá khác so với trình nhấp chuột tự động thông thường dựa trên thời gian của bạn.
+
+Tìm hiểu ở đây làm thế nào để sử dụng nó.</string>
+    <string name="tutorial_category_root_name">Hướng dẫn</string>
+    <string name="tutorial_category_screen_condition_desc_long">Sự kiện màn hình là phần "khi" của Sự kiện màn hình của bạn: Khi Sự kiện màn hình của Sự kiện được đáp ứng thì Hành động của Sự kiện này sẽ được thực thi.
+Để đáp ứng Sự kiện màn hình, nội dung trên màn hình thiết bị của bạn phải khớp với màu sắc, hình ảnh, văn bản hoặc số nhất định. 
+
+ Tìm hiểu ở đây cách sử dụng chúng với các trường hợp sử dụng tương tác đơn giản.</string>
+    <string name="tutorial_category_screen_condition_desc_short">Xác minh những gì hiển thị trên màn hình của bạn</string>
+    <string name="tutorial_category_screen_condition_name">Sự kiện màn hình</string>
+    <string name="tutorial_category_swipe_action_desc_long">Hành động vuốt mô phỏng cử chỉ kéo từ tọa độ bắt đầu đến tọa độ kết thúc. Bạn có thể định cấu hình thời lượng vuốt để kiểm soát tốc độ của cử chỉ. 
+
+ Tìm hiểu ở đây cách sử dụng nó để cuộn hoặc kéo các phần tử trên màn hình của bạn.</string>
+    <string name="tutorial_category_swipe_action_desc_short">Trượt từ điểm này sang điểm khác trên màn hình</string>
+    <string name="tutorial_category_swipe_action_name">Vuốt</string>
+    <string name="tutorial_category_system_action_desc_long">Hành động hệ thống gọi ra hành động điều hướng chung của Android chẳng hạn như nhấn Quay lại, Trang chủ hoặc Gần đây. Những hành động này không yêu cầu phối hợp và hành động ở cấp hệ thống.
+
+ Tìm hiểu ở đây cách sử dụng nó để điều hướng thiết bị trong quá trình tự động hóa.</string>
+    <string name="tutorial_category_system_action_desc_short">Gọi một hành động điều hướng Android toàn cầu</string>
+    <string name="tutorial_category_system_action_name">Hành động hệ thống</string>
+    <string name="tutorial_category_text_condition_desc_long">Sự kiện văn bản đọc văn bản được hiển thị trong một khu vực xác định trên màn hình của bạn và kiểm tra xem nó có khớp với một giá trị nhất định hay không.
+
+ Tìm hiểu ở đây cách sử dụng nó để phản ứng với văn bản xuất hiện trên màn hình của bạn.</string>
+    <string name="tutorial_category_text_condition_desc_short">Xác minh nếu văn bản cụ thể được hiển thị</string>
+    <string name="tutorial_category_text_condition_name">Sự kiện văn bản</string>
+    <string name="tutorial_category_trigger_condition_desc_long">Sự kiện kích hoạt là phần "khi" của Sự kiện kích hoạt: nó kích hoạt dựa trên các tín hiệu không trực quan như hết giờ, Bộ đếm đạt đến giá trị hoặc chương trình phát sóng Android được nhận.
+
+ Tìm hiểu ở đây cách sử dụng chúng để xây dựng các luồng tự động hóa dựa trên thời gian hoặc theo trạng thái.</string>
+    <string name="tutorial_category_trigger_condition_desc_short">Xác minh trạng thái của Kịch bản</string>
+    <string name="tutorial_category_trigger_condition_name">Sự kiện kích hoạt</string>
+    <string name="tutorial_category_write_text_action_desc_long">Hành động Viết văn bản sẽ dán một chuỗi đã định cấu hình vào trường nhập hiện được tập trung bằng AccessibilityService. Nó rất hữu ích để điền vào biểu mẫu hoặc trường tìm kiếm mà không cần mô phỏng các lần nhấn phím riêng lẻ.
+
+ Tìm hiểu ở đây cách sử dụng nó để nhập văn bản trong quá trình tự động hóa.</string>
+    <string name="tutorial_category_write_text_action_desc_short">Dán văn bản vào trường nhập tập trung</string>
+    <string name="tutorial_category_write_text_action_name">Viết văn bản</string>
+    <string name="tutorial_slideshow_actions_list_desc">Tìm hiểu cách thực thi danh sách hành động</string>
+    <string name="tutorial_slideshow_actions_list_step_1_text">Các hành động được thực hiện theo thứ tự, lần lượt từng hành động. Bạn có thể thay đổi thứ tự của một hành động bằng cách sử dụng các nút &lt;&lt; và &gt;&gt; hoặc bằng cách nhấn trực tiếp vào hộp chỉ mục của hành động đó.
+
+Cố gắng giữ danh sách hành động của bạn ngắn gọn. Trình nhấp chuột tự động thông thường sẽ chạm vào một địa điểm cho mỗi Sự kiện; đó là hình mẫu để noi theo. Nếu bạn thấy mình đang thêm nhiều hành động vào một Sự kiện, đó thường là dấu hiệu cho thấy công việc nên được chia thành nhiều Sự kiện, mỗi Sự kiện sẽ phản ứng với những gì thực sự có trên màn hình. Đây là triết lý nhìn và hành động của Klick'r: phát hiện trước, sau đó hành động.</string>
+    <string name="tutorial_slideshow_actions_list_title">Danh sách hành động</string>
+    <string name="tutorial_slideshow_broadcast_received_desc">Nghe chương trình phát sóng từ các ứng dụng khác</string>
+    <string name="tutorial_slideshow_broadcast_received_step_1_text">Trên Android, khi ứng dụng muốn chia sẻ trạng thái của mình với các ứng dụng khác, chúng sẽ sử dụng Broadcast Intent. 
+
+Với Sự kiện "Đã nhận khi phát sóng", bạn có thể theo dõi các trạng thái đó và phản ứng bằng một hành động trong Klick'r. Một số giá trị mặc định cho trạng thái hệ thống Android được cung cấp nhưng hãy nhớ rằng các Sự kiện phát sóng dành cho nhà phát triển nhiều hơn vì việc nắm vững chúng đòi hỏi kiến ​​thức phát triển Android.</string>
+    <string name="tutorial_slideshow_broadcast_received_title">Đang phát sóng đã nhận được</string>
+    <string name="tutorial_slideshow_change_counter_action_desc">Tìm hiểu cách sửa đổi giá trị bộ đếm</string>
+    <string name="tutorial_slideshow_change_counter_action_step_1_text">Hành động Bộ đếm thay đổi áp dụng một thao tác cho bộ đếm sử dụng giá trị tĩnh được xác định trước. Có ba thao tác: thêm giá trị vào bộ đếm (+), trừ giá trị đó khỏi bộ đếm (-) hoặc đặt bộ đếm về giá trị chính xác đó (=).
+
+Đây là cách phổ biến nhất để cập nhật bộ đếm. Ví dụ: thêm 1 mỗi khi phát hiện được điều kiện hoặc đặt lại về 0 khi đạt được mục tiêu.</string>
+    <string name="tutorial_slideshow_change_counter_action_step_2_text">Thay vì giá trị tĩnh, bạn có thể sử dụng giá trị hiện tại của bộ đếm khác làm toán hạng. 
+
+Áp dụng ba thao tác tương tự (+, −, =), nhưng số lượng được đọc từ bộ đếm đã chọn trong thời gian chạy thay vì cố định tại thời điểm cấu hình.
+
+Điều này cho phép bạn xây dựng các kịch bản động trong đó các bộ đếm tương tác với nhau.</string>
+    <string name="tutorial_slideshow_change_counter_action_title">Thay đổi hành động phản công</string>
+    <string name="tutorial_slideshow_click_action_offset_desc">Tìm hiểu cách tinh chỉnh vị trí nhấp chuột trên điều kiện được phát hiện</string>
+    <string name="tutorial_slideshow_click_action_offset_step_1_text">Khi nhấp vào một điều kiện được phát hiện, nhấp chuột được áp dụng ở giữa khu vực phù hợp theo mặc định. 
+
+Khoảng bù nhấp chuột cho phép bạn dịch chuyển vị trí đó theo số pixel cố định dọc theo trục X và Y, so với tâm của điều kiện. Điều này hữu ích khi phần tử bạn muốn chạm ở gần — nhưng không chính xác — ở giữa khu vực được phát hiện.</string>
+    <string name="tutorial_slideshow_click_action_offset_title">Tọa độ lệch khi nhấp</string>
+    <string name="tutorial_slideshow_click_action_target_desc">Tìm hiểu cách định cấu hình nơi nhấp chuột sẽ được áp dụng</string>
+    <string name="tutorial_slideshow_click_action_target_step_1_text">Hành động nhấp chuột có thể nhắm mục tiêu hai loại vị trí: vị trí tĩnh luôn giống nhau hoặc vị trí của tình trạng được phát hiện.
+
+Chọn phương pháp nhắm mục tiêu của bạn trong bộ chọn mục tiêu nhấp chuột của hộp thoại cấu hình hành động.</string>
+    <string name="tutorial_slideshow_click_action_target_step_2_text">Khi sử dụng vị trí tĩnh, nhấp chuột sẽ luôn xảy ra ở cùng tọa độ, bất kể nội dung hiện có trên màn hình.
+
+Hãy nhớ rằng các tọa độ đó rất nhạy cảm với việc xoay màn hình: nếu thiết bị xoay, lần nhấp có thể kết thúc ở vị trí không mong muốn hoặc thậm chí nằm ngoài ranh giới màn hình.</string>
+    <string name="tutorial_slideshow_click_action_target_step_3_text">Khi sử dụng vị trí điều kiện, nhấp chuột được áp dụng ở giữa Điều kiện hình ảnh được phát hiện. Điều này làm cho cú nhấp chuột đi theo mục tiêu ở bất cứ nơi nào nó xuất hiện trên màn hình.
+
+Khi điều kiện của Sự kiện là AND, tất cả các điều kiện phải được đáp ứng, do đó, mọi Điều kiện Hình ảnh đều có sẵn vị trí được phát hiện. Bạn có thể tự do chọn bất kỳ mục tiêu nào trong số đó làm mục tiêu nhấp chuột của mình và tùy ý tinh chỉnh mục tiêu đó bằng phần bù nhấp chuột.</string>
+    <string name="tutorial_slideshow_click_action_target_step_4_text">Khi điều kiện của Sự kiện là OR, chỉ một điều kiện sẽ được đáp ứng và các điều kiện tiếp theo sẽ bị bỏ qua. Vì điều này, Klick'r không thể biết trước tình trạng nào sẽ được phát hiện.
+
+Do đó, khi sử dụng điều kiện OR, bạn không thể chọn một điều kiện cụ thể làm mục tiêu lượt nhấp: lượt nhấp sẽ luôn được áp dụng cho điều kiện được phát hiện đầu tiên, bất kể điều kiện nào diễn ra trong thời gian chạy.</string>
+    <string name="tutorial_slideshow_click_action_target_title">Mục tiêu nhấp chuột</string>
+    <string name="tutorial_slideshow_combine_conditions_ordering_desc">Thứ tự các điều kiện của bạn ảnh hưởng như thế nào đến tốc độ kiểm tra Sự kiện của bạn</string>
+    <string name="tutorial_slideshow_combine_conditions_ordering_step_1_text">Thứ tự các điều kiện trong danh sách ảnh hưởng đến tốc độ kiểm tra Sự kiện của bạn.
+
+Với điều kiện AND, quá trình kiểm tra sẽ dừng ngay khi tìm thấy điều kiện đầu tiên KHÔNG được đáp ứng. Đặt các điều kiện ít có khả năng xảy ra nhất trước tiên cho phép ứng dụng bỏ qua phần còn lại sớm hơn, giúp Sự kiện của bạn diễn ra nhanh hơn.</string>
+    <string name="tutorial_slideshow_combine_conditions_ordering_step_2_text">Với điều kiện OR, quá trình kiểm tra sẽ dừng ngay khi tìm thấy điều kiện đầu tiên mà IS đáp ứng. Đặt các điều kiện có khả năng xảy ra nhất lên đầu tiên sẽ cho phép ứng dụng hoàn thành sớm hơn mà không cần kiểm tra phần còn lại.
+
+Trong cả hai trường hợp, đặt điều kiện quan trọng nhất lên đầu danh sách là cách dễ dàng để kịch bản của bạn diễn ra nhanh chóng.</string>
+    <string name="tutorial_slideshow_combine_conditions_ordering_title">Thứ tự điều kiện và tốc độ</string>
+    <string name="tutorial_slideshow_counter_reached_desc">Phản ứng với các giá trị truy cập trong kịch bản của bạn</string>
+    <string name="tutorial_slideshow_counter_reached_step_1_text">Bộ đếm là các biến được khai báo trong kịch bản của bạn và có thể được sửa đổi, hiển thị hoặc xác minh trong quá trình thực thi. 
+
+Với Sự kiện "Đã đạt đến số lượt truy cập", bạn có thể xác minh giá trị hiện tại của bộ đếm để kích hoạt hành động. Tất cả các điều kiện so sánh toán học đều có sẵn để tùy chỉnh việc xác minh. 
+
+Bộ đếm có thể được sử dụng theo nhiều cách khác nhau và việc sử dụng một Sự kiện hoặc hành động liên quan đến bộ đếm thường không đủ để sử dụng chúng một cách chính xác. Các hướng dẫn tương tác về tính năng Bộ đếm có sẵn trong phần dành riêng cho chúng.</string>
+    <string name="tutorial_slideshow_counter_reached_title">Đã đạt số lượt truy cập</string>
+    <string name="tutorial_slideshow_counters_value_usages_desc">Tìm hiểu các cách khác nhau để hiển thị và sử dụng giá trị bộ đếm trong kịch bản của bạn</string>
+    <string name="tutorial_slideshow_counters_value_usages_step_1_text">Bạn có thể hiển thị giá trị hiện tại của bộ đếm bên trong hành động Thông báo. Điều này rất hữu ích để theo dõi tiến trình trong khi kịch bản của bạn đang chạy hoặc để hiển thị bản tóm tắt ở cuối.
+
+Để chèn bộ đếm, nhấn nút Nối bộ đếm trong cấu hình hành động. Thao tác này sẽ thêm phần giữ chỗ như <b>{counterName</b>} vào văn bản của bạn. Khi chạy, phần giữ chỗ được thay thế bằng giá trị thực của bộ đếm. 
+
+Ví dụ: nếu bộ đếm có tên <i>scor</i>e có giá trị 42 thì văn bản "Điểm hiện tại: {score}" sẽ trở thành "Điểm hiện tại: 42".</string>
+    <string name="tutorial_slideshow_counters_value_usages_step_2_text">Bạn cũng có thể chèn giá trị của bộ đếm vào tác vụ Viết văn bản để văn bản đã nhập bao gồm giá trị hiện tại tại thời điểm tác vụ chạy.
+
+Trình giữ chỗ hoạt động theo cách tương tự như trong hành động Thông báo: nhấn nút Nối bộ đếm hoặc nhập trực tiếp <b>{counterName</b>}. 
+
+Ví dụ: nếu bộ đếm có tên <i>scor</i>e có giá trị 42 thì văn bản "Điểm của tôi là {score}" sẽ trở thành "Điểm của tôi là 42".</string>
+    <string name="tutorial_slideshow_counters_value_usages_step_3_text">Giá trị bộ đếm được theo dõi trong báo cáo gỡ lỗi. Nếu có điều gì đó không hoạt động như mong đợi trong kịch bản của bạn, việc ghi lại báo cáo gỡ lỗi sẽ cho bạn thấy chính xác cách bộ đếm của bạn thay đổi theo thời gian, giúp bạn dễ dàng tìm thấy sự cố hơn.</string>
+    <string name="tutorial_slideshow_counters_value_usages_title">Sử dụng giá trị bộ đếm</string>
+    <string name="tutorial_slideshow_events_priority_desc">Tìm hiểu xem thứ tự các Sự kiện trong danh sách của bạn ảnh hưởng như thế nào đến những Sự kiện sẽ diễn ra</string>
+    <string name="tutorial_slideshow_events_priority_step_1_text">Mọi khung hình màn hình được chụp từ màn hình của bạn đều được xử lý bằng cách kiểm tra <b>từng Sự kiện một, từ trên xuống dưới</b>.
+
+Vị trí của một Sự kiện trong danh sách Sự kiện của bạn sẽ xác định thời điểm Sự kiện đó có cơ hội diễn ra. Theo mặc định, ngay khi các điều kiện của Sự kiện được đáp ứng và hành động của Sự kiện được thực thi, <b>khung được coi là không</b>. Quá trình xử lý dừng lại đối với khung đó và khung tiếp theo sẽ bắt đầu lại từ Sự kiện đầu tiên trong danh sách.
+
+Điều này có nghĩa là theo mặc định chỉ có một Sự kiện có thể chạy trên mỗi khung hình.</string>
+    <string name="tutorial_slideshow_events_priority_step_2_text">Bạn có thể thay đổi hành vi này bằng cách sử dụng trường <b>Tiếp tục thực thi</b> trong cài đặt Sự kiện. Khi được bật, sau khi Sự kiện đó chạy, quá trình xử lý <b>tiếp tục diễn ra Sự kiện tiếp theo</b> trong danh sách thay vì dừng lại.
+
+Điều này cho phép nhiều Sự kiện chạy trên cùng một khung.
+
+<b>Ví dụ</b>: danh sách của bạn chứa Sự kiện A, theo sau là Sự kiện B. Nếu Sự kiện A tiếp tục được phát hiện và không bật <b>Tiếp tục thực thi</b>, thì Sự kiện này sẽ chạy mọi khung và Sự kiện B sẽ không bao giờ có cơ hội thực thi.
+
+Bật <b>Tiếp tục thực thi</b> trên Sự kiện A và cả hai Sự kiện sẽ được kiểm tra trên mọi khung hình. 
+
+Một hướng dẫn tương tác cũng có sẵn để thực hành khái niệm này.</string>
+    <string name="tutorial_slideshow_events_priority_title">Ưu tiên Sự kiện</string>
+    <string name="tutorial_slideshow_events_reloading_desc">Tìm hiểu cách thời gian hồi Sự kiện trong trường hợp của bạn</string>
+    <string name="tutorial_slideshow_events_reloading_step_1_text">Thời gian hồi Sự kiện cho phép bạn bỏ qua một Sự kiện trong một khoảng thời gian nhất định sau khi Sự kiện đó được thực hiện. 
+
+Ngay cả khi bị bỏ qua, một Sự kiện ở trạng thái thời gian hồi vẫn được coi là đã bật: thời gian hồi và trạng thái Sự kiện là độc lập. 
+
+Nếu Sự kiện bị vô hiệu hóa khi ở trạng thái thời gian hồi, bộ đếm thời gian thời gian hồi sẽ bị xóa, do đó thời gian hồi chiêu không còn áp dụng khi Sự kiện được kích hoạt lại.</string>
+    <string name="tutorial_slideshow_events_reloading_title">Thời gian hồi Sự kiện</string>
+    <string name="tutorial_slideshow_events_state_basics_desc">Tìm hiểu cách bật và tắt Sự kiện trong khi một kịch bản đang chạy</string>
+    <string name="tutorial_slideshow_events_state_basics_step_1_text">Mọi Sự kiện trong kịch bản của bạn (Sự kiện màn hình và Sự kiện kích hoạt) đều có trạng thái: đó là <b>bật</b> hoặc <b>tắt</b>.
+
+Khi được bật, Sự kiện sẽ diễn ra bình thường và kiểm tra các điều kiện của nó như bình thường. Khi bị tắt, nó hoàn toàn bị bỏ qua, như thể nó không tồn tại.
+
+Theo mặc định, mọi Sự kiện đều bắt đầu được bật. Bạn có thể thay đổi điều này bằng trường <b>Trạng thái ban đầu</b> trong cài đặt Sự kiện.</string>
+    <string name="tutorial_slideshow_events_state_basics_step_2_text">Trong khi một kịch bản đang chạy, bạn có thể Thay đổi trạng thái Bật/Tắt của Sự kiện của bất kỳ Sự kiện nào bằng cách sử dụng hành động <b>Thay đổi trạng thái Bật/Tắt của Sự kiện</b>. Hành động này cho phép bạn bật, tắt hoặc chuyển đổi một hoặc nhiều Sự kiện trong kịch bản của mình.
+
+Điều này mở ra nhiều khả năng: các Sự kiện lần lượt bật lên, các Sự kiện tự tắt sau khi chạy một lần hoặc các nhóm Sự kiện mà mỗi lần chỉ có một Sự kiện hoạt động.</string>
+    <string name="tutorial_slideshow_events_state_basics_step_3_text">Khi <b>tất cả Sự kiện trong kịch bản bị tắt</b>, kịch bản sẽ tự dừng. Không còn gì để làm nên Klick'r tự động dừng lại.
+
+Đây là cách đơn giản để kết thúc một kịch bản: yêu cầu Sự kiện cuối cùng của bạn vô hiệu hóa tất cả những Sự kiện khác sau khi công việc của nó hoàn thành và mọi thứ sẽ tự dừng lại.</string>
+    <string name="tutorial_slideshow_events_state_basics_title">Trạng thái Sự kiện</string>
+    <string name="tutorial_slideshow_image_condition_area_desc">Tìm hiểu về tác động đến hiệu suất kịch bản của bạn</string>
+    <string name="tutorial_slideshow_image_condition_area_step_1_text">Khi tạo Sự kiện hình ảnh, bạn có thể xác định vị trí phát hiện sẽ xảy ra trên màn hình bằng cách thay đổi loại phát hiện.
+
+Theo mặc định, Sự kiện hình ảnh mới sẽ luôn phát hiện tại cùng một vị trí khi chụp. Đây là cách nhanh nhất để phát hiện hình ảnh. 
+
+Nếu hình ảnh bạn cần phát hiện có thể được hiển thị ở một số nơi thì bạn cần sử dụng một trong các tùy chọn khác.</string>
+    <string name="tutorial_slideshow_image_condition_area_step_2_text">Khi chọn "Trong khu vực", trường chọn khu vực sẽ bật; cho phép bạn xác định khu vực phát hiện.
+
+Theo mặc định, khu vực này sẽ giống với khu vực chụp nhưng bạn có thể di chuyển và mở rộng nó. Diện tích càng lớn thì khả năng phát hiện sẽ càng chậm, vì vậy hãy cố gắng chỉ bao gồm những phần thú vị của màn hình.</string>
+    <string name="tutorial_slideshow_image_condition_area_step_3_text">Tùy chọn cuối cùng, "Toàn màn hình" sẽ thay đổi vùng phát hiện thành toàn bộ màn hình. 
+
+Đây là loại phát hiện chậm nhất cho đến nay và bạn chỉ nên sử dụng nó như là phương sách cuối cùng.</string>
+    <string name="tutorial_slideshow_image_condition_area_title">Khu vực phát hiện</string>
+    <string name="tutorial_slideshow_image_condition_capture_desc">Lời khuyên về chụp ảnh tối ưu</string>
+    <string name="tutorial_slideshow_image_condition_capture_step_1_text">Khi chụp ảnh theo Sự kiện, bạn cần tránh thay đổi các phần như nền. Việc chụp cần phải nhìn gần nhất có thể với những gì sẽ được hiển thị khi phát hiện.
+
+Cố gắng luôn chụp càng gần mục tiêu bạn muốn khớp càng tốt trong khi vẫn giữ đủ chi tiết để phát hiện.
+
+Lưu ý: Bạn có thể chụm để thu phóng để chụp và kiểm soát khu vực chính xác hơn.</string>
+    <string name="tutorial_slideshow_image_condition_capture_step_2_text">Hãy cẩn thận với những hình ảnh có chứa vùng trong suốt. Nếu nền phía sau bề mặt trong suốt thay đổi, thuật toán phát hiện sẽ phát hiện những thay đổi về màu sắc hoặc hình dạng và sẽ không coi đó là đã phát hiện. 
+
+Cố gắng tránh các phần trong suốt trong Sự kiện của bạn trong khi vẫn giữ đủ chi tiết tĩnh để phát hiện. Bạn cũng có thể thay đổi dung sai phát hiện để bù đắp cho những thay đổi có thể xảy ra ở các vùng nhỏ trong suốt. 
+
+Nếu có văn bản trong mục tiêu mà bạn muốn khớp, bạn có thể cân nhắc sử dụng Sự kiện văn bản vì chúng ít bị ảnh hưởng bởi nhiễu thay đổi nền.</string>
+    <string name="tutorial_slideshow_image_condition_capture_step_3_text">Tính năng phát hiện hình ảnh sẽ chính xác hơn khi áp dụng cho những vật thể có nhiều đường viền. Nó cũng nhanh hơn nếu hình ảnh nhỏ hơn, nhưng sẽ mất tự tin nếu hình ảnh quá nhỏ và thiếu chi tiết. Hãy cố gắng ghi nhớ điều đó khi tạo Sự kiện hình ảnh mới.
+
+Nếu bạn đang cố gắng phát hiện những thứ rất nhỏ, thay vào đó, bạn có thể muốn sử dụng một hoặc một số Sự kiện màu, chúng đáng tin cậy hơn cho những trường hợp như vậy và nhanh hơn nhiều.</string>
+    <string name="tutorial_slideshow_image_condition_capture_title">Chụp ảnh</string>
+    <string name="tutorial_slideshow_intent_action_desc">Tìm hiểu cách giao tiếp với các ứng dụng khác</string>
+    <string name="tutorial_slideshow_intent_action_step_1_text">Ý định là cách các ứng dụng giao tiếp với nhau trên Android. Hành động Ý định cho phép bạn truy cập vào hệ thống này trực tiếp từ kịch bản của mình.
+
+Một tập hợp các mẫu được xác định trước có sẵn để thực hiện việc này dễ dàng. Ứng dụng phổ biến nhất là Khởi động ứng dụng, khởi chạy một ứng dụng khác trên thiết bị của bạn chính xác như thể bạn đã nhấn vào biểu tượng của nó từ trình khởi chạy.</string>
+    <string name="tutorial_slideshow_intent_action_step_2_text">Tab Nâng cao cho phép bạn xác định Ý định thô theo cách thủ công, cung cấp cho bạn toàn quyền kiểm soát hành động, danh mục, dữ liệu và các tính năng bổ sung. Điều này không được khuyến khích cho người dùng thường xuyên; nó nhắm đến các nhà phát triển Android đã biết cách hoạt động của Ý định.
+
+Nhiều mẫu sẵn sàng sử dụng hơn sẽ được thêm vào trong các bản cập nhật trong tương lai để giúp thiết lập các trường hợp sử dụng phổ biến dễ dàng hơn mà không cần đi sâu vào các tùy chọn nâng cao.</string>
+    <string name="tutorial_slideshow_intent_action_title">Ý định hành động</string>
+    <string name="tutorial_slideshow_notification_action_desc">Tìm hiểu cách hiển thị thông báo trong kịch bản của bạn</string>
+    <string name="tutorial_slideshow_notification_action_step_1_text">Hành động Thông báo hiển thị thông báo Android có tiêu đề và thông báo bạn chọn.
+
+Bạn có thể chèn giá trị hiện tại của bộ đếm vào văn bản thông báo bằng nút Nối bộ đếm hoặc bằng cách nhập trực tiếp phần giữ chỗ <b>{counterName</b>}. Trong thời gian chạy, nó được thay thế bằng giá trị của bộ đếm — ví dụ: "Tôi có {táo} táo" trở thành "Tôi có 18 quả táo".</string>
+    <string name="tutorial_slideshow_notification_action_step_2_text">Mức độ quan trọng của thông báo kiểm soát mức độ hiển thị của thông báo. Mức độ quan trọng cao hơn có thể hiển thị biểu ngữ hướng dẫn và phát âm thanh, trong khi mức độ quan trọng thấp hơn được chuyển âm thầm đến ngăn thông báo.
+
+Hành vi chính xác tùy thuộc vào thiết bị và có thể được tùy chỉnh thêm trong cài đặt thông báo Android cho Klick'r.</string>
+    <string name="tutorial_slideshow_notification_action_title">Hành động thông báo</string>
+    <string name="tutorial_slideshow_number_condition_area_desc">Lời khuyên về phát hiện số tối ưu</string>
+    <string name="tutorial_slideshow_number_condition_area_step_1_text">Các mẹo ở đây cũng giống như đối với Sự kiện văn bản: khi phát hiện một số trên màn hình, bạn cần xác định vùng phát hiện sẽ được quét để tìm số trong quá trình phát hiện. 
+
+Khi phát hiện một số tĩnh, bạn muốn vùng đó gần với số đó trong khi vẫn giữ một lề nhỏ xung quanh nó. Con số không được chạm vào ranh giới của khu vực, nếu không độ tin cậy phát hiện sẽ giảm đáng kể. 
+
+Lưu ý: đối với những số lượng rất nhỏ, bạn có thể cần phải tăng chất lượng phát hiện kịch bản của mình vì độ phân giải cao hơn sẽ giúp phát hiện những số đó.</string>
+    <string name="tutorial_slideshow_number_condition_area_title">Khu vực phát hiện số</string>
+    <string name="tutorial_slideshow_pause_action_desc">Tìm hiểu cách tạm dừng ảnh hưởng đến việc thực hiện và phát hiện hành động</string>
+    <string name="tutorial_slideshow_pause_action_step_1_text">Hành động tạm dừng sẽ tạm dừng toàn bộ kịch bản trong khoảng thời gian được định cấu hình: trong thời gian đó, không có hành động nào được thực hiện và không có hoạt động phát hiện màn hình nào xảy ra.
+
+Một trường hợp sử dụng rất phổ biến là thêm Tạm dừng vào cuối danh sách hành động của bạn. Khi bạn nhấp vào một nơi nào đó, ứng dụng bạn đã nhấp vào cần có thời gian để xử lý nhấp chuột và hiển thị kết quả và bạn thường muốn đợi trong thời điểm đó trước khi Klick'r bắt đầu nhìn lại màn hình.
+
+Việc tạm dừng giữa hai hành động cũng hợp lệ, nhưng việc thêm một hành động vào cuối danh sách thường là trường hợp sử dụng phổ biến hơn.</string>
+    <string name="tutorial_slideshow_pause_action_title">Tạm dừng hành động</string>
+    <string name="tutorial_slideshow_screen_condition_threshold_desc">Lời khuyên về độ tin cậy phát hiện</string>
+    <string name="tutorial_slideshow_screen_condition_threshold_step_1_text">Klick'r thực hiện rất nhiều bước xử lý trước khi tìm kiếm Sự kiện màn hình của bạn nhằm tăng tốc quá trình và giảm tác động đến pin. Điều này tạo ra sự không chắc chắn và gần đúng trong các kết quả được thể hiện dưới dạng điểm tin cậy. 
+
+Để đảm bảo các Sự kiện của bạn hoạt động như mong đợi, bạn có thể kiểm tra từng Sự kiện bằng cách nhấn nút mũi tên phát trong khi tập trung một Sự kiện vào danh sách Sự kiện trên màn hình.</string>
+    <string name="tutorial_slideshow_screen_condition_threshold_step_2_text">Khi kiểm tra Sự kiện màn hình, điểm tin cậy phát hiện sẽ được hiển thị và bạn có thể sửa đổi chênh lệch được chấp nhận ngay tại đây, cho phép bạn loại bỏ kết quả dương tính giả hoặc linh hoạt hơn với các kết quả được phép.</string>
+    <string name="tutorial_slideshow_screen_condition_threshold_step_3_text">Kết quả phát hiện cũng bị ảnh hưởng bởi độ phân giải phát hiện. Có sẵn trong hộp thoại Kịch bản, nó cho phép bạn thay đổi mức độ thu nhỏ nội dung màn hình của Klick'r trước khi xử lý nó. 
+
+Điều này có thể ảnh hưởng đến điểm tin cậy của tất cả các Sự kiện màn hình của bạn, với độ phân giải cao hơn nghĩa là khả năng phát hiện tốt hơn nhưng thời gian thực hiện cũng chậm hơn.</string>
+    <string name="tutorial_slideshow_screen_condition_threshold_title">Độ tin cậy phát hiện</string>
+    <string name="tutorial_slideshow_screen_condition_type_desc">Tìm hiểu nên sử dụng cái nào tùy thuộc vào trường hợp sử dụng của bạn</string>
+    <string name="tutorial_slideshow_screen_condition_type_step_1_text">Sự kiện màu sắc là cách phát hiện nhanh nhất bằng Klick'r. Nó chỉ đơn giản là xác minh màu sắc của một pixel trên màn hình của bạn. 
+
+Sự kiện này thuận tiện khi cố gắng phát hiện các thành phần UI đơn giản như màu nút hoặc hoàn thành thanh tiến trình hoặc những thay đổi nhỏ.</string>
+    <string name="tutorial_slideshow_screen_condition_type_step_2_text">Sự kiện hình ảnh chậm hơn Sự kiện màu sắc, nhưng nó cho phép phát hiện nội dung màn hình linh hoạt hơn. Thời gian thực hiện khá thấp khi phát hiện ở một khu vực nhỏ nhưng có thể tăng lên rất nhiều khi khu vực đó lớn hơn. 
+
+Sự kiện này thuận tiện khi cố gắng phát hiện các hình dạng và màu sắc rõ ràng, như nội dung của thẻ hoặc biểu tượng.</string>
+    <string name="tutorial_slideshow_screen_condition_type_step_3_text">Sự kiện văn bản và Sự kiện Số đều sử dụng cùng một quy trình phát hiện. 
+
+Phát hiện văn bản là loại phát hiện chậm nhất, nhưng không giống như phát hiện hình ảnh, nó không nhạy cảm với độ trong suốt và cho phép độ chính xác cao hơn trong các cảnh phát hiện phức tạp. Thời gian thực hiện tăng lên theo kích thước vùng phát hiện và cũng phụ thuộc vào bảng chữ cái được chọn. 
+
+Sự kiện này thuận tiện khi cố gắng phát hiện một văn bản hoặc một số độc lập với cách nó được hiển thị.</string>
+    <string name="tutorial_slideshow_screen_condition_type_title">Các loại Sự kiện màn hình</string>
+    <string name="tutorial_slideshow_swipe_action_desc">Tìm hiểu cách thực hiện cử chỉ vuốt</string>
+    <string name="tutorial_slideshow_swipe_action_step_1_text">Hành động vuốt thực hiện cử chỉ kéo theo đường thẳng từ vị trí bắt đầu đến vị trí kết thúc. Cả hai tọa độ đều được cố định và đặt khi định cấu hình hành động. 
+
+Thời lượng vuốt kiểm soát khoảng thời gian cử chỉ di chuyển từ đầu đến cuối: thời lượng ngắn hơn tạo ra thao tác vuốt nhanh hơn, trong khi thời lượng dài hơn tạo ra thao tác kéo chậm hơn, được kiểm soát nhiều hơn.</string>
+    <string name="tutorial_slideshow_swipe_action_title">Thao tác vuốt</string>
+    <string name="tutorial_slideshow_system_action_desc">Tìm hiểu cách kích hoạt các hành động điều hướng của Android</string>
+    <string name="tutorial_slideshow_system_action_step_1_text">Hành động hệ thống thực thi một trong các hành động điều hướng tích hợp của Android: Quay lại, Trang chủ hoặc Gần đây.
+
+Đây là những hành động tương tự như các nút điều hướng ở cuối màn hình của bạn. Chúng không yêu cầu tọa độ và hoạt động ở cấp hệ thống, bất kể ứng dụng nào hiện đang mở.</string>
+    <string name="tutorial_slideshow_system_action_title">Hành động hệ thống</string>
+    <string name="tutorial_slideshow_text_condition_area_desc">Mẹo về phát hiện văn bản tối ưu</string>
+    <string name="tutorial_slideshow_text_condition_area_step_1_text">Khi phát hiện văn bản trên màn hình, bạn cần xác định vùng phát hiện sẽ được quét văn bản trong quá trình phát hiện. 
+
+Khi phát hiện văn bản tĩnh, bạn muốn vùng đó ở gần văn bản trong khi vẫn giữ một lề nhỏ xung quanh nó. Văn bản không được chạm vào đường viền của khu vực, nếu không độ tin cậy phát hiện sẽ giảm đáng kể. 
+
+Lưu ý: đối với văn bản rất nhỏ, bạn có thể cần tăng chất lượng phát hiện kịch bản của mình vì độ phân giải cao hơn sẽ giúp phát hiện những văn bản đó.</string>
+    <string name="tutorial_slideshow_text_condition_area_step_2_text">Khi phát hiện văn bản có thể xuất hiện ở nhiều vị trí, hãy sử dụng vùng phát hiện nhỏ nhất có thể. Vùng phát hiện càng lớn thì tốc độ phát hiện sẽ càng chậm. 
+
+Nếu các vị trí khác nhau được biết đến và không phải ngẫu nhiên, thì việc sử dụng các Sự kiện văn bản riêng biệt cho từng vị trí có thể sẽ nhanh hơn so với vị trí có diện tích rất lớn. Bạn có thể kiểm tra thời gian của mình bằng cách sử dụng báo cáo gỡ lỗi nếu bạn muốn tối ưu hóa sâu về thời gian của kịch bản.</string>
+    <string name="tutorial_slideshow_text_condition_area_title">Khu vực phát hiện văn bản</string>
+    <string name="tutorial_slideshow_toggle_event_action_desc">Tìm hiểu cách bật và tắt Sự kiện trong thời gian chạy</string>
+    <string name="tutorial_slideshow_toggle_event_action_step_1_text">Một Sự kiện bị vô hiệu hóa sẽ bị bỏ qua hoàn toàn trong vòng lặp kịch bản; các điều kiện của nó không bao giờ được kiểm tra và các hành động của nó không bao giờ chạy. Điều này có nghĩa là nó không tiêu tốn thời gian xử lý chút nào.
+
+Vô hiệu hóa các Sự kiện bạn hiện không sử dụng là một cách tuyệt vời để cải thiện hiệu suất. Ví dụ: trong kịch bản xen kẽ giữa giai đoạn menu và giai đoạn trò chơi, việc vô hiệu hóa tất cả các Sự kiện trong menu khi bạn đang ở giai đoạn trò chơi (và ngược lại) chỉ giữ cho các Sự kiện liên quan hoạt động tại bất kỳ thời điểm nào.</string>
+    <string name="tutorial_slideshow_toggle_event_action_step_2_text">Khi định cấu hình hành động, bạn có thể chọn Thay đổi trạng thái Bật/Tắt của Sự kiện của tất cả các Sự kiện trong kịch bản cùng một lúc hoặc xác định trạng thái mới cho từng Sự kiện riêng lẻ. 
+
+Có ba Thay đổi trạng thái Bật/Tắt của Sự kiện có sẵn cho mỗi Sự kiện: bật, tắt hoặc chuyển đổi nó khỏi giá trị hiện tại; vì vậy một Sự kiện đã kích hoạt sẽ bị vô hiệu hóa và một Sự kiện bị vô hiệu hóa sẽ được kích hoạt.</string>
+    <string name="tutorial_slideshow_toggle_event_action_step_3_text">Nếu mọi Sự kiện trong kịch bản đều bị vô hiệu hóa cùng lúc thì kịch bản đó sẽ tự động dừng vì không còn gì để thực thi.
+
+Điều này có thể được sử dụng có chủ ý như một cách rõ ràng để chấm dứt một kịch bản sau khi đạt được mục tiêu: một hành động cuối cùng về Trạng thái Sự kiện thay đổi nhằm vô hiệu hóa tất cả các Sự kiện sẽ khiến kịch bản bị dừng lại.</string>
+    <string name="tutorial_slideshow_toggle_event_action_title">Thay đổi hành động trạng thái Sự kiện</string>
+    <string name="tutorial_slideshow_write_text_action_desc">Tìm hiểu cách đặt văn bản vào trường nhập tập trung</string>
+    <string name="tutorial_slideshow_write_text_action_step_1_text">Trước khi tác vụ Viết văn bản chạy, trường nhập mục tiêu phải được tập trung, giống như bạn chạm vào trường đó để hiển thị bàn phím. 
+
+Để đạt được điều này, hãy thêm hành động Nhấp vào trường đó trước hành động Viết văn bản để tập trung vào trường đó. Nếu hoạt ảnh chuyển tiếp phát sau khi nhấp chuột, hành động Chờ giữa hai hành động này có thể giúp đảm bảo trường đã sẵn sàng. 
+
+Hành động này cũng có tùy chọn Xác thực: khi được bật, nó sẽ tự động nhấn Enter sau khi văn bản được đặt, xác nhận hoặc gửi đầu vào.</string>
+    <string name="tutorial_slideshow_write_text_action_step_2_text">Bạn có thể chèn giá trị của bộ đếm vào văn bản để viết. Nhấn nút Nối bộ đếm trong cấu hình hành động để chọn bộ đếm: thao tác này sẽ chèn phần giữ chỗ <b>{counterName</b>} vào vị trí con trỏ hiện tại trong trường văn bản.
+
+Trong thời gian chạy, mọi phần giữ chỗ <b>{counterName</b>} được thay thế bằng giá trị hiện tại của bộ đếm trước khi văn bản được dán vào trường. Ví dụ: nếu bộ đếm có tên <i>apple</i>s có giá trị 18 thì văn bản "Tôi có {apples} táo" sẽ trở thành "Tôi có 18 quả táo".</string>
+    <string name="tutorial_slideshow_write_text_action_title">Viết hành động văn bản</string>
+    <string name="warning_dialog_message_close_without_saving">Bạn có những sửa đổi chưa được lưu, bạn có muốn loại bỏ chúng không?</string>
+    <string name="warning_dialog_message_condition_delete_associated_action">Sự kiện này có một hoặc nhiều hành động tham chiếu đến nó. Xóa Sự kiện này cũng sẽ xóa các hành động liên quan.
+Bạn có chắc không?</string>
+    <string name="warning_dialog_message_delete">Bạn sắp xóa mục này, bạn có chắc chắn không?</string>
+    <string name="warning_dialog_message_event_delete_associated_action">Sự kiện này có một hoặc nhiều hành động tham chiếu đến nó. Xóa Sự kiện này cũng sẽ xóa các hành động liên quan.
+Bạn có chắc không?</string>
+</resources>
