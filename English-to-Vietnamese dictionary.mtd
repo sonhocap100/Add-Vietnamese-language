@@ -1,0 +1,3656 @@
+{
+  "%1$d day ago"
+  "%1$d ngày trước"
+}
+{
+  "%1$d days ago"
+  "%1$d ngày trước"
+}
+{
+  "%1$d hour ago"
+  "%1$d giờ trước"
+}
+{
+  "%1$d hours ago"
+  "%1$d giờ trước"
+}
+{
+  "%1$d min. ago"
+  "%1$d phút trước"
+}
+{
+  "%d new notification"
+  "%d Thông báo mới"
+}
+{
+  "%d new notifications"
+  "%d Thông báo mới"
+}
+{
+  "Navigate up"
+  "Điều hướng lên"
+}
+{
+  "Done"
+  "Xong"
+}
+{
+  "OFF"
+  "TẮT"
+}
+{
+  "ON"
+  "BẬT"
+}
+{
+  "delete"
+  "Xóa bỏ"
+}
+{
+  "enter"
+  "Tiếp"
+}
+{
+  "Search…"
+  "Tìm kiếm..."
+}
+{
+  "Clear query"
+  "Xoá tìm kiếm"
+}
+{
+  "Search"
+  "Tìm kiếm"
+}
+{
+  "Submit query"
+  "Tra cứu tìm kiếm"
+}
+{
+  "Voice search"
+  "Tìm kiếm bằng giọng nói"
+}
+{
+  "Collapse"
+  "Thu gọn"
+}
+{
+  "This application needs this service to inject the clicks you have created into the other applications once the conditions have been detected.\n\nNo data will be collected from this application. Feel free to visit our github, the code is open source !"
+  "Ứng dụng này cần dịch vụ này để đưa các nhấp chuột bạn đã tạo vào các ứng dụng khác sau khi phát hiện được các Sự kiện.\n\nKhông có dữ liệu sẽ được thu thập từ ứng dụng này. Vui lòng truy cập github của chúng tôi, mã là nguồn mở!"
+}
+{
+  "Scenarios"
+  "kịch bản"
+}
+{
+  "Settings"
+  "Cài đặt"
+}
+{
+  "Tutorial"
+  "Hướng dẫn"
+}
+{
+  "Expand"
+  "Mở rộng"
+}
+{
+  "Expand halfway"
+  "Mở rộng một nửa"
+}
+{
+  "Drag handle"
+  "Vùng kéo thả"
+}
+{
+  "No Actions. You need at least one Action to create a valid Event"
+  "Không có hành động. Bạn cần ít nhất một Hành động để tạo Sự kiện hợp lệ"
+}
+{
+  "No Screen Condition. You need at least one Condition to create a valid Event"
+  "Không có Sự kiện màn hình. Bạn cần ít nhất một Sự kiện để tạo Sự kiện hợp lệ"
+}
+{
+  "Migrating"
+  "Đang di chuyển"
+}
+{
+  "Migrate"
+  "Di chuyển"
+}
+{
+  "Deny"
+  "Từ chối"
+}
+{
+  "Export"
+  "Xuất"
+}
+{
+  "Import"
+  "Nhập"
+}
+{
+  "Open settings"
+  "Mở cài đặt"
+}
+{
+  "Don't kill my app"
+  "Đừng tắt ứng dụng của tôi"
+}
+{
+  "Request permission"
+  "Cấp quyền"
+}
+{
+  "Never changed"
+  "Chưa bao giờ thay đổi"
+}
+{
+  "%1$d write"
+  "%1$d viết"
+}
+{
+  "Never read"
+  "Chưa bao giờ đọc"
+}
+{
+  "%1$d read"
+  "%1$d đã đọc"
+}
+{
+  "Delete counter"
+  "Xóa bộ đếm"
+}
+{
+  "Replace and delete"
+  "Thay thế và xóa"
+}
+{
+  "Create a scenario"
+  "Tạo một kịch bản"
+}
+{
+  "Close"
+  "Đóng"
+}
+{
+  "Next"
+  "Kế tiếp"
+}
+{
+  "Start game"
+  "Bắt đầu trò chơi"
+}
+{
+  "Keep toying around"
+  "Tiếp tục khám phá"
+}
+{
+  "Understood"
+  "đã hiểu"
+}
+{
+  "Characters entered %1$d of %2$d"
+  "Các ký tự đã nhập %1$d trong tổng số %2$d"
+}
+{
+  "Character limit exceeded %1$d of %2$d"
+  "Đã vượt quá giới hạn ký tự %1$d của %2$d"
+}
+{
+  "Clear text"
+  "Xóa văn bản"
+}
+{
+  "equal to"
+  "Bằng với"
+}
+{
+  "greater than"
+  "lớn hơn"
+}
+{
+  "greater or equal to"
+  "lớn hơn hoặc bằng"
+}
+{
+  "lower than"
+  "thấp hơn"
+}
+{
+  "lower or equal to"
+  "thấp hơn hoặc bằng"
+}
+{
+  "The icon showing the type of action"
+  "Biểu tượng hiển thị loại hành động"
+}
+{
+  "The number of actions in this event"
+  "Số hành động trong Sự kiện này"
+}
+{
+  "Add a new action to the scenario"
+  "Thêm một hành động mới vào kịch bản"
+}
+{
+  "The button to create an element"
+  "Nút tạo một phần tử"
+}
+{
+  "Create a new scenario"
+  "Tạo một kịch bản mới"
+}
+{
+  "The icon of the application to start."
+  "Biểu tượng của ứng dụng để bắt đầu."
+}
+{
+  "The state of the backup"
+  "Trạng thái sao lưu"
+}
+{
+  "The number of conditions in this event"
+  "Số lượng điều kiện trong Sự kiện này"
+}
+{
+  "Confirm"
+  "Xác nhận"
+}
+{
+  "The button to create a copy from an existing element"
+  "Nút tạo bản sao từ phần tử hiện có"
+}
+{
+  "Drag and drop to reorder the elements"
+  "Kéo và thả để sắp xếp lại các phần tử"
+}
+{
+  "The state of the event"
+  "Trạng thái của Sự kiện"
+}
+{
+  "Back to dialog"
+  "Quay lại hộp thoại"
+}
+{
+  "The image to be detected"
+  "Hình ảnh được phát hiện"
+}
+{
+  "Move the floating menu"
+  "Di chuyển menu nổi"
+}
+{
+  "Open the list of actions"
+  "Mở danh sách hành động"
+}
+{
+  "Open the event list"
+  "Mở danh sách Sự kiện"
+}
+{
+  "Play or pause the scenario"
+  "Phát hoặc tạm dừng kịch bản"
+}
+{
+  "Show or hide the actions created"
+  "Hiển thị hoặc ẩn các hành động đã tạo"
+}
+{
+  "Stop Klick'r"
+  "Dừng Klick'r"
+}
+{
+  "Change counter"
+  "Bộ đếm thay đổi"
+}
+{
+  "Click"
+  "nhấp chuột"
+}
+{
+  "Condition"
+  "Điều kiện"
+}
+{
+  "Wait"
+  "Chờ đợi"
+}
+{
+  "Swipe"
+  "Vuốt"
+}
+{
+  "Default event"
+  "Sự kiện mặc định"
+}
+{
+  "Intent"
+  "ý định"
+}
+{
+  "Notification"
+  "Thông báo"
+}
+{
+  "Default name"
+  "chưa đặt tên"
+}
+{
+  "Write text"
+  "Viết văn bản"
+}
+{
+  "System action"
+  "Hành động hệ thống"
+}
+{
+  "Toggle event"
+  "Chuyển đổi Sự kiện"
+}
+{
+  "No counters were defined for this scenario."
+  "Không có bộ đếm nào được xác định cho kịch bản này."
+}
+{
+  "No events were executed during the last scenario session."
+  "Không có Sự kiện nào được thực hiện trong phiên kịch bản cuối cùng."
+}
+{
+  "Migration"
+  "Di chuyển"
+}
+{
+  "Extra"
+  "Thêm"
+}
+{
+  "Index"
+  "chỉ mục"
+}
+{
+  "Move to"
+  "Di chuyển đến"
+}
+{
+  "Copy from"
+  "Sao chép từ"
+}
+{
+  "Debug report"
+  "Báo cáo gỡ lỗi"
+}
+{
+  "Action type"
+  "Loại hành động"
+}
+{
+  "Scenario"
+  "Kịch bản"
+}
+{
+  "Timeline filters"
+  "Bộ lọc dòng thời gian"
+}
+{
+  "Warning"
+  "Cảnh báo"
+}
+{
+  "New scenario"
+  "Kịch bản mới"
+}
+{
+  "Select an application"
+  "Chọn một ứng dụng"
+}
+{
+  "Backup"
+  "Hỗ trợ"
+}
+{
+  "Broadcast received"
+  "Đã nhận được phát sóng"
+}
+{
+  "Select a condition"
+  "Chọn một Điều kiện"
+}
+{
+  "Resolve issues"
+  "Giải quyết vấn đề"
+}
+{
+  "Counter value reached"
+  "Đã đạt đến giá trị bộ đếm"
+}
+{
+  "Counters"
+  "Bộ đếm"
+}
+{
+  "Create backup"
+  "Tạo bản sao lưu"
+}
+{
+  "Delete scenario"
+  "Xóa kịch bản"
+}
+{
+  "Events toggles"
+  "Chuyển đổi Sự kiện"
+}
+{
+  "Screen Event"
+  "Sự kiện màn hình"
+}
+{
+  "Import backup"
+  "Nhập bản sao lưu"
+}
+{
+  "Intent Actions"
+  "Hành động có ý định"
+}
+{
+  "Component name"
+  "Tên thành phần"
+}
+{
+  "Flags"
+  "Cờ"
+}
+{
+  "New Counter"
+  "Bộ đếm mới"
+}
+{
+  "Accessibility service"
+  "Dịch vụ tiếp cận"
+}
+{
+  "Troubleshooting"
+  "Khắc phục sự cố"
+}
+{
+  "Permission denied"
+  "Quyền bị từ chối"
+}
+{
+  "Overlay"
+  "Lớp phủ"
+}
+{
+  "Condition type"
+  "Loại Điều kiện"
+}
+{
+  "Timer reached"
+  "Đã đạt đến bộ hẹn giờ"
+}
+{
+  "Event state"
+  "Trạng thái Sự kiện"
+}
+{
+  "Trigger type"
+  "Loại kích hoạt"
+}
+{
+  "Trigger"
+  "Bộ kích hoạt"
+}
+{
+  "Congratulations"
+  "Chúc mừng"
+}
+{
+  "Operator"
+  "Toán tử"
+}
+{
+  "False"
+  "Tắt"
+}
+{
+  "True"
+  "Bật"
+}
+{
+  "Execute all actions as declared"
+  "Thực hiện tất cả các hành động như đã khai báo"
+}
+{
+  "Randomize the click swipe and pause positions and durations by a small random offset"
+  "Chọn ngẫu nhiên các vị trí và thời lượng nhấp chuột vuốt và tạm dừng bằng một khoảng bù ngẫu nhiên nhỏ"
+}
+{
+  "Boolean"
+  "giữ nguyên"
+}
+{
+  "Char"
+  "Ký tự"
+}
+{
+  "Double"
+  "Số thực kép"
+}
+{
+  "Float"
+  "Số thực"
+}
+{
+  "Integer"
+  "Số nguyên"
+}
+{
+  "Short"
+  "Độ dài ngắn"
+}
+{
+  "String"
+  "Chuỗi dài"
+}
+{
+  "Value type"
+  "Loại giá trị"
+}
+{
+  "Start Activity"
+  "Bắt đầu hoạt động"
+}
+{
+  "Send Broadcast"
+  "Gửi phát sóng"
+}
+{
+  "Type"
+  "Kiểu"
+}
+{
+  "Auto-detect"
+  "Tự động phát hiện"
+}
+{
+  "Infers separators from the number structure"
+  "Suy ra dấu phân cách từ cấu trúc số"
+}
+{
+  "Comma decimal"
+  "Dấu phẩy thập phân"
+}
+{
+  "Comma is decimal separator (e.g. 1.234,56)"
+  "Dấu phẩy là dấu phân cách thập phân (ví dụ: 1.234,56)"
+}
+{
+  "Dot decimal"
+  "Dấu chấm thập phân"
+}
+{
+  "Dot is decimal separator (e.g. 1,234.56)"
+  "Dấu chấm là dấu phân cách thập phân (e.g. 1,234.56)"
+}
+{
+  "Time Unit"
+  "Đơn vị thời gian"
+}
+{
+  "h"
+  "giờ"
+}
+{
+  "min"
+  "phút"
+}
+{
+  "s"
+  "giây"
+}
+{
+  "Error: invalid"
+  "Lỗi: không hợp lệ"
+}
+{
+  "Klick'r is incorrectly installed and can't start the detection.\n\nIf you have installed it from a legitimate application store, please contact us on GitHub, as it will help us fix this issue."
+  "Klick'r được cài đặt không chính xác và không thể bắt đầu phát hiện.\n\nNếu bạn đã cài đặt nó từ một cửa hàng ứng dụng hợp pháp, vui lòng liên hệ với chúng tôi trên GitHub vì nó sẽ giúp chúng tôi khắc phục vấn đề này."
+}
+{
+  "Your scenario can't be saved due to an internal error.\nDo you want to modify it or cancel all your modifications ?"
+  "Không thể lưu kịch bản của bạn do lỗi nội bộ.\nBạn có muốn sửa đổi nó hoặc hủy tất cả các sửa đổi của mình không?"
+}
+{
+  "Your device's screen can't be read by Klick'r due to a driver limitation.\n\nUnfortunately this is a hardware restriction that can't be worked around. Please contact us on GitHub with your device model so we can track affected devices."
+  "Klick'r không thể đọc màn hình thiết bị của bạn do giới hạn trình điều khiển.\n\nThật không may, đây là một hạn chế về phần cứng không thể khắc phục được. Vui lòng liên hệ với chúng tôi trên GitHub kèm theo kiểu thiết bị của bạn để chúng tôi có thể theo dõi các thiết bị bị ảnh hưởng."
+}
+{
+  "Error"
+  "Lỗi"
+}
+{
+  "Show dropdown menu"
+  "Hiển thị menu thả xuống"
+}
+{
+  "Start an application when this action is executed"
+  "Khởi động ứng dụng khi hành động này được thực thi"
+}
+{
+  "Disable all events in this scenario. When all events are disabled, the scenario is stopped automatically."
+  "Vô hiệu hóa tất cả các Sự kiện trong trường hợp này. Khi tất cả các Sự kiện bị tắt, kịch bản sẽ tự động dừng."
+}
+{
+  "Enable all events in this scenario"
+  "Kích hoạt tất cả các Sự kiện trong kịch bản này"
+}
+{
+  "Invert the state of all events in this scenario"
+  "Đảo ngược trạng thái của tất cả các Sự kiện trong kịch bản này"
+}
+{
+  "Define the events to change manually"
+  "Xác định các Sự kiện để thay đổi theo cách thủ công"
+}
+{
+  "Change all"
+  "Thay đổi tất cả"
+}
+{
+  "Condition effect"
+  "Chi tiết Sự kiện"
+}
+{
+  "Action effect"
+  "Chi tiết hành động"
+}
+{
+  "None"
+  "Không có"
+}
+{
+  "Click offset"
+  "Tọa độ lệch khi nhấp"
+}
+{
+  "Click on %1$d, %2$d"
+  "Nhấp vào %1$d, %2$d"
+}
+{
+  "Click position"
+  "Vị trí nhấn"
+}
+{
+  "Click on the detected condition"
+  "Bấm vào Sự kiện được phát hiện"
+}
+{
+  "Click on the selected position"
+  "Click vào vị trí đã chọn"
+}
+{
+  "Click on"
+  "Bấm vào"
+}
+{
+  "No condition selected"
+  "Không có Sự kiện nào được chọn"
+}
+{
+  "Event's condition operator is set to \"OR\", click will happen on the first detected condition"
+  "Điều kiện của Sự kiện được đặt thành \"HOẶC\", nhấp chuột sẽ xảy ra ở điều kiện được phát hiện đầu tiên"
+}
+{
+  "Click on a condition"
+  "Bấm vào một Sự kiện"
+}
+{
+  "Click on the first detected condition"
+  "Nhấp vào Sự kiện được phát hiện đầu tiên"
+}
+{
+  "The condition must not be detected"
+  "Điều kiện không được phát hiện"
+}
+{
+  "The condition must be detected"
+  "Điều kiện phải được phát hiện"
+}
+{
+  "Visibility"
+  "Kiểu nhận diện Điều kiện"
+}
+{
+  "This counter name already exists"
+  "Tên bộ đếm này đã tồn tại"
+}
+{
+  "Value"
+  "Giá trị"
+}
+{
+  "Starting value: %1$s"
+  "Giá trị bắt đầu: %1$s"
+}
+{
+  "Click here to select a counter"
+  "Bấm vào đây để chọn bộ đếm"
+}
+{
+  "No counter selected"
+  "Không có bộ đếm nào được chọn"
+}
+{
+  "%1$d counters defined"
+  "%1$d Đã xác định bộ đếm"
+}
+{
+  "No counters defined"
+  "Không có bộ đếm nào được xác định"
+}
+{
+  "%1$d events"
+  "%1$d Sự kiện"
+}
+{
+  "No events"
+  "Không có Sự kiện"
+}
+{
+  "Filters"
+  "Bộ lọc"
+}
+{
+  "Hide all Image Events occurrences in the timeline"
+  "Ẩn tất cả các lần xuất hiện Sự kiện Hình ảnh trong dòng thời gian"
+}
+{
+  "Show Image Events occurrences in the timeline"
+  "Hiển thị các lần xuất hiện Sự kiện Hình ảnh trong dòng thời gian"
+}
+{
+  "Image Events"
+  "Sự kiện hình ảnh"
+}
+{
+  "Hide all Trigger Events occurrences in timeline"
+  "Ẩn tất cả các lần xuất hiện Sự kiện kích hoạt trong dòng thời gian"
+}
+{
+  "Show Trigger Events occurrences in timeline"
+  "Hiển thị các lần xuất hiện Sự kiện kích hoạt trong dòng thời gian"
+}
+{
+  "Trigger Events"
+  "Sự kiện kích hoạt"
+}
+{
+  "Detection at the captured position"
+  "Phát hiện tại vị trí đã chụp"
+}
+{
+  "Detection on the whole screen"
+  "Phát hiện trên toàn màn hình"
+}
+{
+  "Detection type"
+  "Loại phát hiện"
+}
+{
+  "Normal"
+  "Bình thường"
+}
+{
+  "Makes a sound."
+  "Tạo ra âm thanh."
+}
+{
+  "High"
+  "Cao"
+}
+{
+  "Makes a sound and appears as a heads-up."
+  "Tạo ra âm thanh và xuất hiện dưới dạng cảnh báo."
+}
+{
+  "Low"
+  "Thấp"
+}
+{
+  "Makes no sound."
+  "Không có âm thanh."
+}
+{
+  "Importance"
+  "Tầm quan trọng"
+}
+{
+  "Back"
+  "Quay lại"
+}
+{
+  "Home"
+  "Trang chủ"
+}
+{
+  "Recent apps"
+  "Ứng dụng gần đây"
+}
+{
+  "Ignore this event for a given duration after being fulfilled."
+  "Bỏ qua Sự kiện này trong một khoảng thời gian nhất định sau khi được thực hiện."
+}
+{
+  "Duration"
+  "Khoảng thời gian"
+}
+{
+  "Reloading"
+  "Thời gian hồi"
+}
+{
+  "When this Event is triggered, restart the execution from the first event on the list"
+  "Khi Sự kiện này được kích hoạt, nó sẽ chạy lại từ đầu danh sách"
+}
+{
+  "When this Event is triggered, continue the execution from the next event on the list"
+  "Khi Sự kiện này được kích hoạt, nó sẽ tiếp tục chạy đến cuối danh sách"
+}
+{
+  "Keep executing"
+  "Tiếp tục thực thi"
+}
+{
+  "This event needs to be enabled by an action to be interpreted when playing the scenario"
+  "Đã Tắt Sự kiện (nó vẫn có thể Bật/Tắt bằng cách dùng hành động: Thay đổi trạng thái Bật/Tắt của Sự kiện)"
+}
+{
+  "This event will be interpreted normally when playing the scenario"
+  "Đã Bật Sự kiện (nó vẫn có thể Bật/Tắt bằng cách dùng hành động: Thay đổi trạng thái Bật/Tắt của Sự kiện)"
+}
+{
+  "Initial state"
+  "Bật/Tắt Sự kiện"
+}
+{
+  "Force the screen capture selector to \"Entire Screen\". Might not work depending on your device"
+  "Buộc bộ chọn chụp màn hình thành \"Toàn bộ màn hình\". Có thể không hoạt động tùy thuộc vào thiết bị của bạn"
+}
+{
+  "Force entire screen"
+  "Buộc toàn bộ màn hình"
+}
+{
+  "On Pixel Devices With Android 15, using an auto clicker can block the touch screen.\nTo unblock it, you need to touch the screen with multiple fingers at the same time. This setting tries to simulate this every 10s."
+  "Trên thiết bị Pixel chạy Android 15, việc sử dụng trình nhấp chuột tự động có thể chặn màn hình cảm ứng.\nĐể bỏ chặn, bạn cần chạm vào màn hình bằng nhiều ngón tay cùng lúc. Cài đặt này cố gắng mô phỏng điều này cứ sau 10 giây."
+}
+{
+  "Unblock touch screen"
+  "Bỏ chặn màn hình cảm ứng"
+}
+{
+  "Text"
+  "Chữ"
+}
+{
+  "Action"
+  "Hoạt động"
+}
+{
+  "Broadcast Action"
+  "Hành động phát sóng"
+}
+{
+  "Key"
+  "Chìa khóa"
+}
+{
+  "Extras"
+  "Tiện ích bổ sung"
+}
+{
+  "Starting value"
+  "Giá trị ban đầu"
+}
+{
+  "Change the action display by a list. Useful for complex scenarios."
+  "Thay đổi hiển thị hành động theo danh sách. Hữu ích cho các tình huống phức tạp."
+}
+{
+  "Legacy Action UI"
+  "Giao diện người dùng hành động kế thừa"
+}
+{
+  "Use the system buttons instead of icon buttons in the notification."
+  "Sử dụng các nút hệ thống thay vì các nút biểu tượng trong thông báo."
+}
+{
+  "Legacy Notification UI"
+  "Giao diện người dùng thông báo kế thừa"
+}
+{
+  "Content"
+  "Nội dung"
+}
+{
+  "Detection number format"
+  "Định dạng số phát hiện"
+}
+{
+  "All conditions must be fulfilled to trigger the actions"
+  "Phải thỏa mãn tất cả điều kiện để kích hoạt hành động"
+}
+{
+  "Only one condition must be fulfilled to trigger the actions"
+  "​Chỉ cần thỏa mãn một điều kiện để kích hoạt hành động"
+}
+{
+  "Privacy settings"
+  "Cài đặt quyền riêng tư"
+}
+{
+  "Remove ads"
+  "Xóa quảng cáo"
+}
+{
+  "Minute"
+  "Phút"
+}
+{
+  "Second"
+  "Giây"
+}
+{
+  "Limit your scenario processing frequency to save battery. Detection will be slower."
+  "Giới hạn tần suất xử lý kịch bản của bạn để tiết kiệm pin. Việc phát hiện sẽ chậm hơn."
+}
+{
+  "Execution limiter"
+  "Giới hạn thực thi"
+}
+{
+  "Executions"
+  "Thi hành"
+}
+{
+  "Per"
+  "Trên"
+}
+{
+  "Use the normal device screen behaviour."
+  "Sử dụng hoạt động bình thường của màn hình thiết bị."
+}
+{
+  "Keep the device screen on while detecting."
+  "Giữ màn hình thiết bị luôn bật trong khi phát hiện."
+}
+{
+  "Keep screen on"
+  "Giữ màn hình luôn bật"
+}
+{
+  "To achieve faster detection, Klick'r is downscaling the images before detecting.\n\nIf you increase the resolution, the detection will be slower, but more accurate. If you decrease the resolution, the detection will be faster, but less accurate. Find the good ratio between the detection resolution and the conditions thresholds to get the best of your scenarios!"
+  "Để tăng tốc độ nhận diện, Klick'r sẽ giảm độ phân giải của hình ảnh trước khi quét.\n\nNếu bạn tăng độ phân giải, quá trình nhận diện sẽ chậm hơn nhưng chính xác hơn. Nếu giảm độ phân giải, tốc độ nhận diện sẽ nhanh hơn nhưng kém chính xác hơn. Hãy cân đối giữa độ phân giải nhận diện và ngưỡng điều kiện để kịch bản hoạt động tối ưu nhất!"
+}
+{
+  "Detection resolution"
+  "Độ phân giải phát hiện"
+}
+{
+  "In [%1$d, %2$d, %3$d, %4$d]"
+  "Trong [%1$d, %2$d, %3$d, %4$d]"
+}
+{
+  "Detection Area"
+  "Khu vực phát hiện"
+}
+{
+  "Select at least one event to change to state of"
+  "Chọn ít nhất một Sự kiện để thay đổi sang trạng thái"
+}
+{
+  "%1$d changes"
+  "%1$d thay đổi"
+}
+{
+  "No changes"
+  "Không có thay đổi"
+}
+{
+  "Just write the text"
+  "Chỉ cần viết văn bản"
+}
+{
+  "Press Enter after writing the text"
+  "Nhấn Enter sau khi viết văn bản"
+}
+{
+  "Validate text"
+  "Xác thực văn bản"
+}
+{
+  "Debug report is available"
+  "Báo cáo gỡ lỗi có sẵn"
+}
+{
+  "No debug report available"
+  "Không có báo cáo gỡ lỗi"
+}
+{
+  "Show report"
+  "Hiển thị báo cáo"
+}
+{
+  "Display the events triggered while detecting."
+  "Hiển thị các Sự kiện được kích hoạt trong khi phát hiện."
+}
+{
+  "Show debug view"
+  "Hiển thị chế độ xem gỡ lỗi"
+}
+{
+  "Display or hide the filters in the scenario list screen."
+  "Hiển thị hoặc ẩn các bộ lọc trong màn hình danh sách kịch bản."
+}
+{
+  "Show Scenarios filters"
+  "Hiển thị bộ lọc kịch bản"
+}
+{
+  "Swipe from %1$d, %2$d to %3$d, %4$d"
+  "Vuốt từ %1$d, %2$d sang %3$d, %4$d"
+}
+{
+  "Swipe positions"
+  "Vuốt vị trí"
+}
+{
+  "Alphabet"
+  "Bảng chữ cái"
+}
+{
+  "Text to detect"
+  "Văn bản cần phát hiện"
+}
+{
+  "Once reached, the timer will not be restarted, meaning that this condition can be fulfilled only once"
+  "Khi đạt mốc thời gian, bộ đếm giờ sẽ không khởi động lại, đồng nghĩa với việc điều kiện này chỉ có thể được thỏa mãn một lần duy nhất."
+}
+{
+  "Once reached, the timer will restart, allowing this condition to be fulfilled again"
+  "Khi đạt mốc thời gian, bộ đếm giờ sẽ khởi động lại, cho phép điều kiện này có thể được thỏa mãn thêm lần nữa."
+}
+{
+  "Restart when reached"
+  "Khởi động lại khi đạt"
+}
+{
+  "Tolerated difference"
+  "Chênh lệch chấp nhận được"
+}
+{
+  "Config"
+  "Cấu hình"
+}
+{
+  "You must define a detection area. Click here to define one"
+  "Bạn phải xác định một khu vực phát hiện. Nhấn vào đây để xác định một"
+}
+{
+  "Detection area"
+  "Khu vực phát hiện"
+}
+{
+  "Modify"
+  "Biến đổi"
+}
+{
+  "Name"
+  "Tên"
+}
+{
+  "Select the position"
+  "Chọn vị trí"
+}
+{
+  "Required"
+  "Yêu cầu"
+}
+{
+  "Anti-detection"
+  "Chống phát hiện"
+}
+{
+  "Press duration (ms)"
+  "Thời lượng nhấn (ms)"
+}
+{
+  "Maximum duration (minutes)"
+  "Thời lượng tối đa (phút)"
+}
+{
+  "Pause duration"
+  "Thời gian tạm dừng"
+}
+{
+  "Repeat count"
+  "Số lần lặp lại"
+}
+{
+  "Repeat delay (ms)"
+  "Độ trễ lặp lại (ms)"
+}
+{
+  "Scenario name"
+  "Tên kịch bản"
+}
+{
+  "Swipe duration (ms)"
+  "Thời lượng vuốt (ms)"
+}
+{
+  "In order to run this scenario, you need to download the following alphabet models.\n\nEach model can take up to 5MB."
+  "Để chạy kịch bản này, bạn cần tải xuống các mô hình bảng chữ cái sau.\n\nMỗi mô hình có thể chiếm tới 5MB."
+}
+{
+  "In order to use text detection in your scenario, you need to download the relevant alphabet model.\n\nEach model can take up to 5MB."
+  "Để sử dụng tính năng phát hiện văn bản trong trường hợp của bạn, bạn cần tải xuống mô hình bảng chữ cái có liên quan.\n\nMỗi mô hình có thể chiếm tới 5MB."
+}
+{
+  "Fulfilled when a Broadcast is received"
+  "Hoàn thành khi nhận được Broadcast"
+}
+{
+  "%1$s received"
+  "%1$s đã nhận được"
+}
+{
+  "On Broadcast received"
+  "Đã nhận được khi phát sóng"
+}
+{
+  "Change a value to verify it later"
+  "Thay đổi một giá trị để xác minh nó sau"
+}
+{
+  "Counter is invalid"
+  "Bộ đếm không hợp lệ"
+}
+{
+  "Click somewhere on the screen"
+  "Bấm vào đâu đó trên màn hình"
+}
+{
+  "During %1$s"
+  "Trong %1$s"
+}
+{
+  "During %1$s on %2$s"
+  "Trong %1$s       bấm vào Sự kiện"
+}
+{
+  "During %1$s on detected condition"
+  "Trong %1$s       bấm vào điều kiện"
+}
+{
+  "Fulfilled when a color is visible somewhere on the screen"
+  "Hoàn thành khi một màu hiển thị ở đâu đó trên màn hình"
+}
+{
+  "On color detected"
+  "Phát hiện màu"
+}
+{
+  "Copy an existing Action from any Scenarios"
+  "Sao chép Hành động hiện có từ bất kỳ Kịch bản nào"
+}
+{
+  "Missing referenced item(s)"
+  "Thiếu (các) mục được tham chiếu"
+}
+{
+  "Item is valid"
+  "Mục hợp lệ"
+}
+{
+  "Copy"
+  "Sao chép"
+}
+{
+  "This counter is unused. (%1$s)"
+  "Bộ đếm này không được sử dụng. (%1$s)"
+}
+{
+  "This counter is referenced %1$d times. (%2$s)"
+  "Bộ đếm này được tham chiếu %1$d lần. (%2$s)"
+}
+{
+  "This counter is unused."
+  "Bộ đếm này không được sử dụng."
+}
+{
+  "This counter is referenced %1$d times."
+  "Bộ đếm này được tham chiếu %1$d lần."
+}
+{
+  "Verify the value of a counter modified by an Action"
+  "Xác minh giá trị của bộ đếm được sửa đổi bởi Hành động"
+}
+{
+  "On counter reached"
+  "Khi bộ đếm đạt đến ngưỡng"
+}
+{
+  "Capture your scenario behaviour while detecting to create a report."
+  "Ghi lại hành vi kịch bản của bạn trong khi phát hiện để tạo báo cáo."
+}
+{
+  "During %1$s at [%2$d, %3$d]"
+  "Trong %1$s lúc [%2$d, %3$d]"
+}
+{
+  "Click at %1$d, %2$d"
+  "Nhấp vào %1$d, %2$d"
+}
+{
+  "Pause the execution"
+  "Tạm dừng thực hiện"
+}
+{
+  "Repeat %1$d times"
+  "Lặp lại %1$d lần"
+}
+{
+  "Infinite repeat"
+  "Lặp lại vô hạn"
+}
+{
+  "The regular auto clicker experience.\nSimply place clicks and swipes on the screen."
+  "Trải nghiệm clicker tự động thông thường.\nChỉ cần nhấp chuột và vuốt trên màn hình."
+}
+{
+  "Stop after %1$s"
+  "Dừng sau %1$s"
+}
+{
+  "No max duration"
+  "Không có thời lượng tối đa"
+}
+{
+  "Swipe from a position on the screen to another"
+  "Vuốt từ vị trí trên màn hình sang vị trí khác"
+}
+{
+  "During %1$s from [%2$d, %3$d] to [%4$d, %5$d]"
+  "Trong %1$s từ [%2$d, %3$d] đến [%4$d, %5$d]"
+}
+{
+  "Use image detection to create complex use cases."
+  "Sử dụng tính năng phát hiện hình ảnh để tạo các trường hợp sử dụng phức tạp."
+}
+{
+  "Requires to watch an ad or buy pro mode"
+  "Yêu cầu xem quảng cáo hoặc mua chế độ chuyên nghiệp"
+}
+{
+  "Learn how to detect a specific color on the screen and click when it appears"
+  "Tìm hiểu cách phát hiện một màu cụ thể trên màn hình và nhấp vào khi nó xuất hiện"
+}
+{
+  "Use the Visibility option to trigger a click when a target is not on screen"
+  "Sử dụng tùy chọn Hiển thị để kích hoạt nhấp chuột khi mục tiêu không có trên màn hình"
+}
+{
+  "Use the AND operator to click only when multiple targets are visible at the same time"
+  "Sử dụng điều kiện AND để chỉ nhấp khi có nhiều mục tiêu hiển thị cùng lúc"
+}
+{
+  "Use the OR operator to click on the first target that appears on screen"
+  "Sử dụng điều kiện OR để nhấp vào mục tiêu đầu tiên xuất hiện trên màn hình"
+}
+{
+  "Learn how to use the Set Counter action and the Counter Reached condition."
+  "Tìm hiểu cách sử dụng hành động Đặt bộ đếm và điều kiện Đã đạt bộ đếm."
+}
+{
+  "Prioritize an Event over another Event"
+  "Ưu tiên một Sự kiện hơn một Sự kiện khác"
+}
+{
+  "Change the state of multiple events to optimize a complex scenario."
+  "Thay đổi trạng thái Bật/Tắt của Sự kiện của nhiều Sự kiện để tối ưu hóa một kịch bản phức tạp."
+}
+{
+  "Compare a number displayed on your screen to a pre-defined value"
+  "So sánh một số được hiển thị trên màn hình của bạn với một giá trị được xác định trước"
+}
+{
+  "Learn how to create an event to click on a randomly moving target"
+  "Tìm hiểu cách tạo Sự kiện để nhấp vào mục tiêu di chuyển ngẫu nhiên"
+}
+{
+  "Learn how to create your first event in order to click on a still target"
+  "Tìm hiểu cách tạo Sự kiện đầu tiên của bạn để nhấp vào mục tiêu tĩnh"
+}
+{
+  "Learn how to create an event to click on a randomly moving text"
+  "Tìm hiểu cách tạo Sự kiện nhấp vào văn bản chuyển động ngẫu nhiên"
+}
+{
+  "Learn how to detect a specific text on the screen and click when it appears"
+  "Tìm hiểu cách phát hiện một văn bản cụ thể trên màn hình và nhấp vào khi nó xuất hiện"
+}
+{
+  "Learn how to trigger an action at a given cycle."
+  "Tìm hiểu cách kích hoạt một hành động ở một chu kỳ nhất định."
+}
+{
+  "This action is invalid"
+  "Hành động này không hợp lệ"
+}
+{
+  "Disabled"
+  "Tắt"
+}
+{
+  "Enabled"
+  "Bật"
+}
+{
+  "Condition operator"
+  "Toán tử điều kiện"
+}
+{
+  "Confidence: %1$.2f/%2$.2f"
+  "Độ tin cậy: %1$.2f/%2$.2f"
+}
+{
+  "Is fulfilled ?"
+  "Đã hoàn thành chưa?"
+}
+{
+  "Should be detected ?"
+  "Có nên phát hiện?"
+}
+{
+  "Broadcast received: %1$s"
+  "Đã nhận được chương trình phát sóng: %1$s"
+}
+{
+  "Counter reached: %1$s %2$s %3$s"
+  "Đã đạt đến bộ đếm: %1$s %2$s %3$s"
+}
+{
+  "Timer reached: %1$s"
+  "Đã đạt đến bộ hẹn giờ: %1$s"
+}
+{
+  "Frame #%1$d"
+  "Khung #%1$d"
+}
+{
+  "Fulfilled: %1$s"
+  "Đã hoàn thành: %1$s"
+}
+{
+  "%1$d conditions processed"
+  "%1$d Điều kiện đã xử lý"
+}
+{
+  "Image events"
+  "Sự kiện hình ảnh"
+}
+{
+  "Trigger events"
+  "Sự kiện kích hoạt"
+}
+{
+  "One or more items in this copy are referencing an unreachable item.\nClick on the problematic item to fix those issues."
+  "Một hoặc nhiều mục trong bản sao này đang tham chiếu đến một mục không thể truy cập được.\nBấm vào mục có vấn đề để khắc phục những vấn đề đó."
+}
+{
+  "Fulfilled when an image is visible somewhere on the screen"
+  "Hoàn thành khi hình ảnh hiển thị ở đâu đó trên màn hình"
+}
+{
+  "Difference: %1$d%%"
+  "Chênh lệch: %1$d%%"
+}
+{
+  "Not visible"
+  "Không hiển thị"
+}
+{
+  "On image detected"
+  "Phát hiện hình ảnh"
+}
+{
+  "Visible"
+  "Dễ thấy"
+}
+{
+  "Interact with another application"
+  "Tương tác với ứng dụng khác"
+}
+{
+  "Send %1$s"
+  "Gửi %1$s"
+}
+{
+  "Send %1$s to %2$s"
+  "Gửi %1$s tới %2$s"
+}
+{
+  "Start %1$s"
+  "Bắt đầu %1$s"
+}
+{
+  "Send a notification to your device"
+  "Gửi thông báo tới thiết bị của bạn"
+}
+{
+  "Send \"%1$s\""
+  "Gửi \"%1$s\""
+}
+{
+  "Fulfilled when a number is visible somewhere on the screen"
+  "Hoàn thành khi một số hiển thị ở đâu đó trên màn hình"
+}
+{
+  "On number detected"
+  "Phát hiện số"
+}
+{
+  "Pause the detection execution"
+  "Tạm dừng thực hiện phát hiện"
+}
+{
+  "Uses"
+  "Công dụng"
+}
+{
+  "Recent"
+  "Gần đây"
+}
+{
+  "Never used"
+  "Chưa bao giờ sử dụng"
+}
+{
+  "Write a text in the currently focused view"
+  "Viết văn bản trong chế độ xem hiện được đặt tiêu điểm"
+}
+{
+  "Use an Android system action (back, home or recent apps)"
+  "Sử dụng tác vụ của hệ thống Android (trở lại, về nhà hoặc ứng dụng gần đây)"
+}
+{
+  "Fulfilled when a text is visible somewhere on the screen"
+  "Hoàn thành khi văn bản hiển thị ở đâu đó trên màn hình"
+}
+{
+  "On text detected"
+  "Phát hiện văn bản"
+}
+{
+  "Fulfilled after a defined time from this trigger activation"
+  "Hoàn thành sau một thời gian xác định kể từ lần kích hoạt kích hoạt này"
+}
+{
+  "%1$s after event is enabled"
+  "%1$s sau khi Sự kiện được kích hoạt"
+}
+{
+  "On timer reached"
+  "Đã đạt đến thời gian hẹn giờ"
+}
+{
+  "Select output file"
+  "Chọn tập tin đầu ra"
+}
+{
+  "Select backup file"
+  "Chọn tập tin sao lưu"
+}
+{
+  "Generate a report"
+  "Tạo báo cáo"
+}
+{
+  "Simple"
+  "Đơn giản"
+}
+{
+  "Average processing duration"
+  "Thời gian xử lý trung bình"
+}
+{
+  "Frames processed"
+  "Khung đã được xử lý"
+}
+{
+  "Screen Events fulfilled"
+  "Sự kiện màn hình đã hoàn thành"
+}
+{
+  "Total duration"
+  "Tổng thời lượng"
+}
+{
+  "Trigger Events fulfilled"
+  "Sự kiện kích hoạt đã được thực hiện"
+}
+{
+  "Smart"
+  "Thông minh"
+}
+{
+  "Test your %1$s"
+  "Kiểm tra %1$s"
+}
+{
+  "Detect a color for a given pixel"
+  "Phát hiện màu cho một pixel nhất định"
+}
+{
+  "Condition visibility"
+  "Độ hiển thị điều kiện"
+}
+{
+  "Condition operator AND"
+  "Điều kiện AND"
+}
+{
+  "Condition operator OR"
+  "Điều kiện OR"
+}
+{
+  "Counters basics"
+  "Thông tin cơ bản về bộ đếm"
+}
+{
+  "Prioritizing an Event"
+  "Ưu tiên một Sự kiện"
+}
+{
+  "Disable unused events"
+  "Vô hiệu hóa các Sự kiện không sử dụng"
+}
+{
+  "Detect a number on the screen"
+  "Phát hiện một số trên màn hình"
+}
+{
+  "Press a moving target"
+  "Nhấn một mục tiêu di chuyển"
+}
+{
+  "Press a still target"
+  "Nhấn một mục tiêu tĩnh"
+}
+{
+  "Detect a moving text on the screen"
+  "Phát hiện văn bản chuyển động trên màn hình"
+}
+{
+  "Detect a text on the screen"
+  "Phát hiện văn bản trên màn hình"
+}
+{
+  "On Timer Reached"
+  "Đã đạt đến thời gian bật"
+}
+{
+  "Change the enabled state of an event"
+  "Thay đổi trạng thái Bật/Tắt của Sự kiện"
+}
+{
+  "Disable all"
+  "Vô hiệu hóa tất cả"
+}
+{
+  "Enable all"
+  "Kích hoạt tất cả"
+}
+{
+  "Target event not found"
+  "Không tìm thấy Sự kiện mục tiêu"
+}
+{
+  "Invert all"
+  "Đảo ngược tất cả"
+}
+{
+  "Change %1$d events"
+  "Thay đổi Sự kiện %1$d"
+}
+{
+  "Change event state"
+  "Thay đổi trạng thái Bật/Tắt của Sự kiện"
+}
+{
+  "Tab"
+  "Thẻ"
+}
+{
+  "Actions from all Scenarios"
+  "Hành động từ tất cả các kịch bản"
+}
+{
+  "Actions from this Event"
+  "Hành động từ Sự kiện này"
+}
+{
+  "Actions from this Scenario"
+  "Hành động từ kịch bản này"
+}
+{
+  "Conditions from all Scenarios"
+  "Điều kiện từ tất cả kịch bản"
+}
+{
+  "Conditions from this Event"
+  "Điều kiện từ Sự kiện này"
+}
+{
+  "Conditions from this Scenario"
+  "Điều kiện từ kịch bản này"
+}
+{
+  "Actions from all scenario"
+  "Hành động từ tất cả các kịch bản"
+}
+{
+  "Actions from this scenario"
+  "Hành động từ kịch bản này"
+}
+{
+  "Events from all scenarios"
+  "Sự kiện từ mọi tình huống"
+}
+{
+  "Events from this scenario"
+  "Sự kiện từ kịch bản này"
+}
+{
+  "Screen Events"
+  "Sự kiện màn hình"
+}
+{
+  "Loading"
+  "Đang tải"
+}
+{
+  "Range end"
+  "Cuối phạm vi"
+}
+{
+  "Range start"
+  "Bắt đầu phạm vi"
+}
+{
+  "Conditions"
+  "Các điều kiện"
+}
+{
+  "States"
+  "tiểu bang"
+}
+{
+  "Overview"
+  "Tổng quan"
+}
+{
+  "Timeline"
+  "Dòng thời gian"
+}
+{
+  "Actions"
+  "hành động"
+}
+{
+  "Advanced"
+  "Trình độ cao"
+}
+{
+  "Cancel"
+  "Hủy bỏ"
+}
+{
+  "Screen"
+  "Màn hình"
+}
+{
+  "More"
+  "Hơn"
+}
+{
+  "Select all"
+  "Chọn tất cả"
+}
+{
+  "State"
+  "Trạng thái"
+}
+{
+  "Triggers"
+  "Trình kích hoạt"
+}
+{
+  "It seems like the Accessibility Service permission has been removed several times. If you haven't changed it yourself, this means your device has removed it.\n\n Some Android devices manufacturer are not respecting the standard behaviour about background applications, and depending on your device brand, you might need to perform additional configuration.\n\n Please refer to the following website to find more insight about that issue and how you can improve the permission stability."
+  "Có vẻ như quyền Dịch vụ trợ năng đã bị xóa nhiều lần. Nếu bạn chưa tự thay đổi thì điều này có nghĩa là thiết bị của bạn đã xóa nó.\n\n Một số nhà sản xuất thiết bị Android không tôn trọng hành vi tiêu chuẩn về ứng dụng nền và tùy thuộc vào thương hiệu thiết bị của bạn, bạn có thể cần phải thực hiện cấu hình bổ sung.\n\n Vui lòng tham khảo trang web sau để tìm hiểu sâu hơn về vấn đề đó và cách bạn có thể cải thiện tính ổn định của quyền."
+}
+{
+  "Create or import a zip archive of scenarios"
+  "Tạo hoặc nhập kho lưu trữ zip của các kịch bản"
+}
+{
+  "Backup completed"
+  "Sao lưu hoàn tất"
+}
+{
+  "An error has occurred and the backup export has been cancelled"
+  "Đã xảy ra lỗi và quá trình xuất bản sao lưu đã bị hủy"
+}
+{
+  "Creating backup: %1$d/%2$d"
+  "Đang tạo bản sao lưu: %1$d/%2$d"
+}
+{
+  "No application found on the device to handle the save/load of a zip file."
+  "Không tìm thấy ứng dụng nào trên thiết bị để xử lý việc lưu/tải tệp zip."
+}
+{
+  "Some of the imported scenarios have been generated from a device with a different screen and this might cause issues with the detection and action coordinates.\n\nTo fix it, you need to take new screenshots for your conditions and update your click/swipe positions."
+  "Một số kịch bản được nhập vào đã được tạo từ thiết bị có kích thước màn hình khác, điều này có thể gây ra lỗi nhận diện và lệch tọa độ hành động.\n\nĐể khắc phục, bạn cần chụp lại ảnh màn hình mới cho các điều kiện và cập nhật lại vị trí nhấp/vuốt của mình."
+}
+{
+  "Import completed\n%1$d scenario imported"
+  "Đã nhập xong\nĐã nhập %1$d kịch bản"
+}
+{
+  "Import completed\n%1$d scenarios imported\n%2$d errors"
+  "Đã nhập xong\nĐã nhập %1$d kịch bản\n%2$d lỗi"
+}
+{
+  "An error has occurred and the backup import has been cancelled"
+  "Đã xảy ra lỗi và quá trình nhập bản sao lưu đã bị hủy"
+}
+{
+  "Importing backup: %1$d"
+  "Đang nhập bản sao lưu: %1$d"
+}
+{
+  "Data verification"
+  "Xác minh dữ liệu"
+}
+{
+  "Click count:\n%1$d/%2$d"
+  "Số lần nhấp chuột:\n%1$d/%2$d"
+}
+{
+  "%1$d Image Conditions to migrate."
+  "%1$d Các điều kiện hình ảnh cần chuyển đổi dữ liệu."
+}
+{
+  "Klick'r images format have changed and your scenario needs to be updated. This can take a few minutes depending on the number of conditions to migrate."
+  "Định dạng hình ảnh của Klick'r đã thay đổi và kịch bản của bạn cần được cập nhật. Quá trình này có thể mất vài phút tùy thuộc vào số lượng điều kiện cần chuyển đổi dữ liệu."
+}
+{
+  "Some conditions could not be migrated. Please check your scenarios."
+  "Một số điều kiện không thể chuyển đổi dữ liệu. Vui lòng kiểm tra lại các kịch bản của bạn."
+}
+{
+  "All Image Conditions migrated."
+  "Đã chuyển đổi dữ liệu tất cả điều kiện hình ảnh."
+}
+{
+  "This will delete %1$s. Are you sure ?"
+  "Thao tác này sẽ xóa %1$s. Bạn có chắc không?"
+}
+{
+  "Don't show this message again"
+  "Không hiển thị lại thông báo này"
+}
+{
+  "You need at least one action to execute a scenario"
+  "Bạn cần ít nhất một hành động để thực hiện một kịch bản"
+}
+{
+  "An action is an interaction (click, swipe…) with your phone triggered when the created conditions are fulfilled."
+  "Hành động là một tương tác (nhấp, vuốt…) với điện thoại của bạn, được kích hoạt khi các điều kiện đã tạo được thỏa mãn."
+}
+{
+  "No actions !"
+  "Không có hành động!"
+}
+{
+  "Nothing to copy"
+  "Không có gì để sao chép"
+}
+{
+  "A Counter stores a numeric value that can be changed, verified or used in your Actions or Conditions"
+  "Bộ đếm lưu trữ một giá trị số có thể thay đổi, kiểm tra hoặc sử dụng trong các Hành động hoặc Điều kiện của bạn."
+}
+{
+  "No counter defined"
+  "Không có bộ đếm được xác định"
+}
+{
+  "No actions created !"
+  "Không có hành động nào được tạo!"
+}
+{
+  "No image events"
+  "Không có Sự kiện hình ảnh"
+}
+{
+  "Create your first scenario and start automatizing tasks on your phone"
+  "Tạo kịch bản đầu tiên của bạn và bắt đầu tự động hóa các tác vụ trên điện thoại của bạn"
+}
+{
+  "A screen condition is a part of a screenshot that will be searched on each frames displayed by your phone screen."
+  "Điều kiện màn hình là một phần của ảnh chụp màn hình sẽ được tìm kiếm trên từng khung hình hiển thị bởi màn hình điện thoại của bạn."
+}
+{
+  "No screen conditions !"
+  "Không có điều kiện màn hình nào!"
+}
+{
+  "A screen event contains a set of actions executed when a specific condition is detected on the screen.\nYou need at least one screen or trigger event in your scenario to execute it."
+  "Sự kiện màn hình chứa một tập hợp các hành động được thực thi khi một điều kiện cụ thể được phát hiện trên màn hình.\nBạn cần ít nhất một Sự kiện màn hình hoặc Sự kiện kích hoạt trong kịch bản để có thể thực thi nó."
+}
+{
+  "No screen events !"
+  "Không có Sự kiện màn hình nào!"
+}
+{
+  "You need at least one action to run the scenario"
+  "Bạn cần ít nhất một hành động để chạy kịch bản"
+}
+{
+  "A condition is a custom criteria for starting an action."
+  "Sự kiện là tiêu chí tùy chỉnh để bắt đầu một hành động."
+}
+{
+  "No conditions !"
+  "Không có điều kiện nào!"
+}
+{
+  "A trigger event contains a set of actions executed when a set of custom conditions are met.\nYou need at least one screen or trigger event in your scenario to execute it."
+  "Sự kiện kích hoạt chứa một tập hợp các hành động được thực thi khi một tập hợp các điều kiện tùy chỉnh được đáp ứng.\nBạn cần ít nhất một Sự kiện màn hình hoặc Sự kiện kích hoạt trong kịch bản để có thể thực thi nó."
+}
+{
+  "No trigger events !"
+  "Không có Sự kiện kích hoạt!"
+}
+{
+  "Your device does not provide the standard Android screen capture permission dialog. Klick'r won't be able to run on it."
+  "Thiết bị của bạn không cung cấp hộp thoại cấp phép chụp màn hình Android tiêu chuẩn. Klick'r sẽ không thể chạy trên đó."
+}
+{
+  "Click on the blue button as fast as possible"
+  "Bấm vào nút màu xanh càng nhanh càng tốt"
+}
+{
+  "Click the blue button only when the red button is not visible"
+  "Chỉ nhấp vào nút màu xanh khi không nhìn thấy nút màu đỏ"
+}
+{
+  "Click the blue button only when both the blue and red targets are visible"
+  "Chỉ nhấp vào nút màu xanh khi cả hai mục tiêu màu xanh và đỏ đều hiển thị"
+}
+{
+  "Click on any target as soon as it appears on screen"
+  "Nhấp vào bất kỳ mục tiêu nào ngay khi nó xuất hiện trên màn hình"
+}
+{
+  "Click 10 times on the blue target, then click once on the red target"
+  "Nhấp 10 lần vào mục tiêu màu xanh, sau đó nhấp một lần vào mục tiêu màu đỏ"
+}
+{
+  "Click as fast as possible on the targets. Blue = 1 point; Red = 10 points"
+  "Nhấp chuột càng nhanh càng tốt vào các mục tiêu. Màu xanh = 1 điểm; Đỏ = 10 điểm"
+}
+{
+  "Click on the targets in order: blue, red, green and then yellow."
+  "Bấm vào các mục tiêu theo thứ tự: xanh dương, đỏ, xanh lá cây và sau đó là vàng."
+}
+{
+  "Click only when the value is over 9000!"
+  "Chỉ nhấp khi giá trị trên 9000!"
+}
+{
+  "Click on the moving blue button as fast as possible"
+  "Bấm vào nút màu xanh di chuyển càng nhanh càng tốt"
+}
+{
+  "Click only on the button \"Hello\", as fast as possible"
+  "Chỉ nhấp vào nút \"Hello\", càng nhanh càng tốt"
+}
+{
+  "Click on the button when it displays \"Hello\", as fast as possible"
+  "Bấm vào nút khi nó hiển thị \"Hello\", càng nhanh càng tốt"
+}
+{
+  "Click every second on the button for 5 seconds. Try to stay consistent to get a higher score!"
+  "Nhấp vào nút mỗi giây trong 5 giây. Hãy cố gắng duy trì sự nhất quán để đạt điểm cao hơn!"
+}
+{
+  "Best: %1$d"
+  "Tốt nhất: %1$d"
+}
+{
+  "Last:\n%1$sms"
+  "Cuối cùng:\n%1$sms"
+}
+{
+  "Notification behaviour depends on your device OS. You can configure how notifications are handled in you device settings."
+  "Hành vi thông báo tùy thuộc vào hệ điều hành thiết bị của bạn. Bạn có thể định cấu hình cách xử lý thông báo trong cài đặt thiết bị của mình."
+}
+{
+  "The detected number must be %1$s counter \"%2$s\" value"
+  "Số được phát hiện phải là giá trị %1$s bộ đếm \"%2$s\""
+}
+{
+  "The detected number must be %1$s %2$s"
+  "Số được phát hiện phải là %1$s %2$s"
+}
+{
+  "The accessibility service permission allows Klick'r to perform gestures on your device screen. This permission is required in order to execute the clicks and swipes you will create in your automations scenarios.\n\nNo data is collected by Klick'r\n\nTo grant the Accessibility service permission, click on the button bellow."
+  "Quyền dịch vụ trợ năng cho phép Klick'r thực hiện cử chỉ trên màn hình thiết bị của bạn. Quyền này là bắt buộc để thực hiện các thao tác nhấp và vuốt mà bạn sẽ tạo trong các kịch bản tự động hóa của mình.\n\nKhông có dữ liệu nào được Klick'r thu thập\n\nĐể cấp quyền cho dịch vụ Trợ năng, hãy nhấp vào nút bên dưới."
+}
+{
+  "Optional: Shows the notification while the application is running in order to easily return to the scenario selection screen."
+  "Tùy chọn: Hiển thị thông báo khi ứng dụng đang chạy để dễ dàng quay lại màn hình chọn kịch bản."
+}
+{
+  "The overlay permission is required in order to show Klick'r interface over the applications you want to automate, allowing you to configure your scenario without stopping the other application."
+  "Cần có quyền lớp phủ để hiển thị giao diện Klick'r trên các ứng dụng bạn muốn tự động hóa, cho phép bạn định cấu hình kịch bản của mình mà không cần dừng ứng dụng khác."
+}
+{
+  "This permission is mandatory for Klick'r. It won't be able to work correctly without it."
+  "Sự cho phép này là bắt buộc đối với Klick'r. Nó sẽ không thể hoạt động chính xác nếu không có nó."
+}
+{
+  "Replace by …"
+  "Thay thế bằng…"
+}
+{
+  "Player: %1$d"
+  "Người chơi: %1$d"
+}
+{
+  "To write the text in the wanted place, you need to focus the text field first by clicking on it.\n\nPlease note that depending on the application, you might need to wait a little bit after clicking, or the text will be written too early.\n\nThis might also not be working applications that don't support standard text writing, so always test your action first!"
+  "Để viết văn bản vào vị trí mong muốn, trước tiên bạn cần tập trung vào trường văn bản bằng cách nhấp vào nó.\n\nXin lưu ý rằng tùy thuộc vào ứng dụng, bạn có thể phải đợi một chút sau khi nhấp vào, nếu không văn bản sẽ được viết quá sớm.\n\nĐây cũng có thể là những ứng dụng không hoạt động không hỗ trợ tính năng viết văn bản tiêu chuẩn, vì vậy, hãy luôn kiểm tra hành động của bạn trước!"
+}
+{
+  "Target:\n±%1$dms"
+  "Mục tiêu:\n±%1$dms"
+}
+{
+  "Time left: %1$d"
+  "Thời gian còn lại: %1$d"
+}
+{
+  "Total:\n%1$sms"
+  "Tổng số:\n%1$sms"
+}
+{
+  "Welcome to the color condition tutorial!\n\nHere, you will try to beat the high score of a game with the help of Klick'r.\n\nYou can first try it by pressing start game, or proceed to the Scenario configuration directly."
+  "Chào mừng bạn đến với hướng dẫn về Sự kiện màu sắc!\n\nTại đây, bạn sẽ cố gắng vượt qua số điểm cao của trò chơi với sự trợ giúp của Klick'r.\n\nTrước tiên, bạn có thể thử bằng cách nhấn bắt đầu trò chơi hoặc trực tiếp tiến hành cài đặt Kịch bản."
+}
+{
+  "Close the Conditions list to return to the Event configuration."
+  "Đóng danh sách Sự kiện để quay lại cấu hình Sự kiện."
+}
+{
+  "With this Condition, the scenario knows when to trigger the Actions.\n\n You now need to define what Actions to trigger, so for this game, a click on the blue button.\n\nClick on the Actions field to display the Actions list."
+  "Với Sự kiện này, kịch bản sẽ biết khi nào nên kích hoạt Hành động.\n\n Bây giờ bạn cần xác định Hành động nào sẽ kích hoạt, vì vậy, đối với trò chơi này, hãy nhấp vào nút màu xanh lam.\n\nBấm vào Hành động để hiển thị danh sách Hành động."
+}
+{
+  "An Action is something that is executed once the Conditions of its Event are fulfilled.\n\nIt can be a click, a swipe, a pause, an Intent (an interaction with another application) or a change in the Scenario execution, and multiple Actions can be defined for the same Event.\n\nClick on the create Action button to create your first Action."
+  "Hành động là hành động được thực hiện sau khi các Sự kiện của Sự kiện của nó được đáp ứng.\n\nĐó có thể là một lần nhấp, vuốt, tạm dừng, Ý định (tương tác với ứng dụng khác) hoặc thay đổi trong quá trình thực thi Kịch bản và nhiều Hành động có thể được xác định cho cùng một Sự kiện.\n\nNhấp vào nút tạo Hành động để tạo Hành động đầu tiên của bạn."
+}
+{
+  "First, we need to pick a type for your Action.\n\nFor this game, we simply need to click on the blue button, so choose Click to create a new Click Action."
+  "Đầu tiên, chúng ta cần chọn loại cho Hành động của bạn.\n\nĐối với trò chơi này, chúng ta chỉ cần nhấn vào nút màu xanh lam nên hãy chọn Click để tạo Hành động Click mới."
+}
+{
+  "A Click Action is defined by a position and a press duration.\n\nAs we want to click as quickly as possible, we can keep the default press duration of 1ms, which is the lowest possible value. So we only need to define a position.\n\nClick on the position picker button to select the Click Action position."
+  "Hành động nhấp chuột được xác định bởi vị trí và thời lượng nhấn.\n\nVì muốn nhấp chuột nhanh nhất có thể nên chúng ta có thể giữ thời lượng nhấn mặc định là 1ms, đây là giá trị thấp nhất có thể. Vì vậy, chúng ta chỉ cần xác định một vị trí.\n\nBấm vào nút chọn vị trí để chọn vị trí Hành động Bấm."
+}
+{
+  "You need to select the exact position to be clicked, so you need to start the game again to display the blue button, and then select its position.\n\nOnce the position is correct, click on the validate button to save it."
+  "Bạn cần chọn chính xác vị trí cần nhấp, vì vậy bạn cần bắt đầu lại trò chơi để hiển thị nút màu xanh lam, sau đó chọn vị trí của nó.\n\nKhi vị trí đã chính xác, hãy nhấp vào nút xác thực để lưu nó."
+}
+{
+  "The click is now correctly configured!\n\nClick on the save button to register it and return to the Actions list."
+  "Nhấp chuột hiện đã được cấu hình chính xác!\n\nNhấp vào nút lưu để đăng ký và quay lại danh sách Hành động."
+}
+{
+  "Close the Actions list to return to the Event configuration."
+  "Đóng danh sách Hành động để quay lại cấu hình Sự kiện."
+}
+{
+  "Your Event now has a Condition and an Action, which means it knows what to execute and when to execute it.\n\nClick on the save button to register it and return to the Scenario dialog."
+  "Sự kiện của bạn hiện có Sự kiện và Hành động, có nghĩa là Sự kiện biết phải thực hiện điều gì và khi nào thực hiện.\n\nNhấp vào nút lưu để đăng ký và quay lại hộp thoại Kịch bản."
+}
+{
+  "The only requirement for a Scenario is to have at least one Event.\n As our Event already cover how to win the game, we don't need anything else.\n\nClick on the save button to save the Scenario in database and close the configuration dialogs."
+  "Yêu cầu duy nhất đối với Kịch bản là phải có ít nhất một Sự kiện.\n Vì Sự kiện của chúng tôi đã đề cập đến cách giành chiến thắng trong trò chơi nên chúng tôi không cần bất cứ điều gì khác.\n\nNhấp vào nút lưu để lưu Kịch bản trong cơ sở dữ liệu và đóng hộp thoại cấu hình."
+}
+{
+  "Just like any other Screen Condition, we need to create a Screen Event first."
+  "Cũng giống như bất kỳ Sự kiện màn hình nào khác, trước tiên chúng ta cần tạo Sự kiện màn hình."
+}
+{
+  "As you can see, the play button is now available, meaning that your Scenario is valid and can be used for detection.\n\nClick on it to start the detection."
+  "Như bạn có thể thấy, nút phát hiện có sẵn, nghĩa là Kịch bản của bạn hợp lệ và có thể được sử dụng để phát hiện.\n\nClick vào nó để bắt đầu phát hiện."
+}
+{
+  "It's playing but nothing happens?\n\nThat's normal, it will click only when the blue button is visible, remember? While keeping the scenario running, press the start game button and just watch as Klick'r will beat it for you!"
+  "Nó đang chơi nhưng không có gì xảy ra?\n\nĐiều đó là bình thường, nó sẽ chỉ nhấp khi nhìn thấy nút màu xanh, nhớ không? Trong khi vẫn tiếp tục kịch bản, hãy nhấn nút bắt đầu trò chơi và chỉ cần xem Klick'r sẽ đánh bại nó giúp bạn!"
+}
+{
+  "Congratulations!\n\nYou now know the basics of Klick'r, but not all use cases will be as simple as this game.\nTake a look at the other tutorials to discover more use cases."
+  "Chúc mừng!\n\nBây giờ bạn đã biết những điều cơ bản về Klick'r, nhưng không phải tất cả các trường hợp sử dụng đều đơn giản như trò chơi này.\nHãy xem các hướng dẫn khác để khám phá thêm các trường hợp sử dụng."
+}
+{
+  "Now, click on the Conditions field to open the Condition list."
+  "Bây giờ, hãy nhấp vào trường Sự kiện để mở danh sách Sự kiện."
+}
+{
+  "We need to create the Condition. Click on Create."
+  "Chúng ta cần tạo Điều kiện. Bấm vào Tạo."
+}
+{
+  "In this tutorial, we want to learn how to detect a color on the screen, so select Color Condition"
+  "Trong phần hướng dẫn này, chúng ta sẽ học cách phát hiện màu sắc trên màn hình, vì vậy hãy chọn Điều kiện màu sắc"
+}
+{
+  "The first step of a Condition creation is to take a screenshot and then select a color for it.\n\n As we want to click when the blue button is visible, the screenshot must contain it. Start the game again in order to display it, and then take the screenshot."
+  "Bước đầu tiên để tạo một Điều kiện là chụp ảnh màn hình và sau đó chọn một màu cho nó.\n\nVì chúng ta muốn nhấp khi nút màu xanh dương hiển thị, ảnh chụp màn hình bắt buộc phải chứa nút đó. Hãy mở lại trò chơi để nút xuất hiện, sau đó chụp ảnh màn hình."
+}
+{
+  "Now, you can select the pixel to monitor the color from. You can directly press on the screen to select a pixel, the zoomed view will appear to help you visualize what is happening."
+  "Bây giờ, bạn có thể chọn điểm ảnh để theo dõi màu sắc. Bạn có thể nhấn trực tiếp lên màn hình để chọn một điểm ảnh, khung nhìn phóng to sẽ xuất hiện giúp bạn quan sát rõ hơn."
+}
+{
+  "Try to pick somewhere on the green or blue part of the target, as that's what we want to detect to win the game."
+  "Hãy thử chọn một vị trí trên phần màu xanh lá hoặc xanh dương của mục tiêu, vì đó là phần chúng ta muốn phát hiện để chiến thắng trò chơi."
+}
+{
+  "Your Condition color is now recorded!\n\nThere are now several adjustments that can be made to it, but the default settings suits our basic use case.\n\nClick on the save button to register it and return to the Conditions list."
+  "Màu sắc Điều kiện của bạn hiện đã được ghi lại!\n\nCó nhiều tùy chỉnh có thể áp dụng, nhưng cài đặt mặc định đã phù hợp với nhu cầu cơ bản của chúng ta.\n\nHãy nhấn vào nút lưu để ghi nhận và quay trở lại danh sách Điều kiện."
+}
+{
+  "You can't interact with the game while the position selector is visible, but you can use this button to show and hide it, allowing you to remove that restriction at will."
+  "Bạn không thể tương tác với trò chơi khi bộ chọn vị trí đang hiển thị, nhưng bạn có thể dùng nút này để ẩn hoặc hiện nó, cho phép bạn gỡ bỏ giới hạn đó bất cứ lúc nào."
+}
+{
+  "Use the capture button in the floating menu to take the screenshot."
+  "Sử dụng nút chụp trên menu nổi để chụp ảnh màn hình."
+}
+{
+  "You can press on the zoomed view to select a pixel more precisely."
+  "Bạn có thể nhấn vào khung nhìn phóng to để chọn điểm ảnh chính xác hơn."
+}
+{
+  "Once the pixel is correctly selected, click on this icon to validate."
+  "Sau khi điểm ảnh đã được chọn chính xác, hãy nhấn vào biểu tượng này để xác nhận."
+}
+{
+  "New rules! The blue target has stopped moving, but it should only be clicked when the red target is not visible. \n\nStart the game and see if you can win on your own."
+  "Quy tắc mới! Mục tiêu màu xanh đã ngừng di chuyển nhưng chỉ nên nhấp vào khi không nhìn thấy mục tiêu màu đỏ. \n\nBắt đầu trò chơi và xem liệu bạn có thể tự mình giành chiến thắng hay không."
+}
+{
+  "Start your scenario and launch the game to win! \n\nIf it doesn't work, double-check that your conditions are captured correctly and that the click duration is set to 1ms."
+  "Bắt đầu kịch bản của bạn và khởi động trò chơi để giành chiến thắng! \n\nNếu nó không hoạt động, hãy kiểm tra kỹ xem các điều kiện của bạn có được ghi lại chính xác không và thời lượng nhấp chuột có được đặt thành 1 mili giây hay không."
+}
+{
+  "Congratulations! You've learned how to use a \"Not visible\" condition. Always combine it with at least one other condition to avoid triggering actions unintentionally throughout your entire scenario."
+  "Chúc mừng! Bạn đã học cách sử dụng điều kiện \"Không hiển thị\". Luôn kết hợp nó với ít nhất một điều kiện khác để tránh vô tình kích hoạt các hành động trong toàn bộ kịch bản của bạn."
+}
+{
+  "Once again, this seems impossible to win manually, so let's use Klick'r. \n\nOpen the scenario configuration menu, create a new Screen Event, and start adding conditions for the game targets."
+  "Một lần nữa, điều này dường như không thể giành được bằng tay, vì vậy hãy sử dụng Klick'r. \n\nMở menu cấu hình kịch bản, tạo Sự kiện màn hình mới và bắt đầu thêm điều kiện cho mục tiêu trò chơi."
+}
+{
+  "First, we need a condition that checks when the red target is NOT visible on the screen. \n\nCreate a new image condition and capture the red target."
+  "Đầu tiên, chúng ta cần một điều kiện để kiểm tra khi mục tiêu màu đỏ KHÔNG hiển thị trên màn hình. \n\nTạo điều kiện hình ảnh mới và chụp mục tiêu màu đỏ."
+}
+{
+  "We want to click only when the red target is not visible, so set the Is visible option to No. This way the condition will only be met when the red target is absent from the screen."
+  "Chúng tôi chỉ muốn nhấp khi mục tiêu màu đỏ không hiển thị, vì vậy hãy đặt tùy chọn Hiển thị thành Không. Bằng cách này, điều kiện sẽ chỉ được đáp ứng khi mục tiêu màu đỏ không xuất hiện trên màn hình."
+}
+{
+  "The other settings look good for our needs — go ahead and save this condition."
+  "Các cài đặt khác có vẻ phù hợp với nhu cầu của chúng tôi - hãy tiếp tục và lưu điều kiện này."
+}
+{
+  "This condition alone is enough to win the game, but it would also trigger while the game is not even running, which is not ideal. \n\nTo prevent that, let's pair it with a second condition that checks whether the blue target is visible. Create a new Image Condition and capture the blue target."
+  "Chỉ riêng điều kiện này là đủ để giành chiến thắng trong trò chơi, nhưng nó cũng sẽ kích hoạt khi trò chơi thậm chí không chạy, điều này không lý tưởng. \n\nĐể ngăn chặn điều đó, hãy ghép nối nó với điều kiện thứ hai để kiểm tra xem mục tiêu màu xanh có hiển thị hay không. Tạo Điều kiện hình ảnh mới và chụp mục tiêu màu xanh."
+}
+{
+  "For this condition, we want to check that the blue target is visible, so the default settings are all correct. Save the condition and go back to the Event to continue."
+  "Đối với điều kiện này, chúng tôi muốn kiểm tra xem mục tiêu màu xanh có hiển thị hay không, vì vậy tất cả các cài đặt mặc định đều chính xác. Lưu điều kiện và quay lại Sự kiện để tiếp tục."
+}
+{
+  "With multiple conditions, the condition operator matters. We want the event to trigger when the blue target is visible AND the red target is not, so the AND operator is what we need; and it's already the default, so we're good. \n\nNow create a new click action to continue."
+  "Với nhiều điều kiện, điều kiện rất quan trọng. Chúng tôi muốn Sự kiện được kích hoạt khi mục tiêu màu xanh hiển thị VÀ mục tiêu màu đỏ không hiển thị, vì vậy điều kiện AND là thứ chúng tôi cần; và nó đã là mặc định rồi nên chúng ta ổn. \n\nBây giờ hãy tạo một hành động nhấp chuột mới để tiếp tục."
+}
+{
+  "We want to click on the blue target, so select the \"On Condition\" position type and pick the blue target Image Condition. \n\nWhen you're done, save the click, then save your event and scenario, and head back to the game."
+  "Chúng tôi muốn nhấp vào mục tiêu màu xanh lam, vì vậy hãy chọn loại vị trí \"Có điều kiện\" và chọn Điều kiện hình ảnh mục tiêu màu xanh lam. \n\nKhi bạn hoàn tất, hãy lưu lần nhấp, sau đó lưu Sự kiện và kịch bản của bạn rồi quay lại trò chơi."
+}
+{
+  "New rules! The game now shows two targets. You should click the blue one, but only when both the blue and red targets are on screen at the same time. \n\nStart the game and see if you can keep up on your own."
+  "Quy tắc mới! Trò chơi bây giờ hiển thị hai mục tiêu. Bạn nên nhấp vào mục tiêu màu xanh lam, nhưng chỉ khi cả hai mục tiêu màu xanh lam và đỏ đều xuất hiện trên màn hình cùng một lúc. \n\nBắt đầu trò chơi và xem liệu bạn có thể tự mình theo kịp không."
+}
+{
+  "Start your scenario and launch the game to win! \n\nIf it doesn't work, double-check that both conditions are captured correctly and that the click duration is set to 1ms."
+  "Bắt đầu kịch bản của bạn và khởi động trò chơi để giành chiến thắng! \n\nNếu nó không hoạt động, hãy kiểm tra kỹ xem cả hai điều kiện có được nắm bắt chính xác không và thời lượng nhấp chuột có được đặt thành 1 mili giây hay không."
+}
+{
+  "Congratulations! You've learned how to use the AND operator. The event now triggers only when all of its conditions are satisfied at the same time."
+  "Chúc mừng! Bạn đã học cách sử dụng điều kiện AND. Sự kiện bây giờ chỉ kích hoạt khi tất cả các điều kiện của nó được thỏa mãn cùng một lúc."
+}
+{
+  "The timing is too tight to handle manually, so let's use Klick'r. \n\nOpen the scenario configuration menu, create a new Screen Event, and start adding conditions for the game targets."
+  "Thời gian quá chặt để xử lý thủ công, vì vậy hãy sử dụng Klick'r. \n\nMở menu cấu hình kịch bản, tạo Sự kiện màn hình mới và bắt đầu thêm điều kiện cho mục tiêu trò chơi."
+}
+{
+  "We need one condition per target. Let's start with the blue one. \n\nCreate a new image condition and capture the blue target."
+  "Chúng ta cần một điều kiện cho mỗi mục tiêu. Hãy bắt đầu với màu xanh. \n\nTạo điều kiện hình ảnh mới và chụp mục tiêu màu xanh."
+}
+{
+  "We want this condition to be met when the blue target is visible, so the default settings are all correct. Save this condition."
+  "Chúng tôi muốn đáp ứng điều kiện này khi mục tiêu màu xanh lam hiển thị, vì vậy tất cả các cài đặt mặc định đều chính xác. Lưu điều kiện này."
+}
+{
+  "Now let's add the second condition for the red target. \n\nCreate another image condition and capture the red target."
+  "Bây giờ hãy thêm điều kiện thứ hai cho mục tiêu màu đỏ. \n\nTạo một điều kiện hình ảnh khác và chụp mục tiêu màu đỏ."
+}
+{
+  "Same here; the red target should be visible, so the default settings are correct. Save this condition and go back to the Event."
+  "Tương tự ở đây; mục tiêu màu đỏ sẽ hiển thị, do đó cài đặt mặc định là chính xác. Lưu điều kiện này và quay lại Sự kiện."
+}
+{
+  "With two conditions set up, the condition operator decides how they are combined. Select the operator using the selector shown above. \n\n• AND: the event triggers only when ALL conditions are met.\n• OR: the event triggers as soon as the ONE condition is met.\n\nFor our game, we need both targets on screen at the same time, so select AND."
+  "Với hai điều kiện được thiết lập, điều kiện sẽ quyết định cách kết hợp chúng. Chọn điều kiện bằng cách sử dụng bộ chọn được hiển thị ở trên. \n\n• VÀ: Sự kiện chỉ kích hoạt khi TẤT CẢ các điều kiện được đáp ứng.\n• HOẶC: Sự kiện kích hoạt ngay khi đáp ứng MỘT điều kiện.\n\nĐối với trò chơi của chúng tôi, chúng tôi cần cả hai mục tiêu trên màn hình cùng một lúc, vì vậy hãy chọn VÀ."
+}
+{
+  "AND is already the default operator, so we're all set. \n\nNow open the Actions section and create a new click action."
+  "AND đã là điều kiện mặc định nên chúng ta đã sẵn sàng. \n\nBây giờ hãy mở phần Hành động và tạo hành động nhấp chuột mới."
+}
+{
+  "We want to click on the blue target, so select the \"On Condition\" position type and pick the blue target image condition. \n\nWhen you're done, save the click, then your event and scenario, and head back to the game."
+  "Chúng tôi muốn nhấp vào mục tiêu màu xanh lam, vì vậy hãy chọn loại vị trí \"Có điều kiện\" và chọn điều kiện hình ảnh mục tiêu màu xanh lam. \n\nKhi bạn hoàn tất, hãy lưu lần nhấp, sau đó là Sự kiện và kịch bản của bạn, rồi quay lại trò chơi."
+}
+{
+  "The condition operator selector"
+  "Bộ chọn điều kiện"
+}
+{
+  "New challenge! Two targets can appear on screen. The red one is worth 2 points and the blue one is worth 1 point, so click on whichever shows up as fast as possible. \n\nStart the game and see how you do on your own."
+  "Thử thách mới! Hai mục tiêu có thể xuất hiện trên màn hình. Cái màu đỏ có giá trị 2 điểm và cái màu xanh có giá trị 1 điểm, vì vậy hãy nhấp vào cái nào hiển thị càng nhanh càng tốt. \n\nBắt đầu trò chơi và xem bạn tự làm như thế nào."
+}
+{
+  "We want to click on whichever target triggered the event. Select the \"On Condition\" position type. With OR, only one condition can be positively detected at a time, so no specific condition needs to be selected. Klick'r will automatically click on the location of whichever condition matched. \n\nWhen you're done, save the click, then your event and scenario, and head back to the game."
+  "Chúng tôi muốn nhấp vào bất kỳ mục tiêu nào đã kích hoạt Sự kiện. Chọn loại vị trí \"Có điều kiện\". Với OR, mỗi lần chỉ có thể phát hiện một điều kiện tích cực, do đó không cần phải chọn điều kiện cụ thể. Klick'r sẽ tự động nhấp vào vị trí có điều kiện phù hợp. \n\nKhi bạn hoàn tất, hãy lưu lần nhấp, sau đó là Sự kiện và kịch bản của bạn, rồi quay lại trò chơi."
+}
+{
+  "Congratulations! You've learned how to use the OR operator and why condition priority matters. By placing the red condition first, Klick'r always favours the higher-value target when both are visible at the same time."
+  "Chúc mừng! Bạn đã học cách sử dụng điều kiện OR và tại sao mức độ ưu tiên của điều kiện lại quan trọng. Bằng cách đặt điều kiện màu đỏ lên hàng đầu, Klick'r luôn ưu tiên mục tiêu có giá trị cao hơn khi cả hai đều hiển thị cùng lúc."
+}
+{
+  "Too fast to handle manually, so let's use Klick'r. \n\nOpen the scenario configuration menu, create a new Screen Event, and start adding conditions for the game targets."
+  "Quá nhanh để xử lý thủ công nên hãy sử dụng Klick'r. \n\nMở menu cấu hình kịch bản, tạo Sự kiện màn hình mới và bắt đầu thêm điều kiện cho mục tiêu trò chơi."
+}
+{
+  "This condition should trigger when the blue target is visible, so the default settings are all correct. Save this condition."
+  "Tình trạng này sẽ kích hoạt khi mục tiêu màu xanh hiển thị, do đó tất cả các cài đặt mặc định đều chính xác. Lưu điều kiện này."
+}
+{
+  "Same here, the red target should be visible, so the default settings are correct. Save this condition."
+  "Tương tự ở đây, mục tiêu màu đỏ sẽ hiển thị, do đó cài đặt mặc định là chính xác. Lưu điều kiện này."
+}
+{
+  "With OR, conditions are checked in order and the event triggers as soon as the first one matches, so the order of your conditions matters. \n\nThe red target grants more points, so we want it to be checked first. Use the « button to move it before the blue one, then return to the Event dialog."
+  "Với OR, các điều kiện được kiểm tra theo thứ tự và Sự kiện sẽ kích hoạt ngay khi Sự kiện đầu tiên khớp, do đó thứ tự các điều kiện của bạn rất quan trọng. \n\nMục tiêu màu đỏ mang lại nhiều điểm hơn nên chúng tôi muốn nó được kiểm tra trước. Sử dụng nút « để di chuyển nó trước nút màu xanh lam, sau đó quay lại hộp thoại Sự kiện."
+}
+{
+  "Now set the condition operator to OR. The event will trigger as soon as either target appears. If both are visible at the same time, the red condition will be matched first since it has the higher priority. \n\nSelect OR."
+  "Bây giờ đặt điều kiện thành OR. Sự kiện sẽ kích hoạt ngay khi một trong hai mục tiêu xuất hiện. Nếu cả hai đều hiển thị cùng lúc, điều kiện màu đỏ sẽ được khớp trước vì nó có mức độ ưu tiên cao hơn. \n\nChọn HOẶC."
+}
+{
+  "The OR operator is now set. Open the Actions section and create a new click action."
+  "điều kiện OR hiện đã được đặt. Mở phần Hành động và tạo hành động nhấp chuột mới."
+}
+{
+  "You have completed this tutorial!"
+  "Bạn đã hoàn thành bài hướng dẫn này!"
+}
+{
+  "Welcome to the Counters tutorial! \n\nHere, you will automate a game where you click the blue target 10 times, then click the red target once to validate your count and earn 10 points. You can try the game first, or jump straight into the scenario configuration."
+  "Chào mừng bạn đến với hướng dẫn về Bộ đếm! \n\nTại đây, bạn sẽ tự động hóa một trò chơi trong đó bạn nhấp vào mục tiêu màu xanh 10 lần, sau đó nhấp vào mục tiêu màu đỏ một lần để xác thực số điểm của bạn và kiếm được 10 điểm. Bạn có thể thử trò chơi trước hoặc chuyển thẳng vào cấu hình kịch bản."
+}
+{
+  "The list is empty for now. Click the create button to create a new counter. Give it a name (e.g. Blue clicks), keep the starting value at 0, then save and select it."
+  "Hiện tại danh sách này đang trống. Nhấp vào nút tạo để tạo bộ đếm mới. Đặt tên cho nó (ví dụ: Nhấp chuột màu xanh lam), giữ giá trị bắt đầu bằng 0, sau đó lưu và chọn nó."
+}
+{
+  "Now configure how the counter changes each time the blue target is clicked. \n\nSet the operator to + and the value to 1, so the counter increases by 1 on each click. \n\nThen save the action and return to the Event dialog."
+  "Bây giờ hãy định cấu hình cách bộ đếm thay đổi mỗi lần nhấp vào mục tiêu màu xanh. \n\nĐặt điều kiện thành + và giá trị thành 1, để bộ đếm tăng thêm 1 sau mỗi lần nhấp. \n\nSau đó lưu hành động và quay lại hộp thoại Sự kiện."
+}
+{
+  "The value can be a fixed number, or the current value of another counter."
+  "Giá trị có thể là một số cố định hoặc giá trị hiện tại của bộ đếm khác."
+}
+{
+  "Great! This Screen Event will now click the blue target and increment your counter on every detection. \n\nSave the event to return to the scenario."
+  "Tuyệt vời! Sự kiện màn hình này bây giờ sẽ nhấp vào mục tiêu màu xanh lam và tăng bộ đếm của bạn sau mỗi lần phát hiện. \n\nLưu Sự kiện để quay lại kịch bản."
+}
+{
+  "Now we need an event that reacts when the counter reaches 10. That kind of event is not triggered by the screen, so it's a Trigger Event. \n\nClick on the Trigger Events tab to open the Trigger Events list."
+  "Bây giờ chúng ta cần một Sự kiện phản ứng khi bộ đếm đạt đến 10. Loại Sự kiện đó không được kích hoạt bởi màn hình nên nó là Sự kiện kích hoạt. \n\nNhấp vào tab Sự kiện kích hoạt để mở danh sách Sự kiện kích hoạt."
+}
+{
+  "Click on the create button to add a new Trigger Event."
+  "Nhấp vào nút tạo để thêm Sự kiện kích hoạt mới."
+}
+{
+  "Just like a Screen Event, a Trigger Event needs conditions. Click on the Conditions field to open the condition list and create a new trigger condition."
+  "Cũng giống như Sự kiện màn hình, Sự kiện kích hoạt cần có điều kiện. Nhấp vào trường Điều kiện để mở danh sách điều kiện và tạo điều kiện kích hoạt mới."
+}
+{
+  "Select the Counter Reached condition type to trigger this event when a counter hits a specific value."
+  "Chọn loại điều kiện Đã đạt đến bộ đếm để kích hoạt Sự kiện này khi bộ đếm đạt đến một giá trị cụ thể."
+}
+{
+  "Select the counter you created earlier (the one counting blue clicks) to use it as the trigger."
+  "Chọn bộ đếm bạn đã tạo trước đó (bộ đếm số lần nhấp chuột màu xanh lam) để sử dụng nó làm bộ kích hoạt."
+}
+{
+  "Now set the comparison so the condition is fulfilled when the counter equals 10. There are several comparison operators, but here we need to check when it is equal, so select \"=\". Then enter 10 as value, save the condition and return to the Event dialog."
+  "Bây giờ hãy đặt phép so sánh sao cho điều kiện được đáp ứng khi bộ đếm bằng 10. Có một số điều kiện so sánh, nhưng ở đây chúng ta cần kiểm tra xem khi nào nó bằng, vì vậy hãy chọn \"=\". Sau đó nhập giá trị 10, lưu điều kiện và quay lại hộp thoại Sự kiện."
+}
+{
+  "The value to compare against can be a fixed number, or the current value of another counter."
+  "Giá trị để so sánh có thể là một số cố định hoặc giá trị hiện tại của bộ đếm khác."
+}
+{
+  "Condition is set! Now we need to define what happens when the counter reaches 10. Click on the Actions field to open the action list."
+  "Điều kiện đã được thiết lập! Bây giờ chúng ta cần xác định điều gì sẽ xảy ra khi bộ đếm đạt đến 10. Nhấp vào trường Hành động để mở danh sách hành động."
+}
+{
+  "First, we need to create a Screen Event that detects the blue target and clicks on it. \n\nClick on Create Event to get started."
+  "Đầu tiên, chúng ta cần tạo Sự kiện màn hình để phát hiện mục tiêu màu xanh và nhấp vào mục tiêu đó. \n\nNhấp vào Tạo Sự kiện để bắt đầu."
+}
+{
+  "First, create a Click action and manually place it on the red target to validate the count."
+  "Trước tiên, hãy tạo hành động Nhấp chuột và đặt hành động đó vào mục tiêu màu đỏ theo cách thủ công để xác thực số lượng."
+}
+{
+  "Configure the click to tap the red target, then save the action. Note that in a Trigger Event, the click position must always be set manually. \n\nTutorial will proceed once the click is saved."
+  "Định cấu hình nhấp chuột để chạm vào mục tiêu màu đỏ, sau đó lưu hành động. Lưu ý rằng trong Sự kiện kích hoạt, vị trí nhấp chuột phải luôn được đặt theo cách thủ công. \n\nHướng dẫn sẽ tiếp tục sau khi lưu lần nhấp."
+}
+{
+  "Now create a second action to reset the counter. Click the create button again and select the Change Counter action."
+  "Bây giờ hãy tạo hành động thứ hai để đặt lại bộ đếm. Nhấp lại vào nút tạo và chọn hành động Thay đổi bộ đếm."
+}
+{
+  "We want to set the blue click counter to 0, so first, select the blue click counter."
+  "Chúng tôi muốn đặt bộ đếm nhấp chuột màu xanh lam thành 0, vì vậy trước tiên hãy chọn bộ đếm nhấp chuột màu xanh lam."
+}
+{
+  "Set the operator to = and the value to 0 to reset the counter after each validation. Then save the action and return to the Event dialog to proceed."
+  "Đặt điều kiện thành = và giá trị thành 0 để đặt lại bộ đếm sau mỗi lần xác thực. Sau đó lưu hành động và quay lại hộp thoại Sự kiện để tiếp tục."
+}
+{
+  "This Trigger Event will click the red target and reset the counter every time 10 blue clicks are counted. The Trigger Event list is executed between each screen frame, before the Screen Event list, so once the counter equals 10, this event runs immediately: the red target is clicked and the counter reset, ready to start over. \n\nSave the event to return to the scenario."
+  "Sự kiện kích hoạt này sẽ nhấp vào mục tiêu màu đỏ và đặt lại bộ đếm mỗi khi đếm được 10 lần nhấp màu xanh. Danh sách Sự kiện kích hoạt được thực thi giữa mỗi khung màn hình, trước danh sách Sự kiện màn hình, do đó, khi bộ đếm bằng 10, Sự kiện này sẽ chạy ngay lập tức: mục tiêu màu đỏ được nhấp vào và bộ đếm được đặt lại, sẵn sàng bắt đầu lại. \n\nLưu Sự kiện để quay lại kịch bản."
+}
+{
+  "The scenario is complete! It will click the blue target, count each click, then validate with the red target every 10 clicks and start over. \n\nSave the scenario to apply your configuration."
+  "Kịch bản đã hoàn tất! Nó sẽ nhấp vào mục tiêu màu xanh, đếm từng lần nhấp, sau đó xác thực bằng mục tiêu màu đỏ sau mỗi 10 lần nhấp và bắt đầu lại. \n\nLưu kịch bản để áp dụng cấu hình của bạn."
+}
+{
+  "Everything is ready! Start the scenario, then launch the game and watch Klick'r handle the counting for you."
+  "Mọi thứ đã sẵn sàng! Bắt đầu kịch bản, sau đó khởi chạy trò chơi và xem Klick'r xử lý việc đếm cho bạn."
+}
+{
+  "Well done! You've learned how to use Counters to track values across multiple events. \n\nCombined with the Change Counter action and the Counter Reached condition, you can now build automations that react to repeated patterns."
+  "Làm tốt! Bạn đã học cách sử dụng Bộ đếm để theo dõi giá trị trên nhiều Sự kiện. \n\nKết hợp với hành động Thay đổi bộ đếm và điều kiện Đã đạt đến bộ đếm, giờ đây bạn có thể xây dựng các quy trình tự động hóa phản ứng với các mẫu lặp lại."
+}
+{
+  "Let's start by adding a condition to detect the blue target. Click on the Conditions field to open the condition list and create this condition. \n\nTutorial will proceed once your condition is created."
+  "Hãy bắt đầu bằng cách thêm một điều kiện để phát hiện mục tiêu màu xanh. Bấm vào trường Điều kiện để mở danh sách điều kiện và tạo điều kiện này. \n\nHướng dẫn sẽ tiếp tục sau khi điều kiện của bạn được tạo."
+}
+{
+  "Good! Now click on the Actions field to add the actions that will run when the blue target is detected."
+  "Tốt! Bây giờ hãy nhấp vào trường Hành động để thêm các hành động sẽ chạy khi phát hiện mục tiêu màu xanh."
+}
+{
+  "We first need a Click action to tap the blue target. Click on the create button to add a new action."
+  "Trước tiên chúng ta cần hành động Nhấp chuột để chạm vào mục tiêu màu xanh lam. Bấm vào nút tạo để thêm một hành động mới."
+}
+{
+  "Configure the click to tap the blue target, then save the action. \n\nTutorial will proceed once the click is saved."
+  "Định cấu hình nhấp chuột để chạm vào mục tiêu màu xanh lam, sau đó lưu hành động. \n\nHướng dẫn sẽ tiếp tục sau khi lưu lần nhấp."
+}
+{
+  "We also need to count how many times we have clicked on the blue target. This can be achieved with a Change Counter action, by adding one every time we click. \n\nClick on the create button again to add a second action."
+  "Chúng ta cũng cần đếm xem mình đã click vào mục tiêu màu xanh bao nhiêu lần. Điều này có thể đạt được bằng hành động Bộ đếm thay đổi, bằng cách thêm một hành động mỗi lần chúng ta nhấp vào. \n\nNhấp lại vào nút tạo để thêm hành động thứ hai."
+}
+{
+  "Select the Change Counter action to increment a counter each time the blue target is clicked."
+  "Chọn hành động Thay đổi bộ đếm để tăng bộ đếm mỗi lần nhấp vào mục tiêu màu xanh."
+}
+{
+  "First, we need to choose which counter to update. Click on Select a counter to open the counter list."
+  "Đầu tiên chúng ta cần chọn bộ đếm cần cập nhật. Bấm vào Chọn bộ đếm để mở danh sách bộ đếm."
+}
+{
+  "New game, we need to click on any targets as fast as possible, but the red one is more rewarding. You can test the game first or open the scenario configuration menu to start automating this game."
+  "Trò chơi mới, chúng ta cần nhấp vào mục tiêu nào nhanh nhất có thể, nhưng mục tiêu màu đỏ sẽ bổ ích hơn. Bạn có thể thử nghiệm trò chơi trước hoặc mở menu cấu hình kịch bản để bắt đầu tự động hóa trò chơi này."
+}
+{
+  "We want to detect two different targets, the blue and the red. For this tutorial, we will create two distinct events: a first one for the blue target and a second one for the red target. \n\nFirst, create the Event for the blue target; it must click on it when detected. Don't forget to use the test features to make sure your condition is correctly detected. \n\nThe tutorial will proceed once your blue target Event is saved."
+  "Chúng tôi muốn phát hiện hai mục tiêu khác nhau, xanh và đỏ. Đối với hướng dẫn này, chúng ta sẽ tạo hai Sự kiện riêng biệt: Sự kiện đầu tiên dành cho mục tiêu màu xanh và Sự kiện thứ hai dành cho mục tiêu màu đỏ. \n\nĐầu tiên, tạo Sự kiện cho mục tiêu màu xanh lam; nó phải bấm vào nó khi phát hiện. Đừng quên sử dụng các tính năng kiểm tra để đảm bảo tình trạng của bạn được phát hiện chính xác. \n\nHướng dẫn sẽ tiếp tục sau khi Sự kiện mục tiêu màu xanh lam của bạn được lưu."
+}
+{
+  "Great! Now we need the same thing, but for the red target. Click on the create Event button and create one for the red target; it must click on it when detected. \n\nThe tutorial will proceed once your red target Event is saved."
+  "Tuyệt vời! Bây giờ chúng ta cần điều tương tự, nhưng đối với mục tiêu màu đỏ. Nhấp vào nút tạo Sự kiện và tạo một Sự kiện cho mục tiêu màu đỏ; nó phải bấm vào nó khi phát hiện. \n\nHướng dẫn sẽ tiếp tục sau khi Sự kiện mục tiêu màu đỏ của bạn được lưu."
+}
+{
+  "Our list now has two events, one for each target. Save your Scenario and test it against the game."
+  "Danh sách của chúng tôi hiện có hai Sự kiện, một Sự kiện cho mỗi mục tiêu. Lưu Kịch bản của bạn và thử nghiệm nó với trò chơi."
+}
+{
+  "Something seems wrong. The scenario only clicks on the blue target, completely ignoring the red one, which prevents us from winning the game. \n\nWhy is this happening? Because the blue event is before the red one, and since it's always triggered, the current frame is evaluated no further and the next frame starts from the beginning of the Event list. \n\nThere are multiple ways to fix this. Open the scenario configuration dialog to learn how."
+  "Có điều gì đó có vẻ không ổn. Kịch bản chỉ nhấp vào mục tiêu màu xanh, hoàn toàn bỏ qua mục tiêu màu đỏ, điều này khiến chúng ta không thể giành chiến thắng trong trò chơi. \n\nTại sao điều này lại xảy ra? Vì Sự kiện màu xanh lam diễn ra trước Sự kiện màu đỏ và vì nó luôn được kích hoạt nên khung hiện tại không được đánh giá thêm nữa và khung tiếp theo bắt đầu từ đầu danh sách Sự kiện. \n\nCó nhiều cách để khắc phục điều này. Mở hộp thoại cấu hình kịch bản để tìm hiểu cách thực hiện."
+}
+{
+  "We can fix the problem in two ways: \n\nWe can change the \"Keep executing\" option of the blue target event to continue processing the same frame and also execute the red event. This will trigger both clicks when both targets are visible at the same time. \n\nOr we can move the red target event to the top of the event list, so it is checked first and always clicked when visible, but the blue target won't be clicked anymore when the red target is also displayed. \n\nThe key difference between both solutions is speed: putting the red event first means we react as fast as possible when it appears, while being slightly slower when only the blue target is visible."
+  "Chúng ta có thể khắc phục sự cố theo hai cách: \n\nChúng ta có thể thay đổi tùy chọn \"Tiếp tục thực thi\" của Sự kiện mục tiêu màu xanh để tiếp tục xử lý cùng một khung và cũng thực hiện Sự kiện màu đỏ. Điều này sẽ kích hoạt cả hai lần nhấp chuột khi cả hai mục tiêu đều hiển thị cùng một lúc. \n\nHoặc chúng ta có thể di chuyển Sự kiện mục tiêu màu đỏ lên đầu danh sách Sự kiện, để nó được kiểm tra trước và luôn nhấp vào khi hiển thị, nhưng mục tiêu màu xanh sẽ không được nhấp nữa khi mục tiêu màu đỏ cũng được hiển thị. \n\nSự khác biệt chính giữa cả hai giải pháp là tốc độ: đặt Sự kiện màu đỏ lên hàng đầu có nghĩa là chúng ta phản ứng nhanh nhất có thể khi nó xuất hiện, đồng thời chậm hơn một chút khi chỉ nhìn thấy mục tiêu màu xanh."
+}
+{
+  "Since the game gives 10 points for the red target, we want to react as fast as possible when it appears by moving the red event to the top of the event list. \n\nMove the red event first and save the scenario. You should be able to beat the game now."
+  "Vì trò chơi cho 10 điểm cho mục tiêu màu đỏ nên chúng tôi muốn phản ứng nhanh nhất có thể khi nó xuất hiện bằng cách di chuyển Sự kiện màu đỏ lên đầu danh sách Sự kiện. \n\nDi chuyển Sự kiện màu đỏ trước và lưu kịch bản. Bạn sẽ có thể đánh bại trò chơi bây giờ."
+}
+{
+  "You can reorder Events by long pressing on this icon and dragging the event to the correct place."
+  "Bạn có thể sắp xếp lại Sự kiện bằng cách nhấn và giữ biểu tượng này và kéo Sự kiện đến đúng vị trí."
+}
+{
+  "As usual, start your scenario first, and then start the game. \n\nIf you still can't beat it, make sure each event works on its own using the test features."
+  "Như thường lệ, hãy bắt đầu kịch bản của bạn trước, sau đó bắt đầu trò chơi. \n\nNếu bạn vẫn không thể vượt qua, hãy đảm bảo rằng mỗi Sự kiện đều tự hoạt động bằng cách sử dụng các tính năng thử nghiệm."
+}
+{
+  "Great! You now understand how event priority works and how the Screen Event loop behaves. This is key to building and managing complex scenarios."
+  "Tuyệt vời! Bây giờ bạn đã hiểu mức độ ưu tiên của Sự kiện hoạt động như thế nào và vòng lặp Sự kiện màn hình hoạt động như thế nào. Đây là chìa khóa để xây dựng và quản lý các kịch bản phức tạp."
+}
+{
+  "New game! This time you need to click on four colored targets in order: blue first, then red, then green, and finally yellow. \n\nYou can try the game first to see how it works, or open the scenario configuration right away to start automating it."
+  "Trò chơi mới! Lần này bạn cần nhấp vào bốn mục tiêu có màu theo thứ tự: đầu tiên là màu xanh lam, sau đó là màu đỏ, sau đó là màu xanh lá cây và cuối cùng là màu vàng. \n\nBạn có thể thử trò chơi trước để xem nó hoạt động như thế nào hoặc mở cấu hình kịch bản ngay lập tức để bắt đầu tự động hóa nó."
+}
+{
+  "All four Events are ready. As we defined them in the game sequence order, their priority are OK. \n\nSave your Scenario and test it against the game to see how it performs."
+  "Tất cả bốn Sự kiện đã sẵn sàng. Như chúng tôi đã xác định theo thứ tự trình tự trò chơi, mức độ ưu tiên của chúng là ổn. \n\nLưu Kịch bản của bạn và thử nghiệm nó với trò chơi để xem nó hoạt động như thế nào."
+}
+{
+  "The scenario is detecting and clicking on targets, but it's probably too slow to win. \n\nCurrently, all four Events are active at the same time, so every frame the scenario checks blue, then red, then green, then yellow; no matter which target was just clicked. This wastes precious time! \n\nOpen the scenario configuration to learn how to improve this."
+  "Kịch bản là phát hiện và click vào mục tiêu nhưng chắc là quá chậm để giành chiến thắng. \n\nHiện tại, cả bốn Sự kiện đều hoạt động cùng lúc, do đó, mỗi khung hình của kịch bản sẽ kiểm tra màu xanh lam, rồi đỏ, rồi xanh lục, rồi vàng; bất kể mục tiêu nào vừa được nhấp vào. Điều này lãng phí thời gian quý báu! \n\nMở cấu hình kịch bản để tìm hiểu cách cải thiện điều này."
+}
+{
+  "Each Event has an initial state: it can start enabled or disabled. Right now all four Events are enabled, so they are all checked on every frame. \n\nThe solution is to keep only the current target's Event active and disable the rest. When a target is clicked, its Event will enable the next target and disable al others. \n\nLet's start by editing the blue target Event."
+  "Mỗi Sự kiện có trạng thái ban đầu: nó có thể bắt đầu được bật hoặc tắt. Hiện tại, cả bốn Sự kiện đều đã được bật nên tất cả chúng đều được kiểm tra trên mọi khung hình. \n\nGiải pháp là chỉ giữ cho Sự kiện của mục tiêu hiện tại hoạt động và vô hiệu hóa phần còn lại. Khi một mục tiêu được nhấp vào, Sự kiện của nó sẽ kích hoạt mục tiêu tiếp theo và vô hiệu hóa tất cả các mục tiêu khác. \n\nHãy bắt đầu bằng cách chỉnh sửa Sự kiện mục tiêu màu xanh lam."
+}
+{
+  "The blue target is the first to click, so its Event should start enabled; no change needed here. \n\nWe just need to add a \"Change event state\" action so that when the blue target is clicked, the red target Event is enabled and the others are disabled. Tap on the Actions area to add this action."
+  "Mục tiêu màu xanh lam là mục tiêu được nhấp chuột đầu tiên, vì vậy Sự kiện của mục tiêu đó sẽ bắt đầu được bật; không cần thay đổi ở đây. \n\nChúng ta chỉ cần thêm hành động \"Thay đổi trạng thái Bật/Tắt của Sự kiện\" để khi nhấp vào mục tiêu màu xanh, Sự kiện mục tiêu màu đỏ được bật và các Sự kiện khác bị tắt. Nhấn vào khu vực Hành động để thêm hành động này."
+}
+{
+  "Select the \"Change event state\" action type."
+  "Chọn loại hành động \"Thay đổi trạng thái Bật/Tắt của Sự kiện\"."
+}
+{
+  "This action lets you change the state of any Event in your scenario when this Event is triggered. Tap the \"No changes\" field to select which Events to change."
+  "Hành động này cho phép bạn Thay đổi trạng thái Bật/Tắt của Sự kiện của bất kỳ Sự kiện nào trong kịch bản của bạn khi Sự kiện này được kích hoạt. Nhấn vào trường \"Không thay đổi\" để chọn Sự kiện cần thay đổi."
+}
+{
+  "For each Event in the list, you can set one of three states: \n• Enable: the Event becomes active and will be checked on every frame \n• Disable: the Event becomes inactive and is skipped entirely \n• Invert: switches between active and inactive each time \n\nSince blue was just clicked, enable the red target Event and disable all the others. Tap Next when you are done."
+  "Đối với mỗi Sự kiện trong danh sách, bạn có thể đặt một trong ba trạng thái: \n• Kích hoạt: Sự kiện bắt đầu hoạt động và sẽ được kiểm tra trên mọi khung hình \n• Tắt: Sự kiện trở nên không hoạt động và bị bỏ qua hoàn toàn \n• Đảo ngược: chuyển đổi giữa hoạt động và không hoạt động mỗi lần \n\nVì màu xanh lam vừa được nhấp vào, hãy bật Sự kiện mục tiêu màu đỏ và tắt tất cả các Sự kiện khác. Nhấn vào Tiếp theo khi bạn hoàn tất."
+}
+{
+  "Each Event row shows three options: Enable, Disable, and Toggle. Tap the one you want to apply when this action is executed."
+  "Mỗi hàng Sự kiện hiển thị ba tùy chọn: Bật, Tắt và Chuyển đổi. Nhấn vào cái bạn muốn áp dụng khi hành động này được thực hiện."
+}
+{
+  "Perfect! Save the blue target Event."
+  "Hoàn hảo! Lưu Sự kiện mục tiêu màu xanh."
+}
+{
+  "Now open the red target Event in the list to configure it the same way."
+  "Bây giờ hãy mở Sự kiện mục tiêu màu đỏ trong danh sách để định cấu hình theo cách tương tự."
+}
+{
+  "Unlike the blue target Event, this Event should not be active at the start of the scenario, since its target is not the first one. Change its initial state to Disabled."
+  "Không giống như Sự kiện mục tiêu màu xanh lam, Sự kiện này không nên hoạt động khi bắt đầu kịch bản vì mục tiêu của nó không phải là Sự kiện đầu tiên. Thay đổi trạng thái Bật/Tắt của Sự kiện ban đầu thành Tắt."
+}
+{
+  "We need to detect four different targets, one for each color. We will create one Event per target. \n\nStart with the blue target: create a new Event that detects it within the game area and clicks on it."
+  "Chúng ta cần phát hiện bốn mục tiêu khác nhau, mỗi mục tiêu có một màu. Chúng tôi sẽ tạo một Sự kiện cho mỗi mục tiêu. \n\nBắt đầu với mục tiêu màu xanh lam: tạo Sự kiện mới phát hiện mục tiêu đó trong khu vực trò chơi và nhấp vào mục tiêu đó."
+}
+{
+  "Now add a \"Change event state\" action so that when this target is clicked, the next target's Event is enabled and the others are disabled. Tap the Actions area."
+  "Bây giờ, hãy thêm hành động \"Thay đổi trạng thái Bật/Tắt của Sự kiện\" để khi mục tiêu này được nhấp vào, Sự kiện của mục tiêu tiếp theo sẽ được bật và các mục tiêu khác sẽ bị tắt. Nhấn vào khu vực Hành động."
+}
+{
+  "Set the toggles: enable the green target and disable all the others. Tap Next when you are done."
+  "Đặt các nút chuyển đổi: bật mục tiêu màu xanh lá cây và tắt tất cả các mục tiêu khác. Nhấn vào Tiếp theo khi bạn hoàn tất."
+}
+{
+  "Good job! Now open the green target Event to configure it the same way."
+  "Làm tốt lắm! Bây giờ hãy mở Sự kiện mục tiêu màu xanh lá cây để định cấu hình theo cách tương tự."
+}
+{
+  "The green target should not be active at the start either. Change its initial state to Disabled."
+  "Mục tiêu màu xanh lá cây cũng không nên hoạt động khi bắt đầu. Thay đổi trạng thái Bật/Tắt của Sự kiện ban đầu thành Tắt."
+}
+{
+  "Now add a \"Change event state\" action so that when the green target is clicked, the yellow target's Event is enabled and the others are disabled. Tap the Actions area."
+  "Bây giờ, hãy thêm hành động \"Thay đổi trạng thái Bật/Tắt của Sự kiện\" để khi nhấp vào mục tiêu màu xanh lá cây, Sự kiện của mục tiêu màu vàng sẽ được bật và các mục tiêu khác sẽ bị tắt. Nhấn vào khu vực Hành động."
+}
+{
+  "Set the toggles: enable the yellow target and disable all the others. Tap Next when you are done."
+  "Đặt các nút chuyển đổi: bật mục tiêu màu vàng và tắt tất cả các mục tiêu khác. Nhấn vào Tiếp theo khi bạn hoàn tất."
+}
+{
+  "Almost done! Open the yellow target Event to finish the configuration."
+  "Gần xong rồi! Mở Sự kiện mục tiêu màu vàng để hoàn tất cấu hình."
+}
+{
+  "The yellow target is the last in the sequence, so it should also start disabled. Change its initial state to Disabled."
+  "Mục tiêu màu vàng là mục tiêu cuối cùng trong chuỗi, vì vậy nó cũng sẽ bắt đầu bị vô hiệu hóa. Thay đổi trạng thái Bật/Tắt của Sự kiện ban đầu thành Tắt."
+}
+{
+  "Add a \"Change event state\" action to the yellow target Event as well. When yellow is clicked, we want to loop back to the beginning: enable the blue target and disable all the others. Tap the Actions area."
+  "Thêm hành động \"Thay đổi trạng thái Bật/Tắt của Sự kiện\" vào Sự kiện mục tiêu màu vàng. Khi nhấp vào màu vàng, chúng tôi muốn quay lại từ đầu: bật mục tiêu màu xanh lam và tắt tất cả các mục tiêu khác. Nhấn vào khu vực Hành động."
+}
+{
+  "Set the toggles: enable the blue target and disable all the others. This way, the sequence will loop indefinitely. Tap Next when you are done."
+  "Đặt các nút chuyển đổi: bật mục tiêu màu xanh lam và tắt tất cả các mục tiêu khác. Bằng cách này, chuỗi sẽ lặp vô thời hạn. Nhấn vào Tiếp theo khi bạn hoàn tất."
+}
+{
+  "When using multiple events, it is important to customize the name of your events to keep track of what you are doing. Give this Event a clear name, like \"Blue target\", so you can easily identify it later in your scenario. \n\nOnce you are done, create a new Image condition and capture the blue target."
+  "Khi sử dụng nhiều Sự kiện, điều quan trọng là phải tùy chỉnh tên Sự kiện để theo dõi những gì bạn đang làm. Đặt tên rõ ràng cho Sự kiện này, chẳng hạn như \"Mục tiêu xanh\" để bạn có thể dễ dàng xác định nó sau này trong kịch bản của mình. \n\nKhi bạn đã hoàn tất, hãy tạo điều kiện Hình ảnh mới và chụp mục tiêu màu xanh lam."
+}
+{
+  "All Events are now fully configured. Save your Scenario to apply the changes."
+  "Tất cả các Sự kiện hiện đã được định cấu hình đầy đủ. Lưu Kịch bản của bạn để áp dụng các thay đổi."
+}
+{
+  "All Events are configured! Save your Scenario and then start the game. Remember to start your Scenario before launching the game. \n\nAs our scenario has an internal state, you need to restart it every time you restart the game to ensure it won't be waiting for the last target of the previous game session. This can be easily automated by detecting if the start button is visible to reset the events states."
+  "Tất cả các Sự kiện được cấu hình! Lưu Kịch bản của bạn và sau đó bắt đầu trò chơi. Hãy nhớ bắt đầu Kịch bản của bạn trước khi khởi chạy trò chơi. \n\nVì kịch bản của chúng tôi có trạng thái nội bộ nên bạn cần khởi động lại nó mỗi khi khởi động lại trò chơi để đảm bảo nó không phải chờ mục tiêu cuối cùng của phiên trò chơi trước đó. Điều này có thể được tự động hóa dễ dàng bằng cách phát hiện xem nút bắt đầu có hiển thị hay không để đặt lại trạng thái Sự kiện."
+}
+{
+  "You won! \n\nBy controlling which Events are active at any given time, the scenario always knows exactly which target to look for next — no wasted frames checking targets out of sequence. \n\nThis is how the Toggle Event action lets you build sequential and state-driven automation."
+  "Bạn đã thắng! \n\nBằng cách kiểm soát Sự kiện nào đang hoạt động tại bất kỳ thời điểm nhất định nào, kịch bản luôn biết chính xác mục tiêu nào cần tìm tiếp theo — không lãng phí khung hình khi kiểm tra mục tiêu không theo trình tự. \n\nĐây là cách hành động Chuyển đổi Sự kiện cho phép bạn xây dựng tính năng tự động hóa theo trình tự và theo trạng thái."
+}
+{
+  "As the target is moving, we need to set the detection type to \"Detection Area\" and then select the game area. \n\nOnce the area is correctly configured, save it and return to the Event dialog."
+  "Khi mục tiêu đang di chuyển, chúng ta cần đặt loại phát hiện thành \"Khu vực phát hiện\" rồi chọn khu vực trò chơi. \n\nKhi khu vực được định cấu hình chính xác, hãy lưu nó và quay lại hộp thoại Sự kiện."
+}
+{
+  "Your condition is set, now we need a Click action so the Event clicks on the detected target. \n\nCreate a new Click action to proceed."
+  "Điều kiện của bạn đã được đặt, bây giờ chúng tôi cần hành động Nhấp chuột để Sự kiện nhấp vào mục tiêu được phát hiện. \n\nTạo một hành động Nhấp chuột mới để tiếp tục."
+}
+{
+  "The target is moving, so we can't define a static position. Set the \"Click on\" field to \"Click on the detected condition\" and select your blue target condition. This way, the click will always land exactly where the target was found on screen.\n\nOnce the condition is selected, save the click and return to the Event dialog."
+  "Mục tiêu đang chuyển động nên chúng ta không thể xác định được vị trí cố định. Đặt trường \"Nhấp vào\" thành \"Nhấp vào điều kiện được phát hiện\" và chọn điều kiện mục tiêu màu xanh lam của bạn. Bằng cách này, cú nhấp chuột sẽ luôn hạ cánh chính xác ở vị trí mục tiêu được tìm thấy trên màn hình.\n\nSau khi điều kiện được chọn, hãy lưu lần nhấp và quay lại hộp thoại Sự kiện."
+}
+{
+  "Blue target Event is done! Now create an Event for the red target the same way: detect it in the game area and click on it. The tutorial will proceed once your red target Event is saved."
+  "Sự kiện mục tiêu xanh đã kết thúc! Bây giờ, hãy tạo Sự kiện cho mục tiêu màu đỏ theo cách tương tự: phát hiện nó trong khu vực trò chơi và nhấp vào nó. Hướng dẫn sẽ tiếp tục sau khi Sự kiện mục tiêu màu đỏ của bạn được lưu."
+}
+{
+  "Great! Now create the same Event for the green target. The tutorial will proceed once your green target Event is saved."
+  "Tuyệt vời! Bây giờ hãy tạo Sự kiện tương tự cho mục tiêu xanh. Hướng dẫn sẽ tiếp tục sau khi Sự kiện mục tiêu màu xanh lá cây của bạn được lưu."
+}
+{
+  "Almost there! Create one last Event for the yellow target. The tutorial will proceed once your yellow target Event is saved."
+  "Hầu như ở đó! Tạo một Sự kiện cuối cùng cho mục tiêu màu vàng. Hướng dẫn sẽ tiếp tục sau khi Sự kiện mục tiêu màu vàng của bạn được lưu."
+}
+{
+  "Welcome to the number condition tutorial!\n\nHere, you will try to beat the high score of a game with the help of Klick'r.\n\nYou can first try it by pressing start game, or proceed to the Scenario configuration directly."
+  "Chào mừng bạn đến với bài hướng dẫn điều kiện số lượng!\n\nTại đây, bạn sẽ thử phá kỷ lục điểm cao của một trò chơi với sự trợ giúp từ Klick'r.\n\nTrước tiên, bạn có thể chơi thử bằng cách nhấn Bắt đầu trò chơi, hoặc chuyển thẳng đến phần cấu hình Kịch bản.."
+}
+{
+  "Now, we need to tell Klick'r where to search for the number.\n\nClick on the detection area selector to define it"
+  "Bây giờ, chúng ta cần chỉ định cho Klick'r vị trí cần tìm số.\n\nHãy nhấn vào bộ chọn vùng nhận diện để thiết lập."
+}
+{
+  "Position and resize the detection rectangle so it covers the displayed number. You can start the game the see where it is shown. Once the area is correct, press the validate button to save it."
+  "Hãy căn chỉnh vị trí và thay đổi kích thước khung nhận diện sao cho bao trọn chữ số hiển thị. Bạn có thể bắt đầu trò chơi để xem vị trí số xuất hiện. Sau khi vùng chọn đã chính xác, hãy nhấn nút xác nhận để lưu lại."
+}
+{
+  "Your Condition is now configured!\n\nThere are now several adjustments that can be made to it, but the default settings suits our basic use case.\n\nClick on the save button to register it and return to the Conditions list."
+  "Điều kiện của bạn hiện đã được cấu hình!\n\nCó nhiều tùy chỉnh khác có thể áp dụng, nhưng cài đặt mặc định đã phù hợp với nhu cầu cơ bản của chúng ta.\n\nHãy nhấn vào nút lưu để ghi nhận và quay trở lại danh sách Điều kiện."
+}
+{
+  "With this Condition, the scenario knows when to trigger the Actions.\n\n You now need to define what Actions to trigger, so for this game, a click on the button.\n\nClick on the Actions field to display the Actions list."
+  "Với Điều kiện này, kịch bản sẽ biết khi nào cần kích hoạt các Hành động.\n\nBây giờ bạn cần định nghĩa những Hành động nào cần kích hoạt, cụ thể cho trò chơi này là một cú nhấp vào nút.\n\nHãy nhấn vào trường Hành động để hiển thị danh sách Hành động."
+}
+{
+  "First, we need to pick a type for your Action.\n\nFor this game, we simply need to click on the button, so choose Click to create a new Click Action."
+  "Đầu tiên, chúng ta cần chọn loại cho Hành động của bạn.\n\nĐối với trò chơi này, chúng ta chỉ cần nhấp vào nút, vì vậy hãy chọn Nhấp để tạo một Hành động Nhấp mới."
+}
+{
+  "You need to select the exact position to be clicked, so you need to start the game again to display the button, and then select its position.\n\nOnce the position is correct, click on the validate button to save it."
+  "Bạn cần chọn chính xác vị trí cần nhấp, vì vậy bạn cần mở lại trò chơi để hiển thị nút, sau đó chọn vị trí của nó.\n\nSau khi vị trí đã chính xác, hãy nhấp vào nút xác nhận để lưu lại."
+}
+{
+  "It's playing but nothing happens?\n\nThat's normal, it will click only when the button displays a number over 9000, remember? While keeping the scenario running, press the start game button and just watch as Klick'r will beat it for you!"
+  "Đang chạy nhưng không có chuyện gì xảy ra ư?\n\nĐiều đó hoàn toàn bình thường, nó sẽ chỉ nhấp khi nút hiển thị số lớn hơn 9000, bạn nhớ chứ? Trong lúc vẫn giữ kịch bản chạy, hãy nhấn nút bắt đầu trò chơi và cứ ngồi xem Klick'r phá đảo hộ bạn nhé!"
+}
+{
+  "Congratulations!\n\nYou now know how to detect a number displayed on the screen.\nTake a look at the other tutorials to discover more use cases."
+  "Chúc mừng bạn!\n\nGiờ đây bạn đã biết cách nhận diện một con số hiển thị trên màn hình.\nHãy xem qua các bài hướng dẫn khác để khám phá thêm nhiều trường hợp sử dụng nhé."
+}
+{
+  "In this tutorial, we want to learn how to detect a number on the screen, so select Number Condition"
+  "Trong bài hướng dẫn này, chúng ta muốn tìm hiểu cách nhận diện một con số trên màn hình, vì vậy hãy chọn Điều kiện Số."
+}
+{
+  "A Number Condition is defined by the number to detect, and a comparison to apply to it."
+  "Điều kiện Số được xác định bởi con số cần nhận diện và một phép so sánh áp dụng cho con số đó."
+}
+{
+  "We want to detect if the displayed value is over 9000. So first, click on operator to change the comparison operator."
+  "Chúng ta muốn phát hiện xem giá trị hiển thị có lớn hơn 9000 hay không. Do đó, trước tiên hãy nhấp vào toán tử để thay đổi toán tử so sánh."
+}
+{
+  "Select the &gt; operator."
+  "Chọn điều kiện >."
+}
+{
+  "Now, you need to enter the value to compare with. Simply enter \"9000\" in the value field to proceed to the next tutorial step."
+  "Bây giờ, bạn cần nhập giá trị để so sánh. Chỉ cần nhập \"9000\" vào trường giá trị để chuyển sang bước hướng dẫn tiếp theo."
+}
+{
+  "Try to use the smaller possible box while keeping a margin around the number to detect."
+  "Hãy cố gắng sử dụng khung nhỏ nhất có thể nhưng vẫn phải đảm bảo có một khoảng lề xung quanh con số cần nhận diện."
+}
+{
+  "In this tutorial, we will only compare the detected number to a static value, but is possible to compare it to the value of a counter. Refers to the counters specific tutorials if you need for information about this feature."
+  "Trong bài hướng dẫn này, chúng ta sẽ chỉ so sánh con số được nhận diện với một giá trị tĩnh, nhưng bạn hoàn toàn có thể so sánh nó với giá trị của một bộ đếm. Hãy tham khảo các bài hướng dẫn riêng về bộ đếm nếu bạn cần thêm thông tin về tính năng này."
+}
+{
+  "Welcome to your second tutorial!\n\nThis time, the target is randomly moving on the screen.\n\nFirst, start the game and check if you can win by yourself."
+  "Chào mừng bạn đến với bài hướng dẫn thứ hai!\n\nLần này, mục tiêu sẽ di chuyển ngẫu nhiên trên màn hình.\n\nTrước tiên, hãy bắt đầu trò chơi và xem liệu bạn có thể tự mình chiến thắng không nhé."
+}
+{
+  "For this game, the interesting part is the blue character, so crop your screenshot to only get him.\n\nYou can pinch on the screenshot to zoom on it and get a better accuracy for the crop selector."
+  "Đối với trò chơi này, điểm thú vị là nhân vật màu xanh dương, vì vậy hãy cắt ảnh chụp màn hình của bạn để chỉ lấy nhân vật này.\n\nBạn có thể chụm hai ngón tay trên ảnh chụp màn hình để phóng to và thao tác chọn vùng cắt chính xác hơn."
+}
+{
+  "Your Condition image is now captured!\n\nBy default, the detection type is set to \"Exact\", meaning Klick'r will only look for it at the capture position. Since the blue character can appear anywhere on the game area, select \"In Area\"."
+  "Hình ảnh Điều kiện của bạn hiện đã được chụp!\n\nTheo mặc định, loại phát hiện được đặt thành \"Chính xác\", nghĩa là Klick'r sẽ chỉ tìm kiếm nó ở vị trí chụp. Vì nhân vật màu xanh lam có thể xuất hiện ở bất kỳ đâu trên khu vực trò chơi nên hãy chọn \"Trong khu vực\"."
+}
+{
+  "Click on the area selector to change the detection area."
+  "Nhấn vào bộ chọn khu vực để thay đổi vùng nhận diện."
+}
+{
+  "Resize the detection rectangle to the size of the game area, as the targets won't appear outside of it. Once the size is correct, press the validate button to save it."
+  "Hãy điều chỉnh kích thước hình chữ nhật nhận diện vừa bằng khu vực trò chơi, vì các mục tiêu sẽ không xuất hiện bên ngoài vùng đó. Khi kích thước đã chính xác, hãy nhấn nút xác nhận để lưu lại."
+}
+{
+  "That's it!\nWe only needed to define the detection area in order for your Condition to suit our needs.\n\nClick on the save button to register it and return to the Conditions list."
+  "Thế là xong!\nChúng ta chỉ cần định nghĩa khu vực nhận diện để Điều kiện của bạn phù hợp với nhu cầu.\n\nHãy nhấn vào nút lưu để ghi nhận và quay trở lại danh sách Điều kiện.."
+}
+{
+  "Your Condition is now configured! With it, the scenario knows when the blue character is visible anywhere on the screen.\n\nHowever, since the character can appear anywhere, we cannot use a fixed click position — we need to click wherever the Condition is detected.\n\n Click on the Actions field to display the Actions list."
+  "Điều kiện của bạn hiện đã được cấu hình! Nhờ đó, kịch bản sẽ biết khi nào nhân vật màu xanh xuất hiện ở bất kỳ đâu trên màn hình.\n\nTuy nhiên, vì nhân vật có thể xuất hiện ở mọi vị trí, chúng ta không thể dùng một điểm nhấp cố định — mà cần nhấp vào ngay vị trí phát hiện ra Điều kiện đó.\n\nHãy nhấn vào trường Hành động để hiển thị danh sách Hành động."
+}
+{
+  "An Action is something that is executed once the Conditions of its Event are fulfilled.\n\nFor this game, we need a Click Action that clicks wherever the blue character is detected. \n\nClick on the create Action button to create a new Action."
+  "Hành động là một tác vụ được thực thi khi các Điều kiện trong Sự kiện đó được thỏa mãn.\n\nĐối với trò chơi này, chúng ta cần một Hành động Nhấp để nhấp vào bất cứ nơi nào nhân vật màu xanh dương được phát hiện.\n\nNhấn vào nút tạo Hành động để tạo một Hành động mới."
+}
+{
+  "First, we need to pick a type for your Action.\n\nFor this game, we need to click on the blue character, so choose Click to create a new Click Action."
+  "Trước tiên, chúng ta cần chọn loại cho Hành động của bạn.\n\nĐối với trò chơi này, chúng ta cần nhấp vào nhân vật màu xanh dương, vì vậy hãy chọn Nhấp để tạo một Hành động Nhấp mới."
+}
+{
+  "A Click Action is defined by a position and a press duration.\n\nSince the blue character is moving, we cannot use a fixed position. Change the \"Click on\" setting to \"Condition\" to click wherever a detected Condition is found.\n\nSelect it to use it in your Action."
+  "Hành động Nhấp được xác định bởi vị trí và thời gian nhấn.\n\nVì nhân vật màu xanh dương đang di chuyển, chúng ta không thể sử dụng một vị trí cố định. Thay đổi cài đặt \"Nhấp vào\" thành \"Điều kiện\" Để nhấp vào bất cứ nơi nào tìm thấy Điều kiện được nhận diện.\n\nHãy chọn tùy chọn này để sử dụng trong Hành động của bạn."
+}
+{
+  "Click on the Condition selector to choose which detected Condition to click on.\n\nWe need to specify it because an Event can have multiple Conditions."
+  "Nhấn vào bộ chọn Điều kiện để chọn Điều kiện được nhận diện nào sẽ được nhấp vào.\n\nChúng ta cần chỉ định điều này vì một Sự kiện có thể có nhiều Điều kiện."
+}
+{
+  "For our use case it is easy, we only have one Condition, the blue character.\n\nSelect it to click on this Condition when it is detected on your screen."
+  "Đối với trường hợp sử dụng của chúng ta thì rất đơn giản, chúng ta chỉ có một Điều kiện duy nhất là nhân vật màu xanh dương.\n\nHãy chọn nó để nhấp vào Điều kiện này khi nó được phát hiện trên màn hình của bạn."
+}
+{
+  "That's it!\nYour Click Action is now correctly configured to beat the game.\n\nClick on the save button to register it and return to the Actions list."
+  "Thế là xong!\nHành động Nhấp của bạn hiện đã được cấu hình chính xác để vượt qua màn chơi.\n\nHãy nhấn vào nút lưu để ghi nhận và quay trở lại danh sách Hành động."
+}
+{
+  "The only requirement for a Scenario is to have at least one Event.\n As our Event already covers how to win the game, we don't need anything else.\n\nClick on the save button to save the Scenario in database and close the configuration dialogs."
+  "Yêu cầu duy nhất đối với một Kịch bản là phải có ít nhất một Sự kiện.\nVì Sự kiện của chúng ta đã bao gồm cách để chiến thắng trò chơi, nên chúng ta không cần thêm gì nữa.\n\nNhấn vào nút lưu để lưu Kịch bản vào cơ sở dữ liệu và đóng các hộp thoại cấu hình."
+}
+{
+  "As you can see, the play button is now available, meaning that your Scenario is valid and can be used for detection.\n\nClick on it to start the detection, and then start the game."
+  "Như bạn có thể thấy, nút phát hiện giờ đã khả dụng, nghĩa là Kịch bản của bạn hợp lệ và có thể được sử dụng để nhận diện.\n\nHãy nhấn vào đó để bắt đầu quá trình nhận diện, sau đó bắt đầu trò chơi nhé."
+}
+{
+  "Congratulations!\n\nYou now know how to track a moving target using the \"Whole screen\" detection type and the \"Click on Condition\" feature!"
+  "Chúc mừng bạn!\n\nBây giờ bạn đã biết cách theo dõi một mục tiêu di chuyển bằng cách sử dụng \"Toàn màn hình\" và tính năng \"Nhấp vào Sự kiện\"!"
+}
+{
+  "Difficult, isn't it?\nLet's use Klick'r to beat it!\n\n Click on the Scenario configuration icon to start editing your new scenario."
+  "Khó phải không nào?\nHãy dùng Klick'r để vượt qua nó nhé!\n\nNhấn vào biểu tượng cấu hình Kịch bản để bắt đầu chỉnh sửa kịch bản mới của bạn."
+}
+{
+  "A Scenario is the root structure of Klick'r automation.\n\n It contains the general detection settings and a list of Events describing what will be executed when running your Scenario.\n\nClick on the create event button to create your first Event."
+  "Một Kịch bản là cấu trúc gốc của tính năng tự động hóa trong Klick'r.\n\nNó chứa các cài đặt nhận diện chung và danh sách các Sự kiện mô tả những gì sẽ được thực thi khi Kịch bản của bạn chạy.\n\nNhấn vào nút tạo Sự kiện để tạo Sự kiện đầu tiên của bạn."
+}
+{
+  "An Event describes what Actions (click, swipe…) to execute when certain Conditions are met.\n\nTo beat this game, we need to detect the blue character as it moves across the screen. \n\nClick on the Conditions field to display the Conditions list."
+  "Một Sự kiện mô tả các Hành động (nhấp, vuốt…) cần thực thi khi các Điều kiện nhất định được đáp ứng.\n\nĐể vượt qua trò chơi này, chúng ta cần phát hiện nhân vật màu xanh lam khi cậu ấy di chuyển trên màn hình.\n\nNhấn vào trường Điều kiện để hiển thị danh sách Điều kiện."
+}
+{
+  "An Image Condition is a part of a screenshot that will be compared to each screen frame of your device.\n\nTo beat the game, we want to click on the blue character when it's visible, so we need a Condition that is fulfilled when the character is shown on your device screen.\n\nClick on the create Condition button to create your first Condition."
+  "Điều kiện hình ảnh là một phần của ảnh chụp màn hình sẽ được so sánh với từng khung hình trên thiết bị của bạn.\n\nĐể vượt qua trò chơi, chúng ta muốn nhấp vào nhân vật màu xanh lam khi nó hiển thị, vì vậy chúng ta cần một Điều kiện được thỏa mãn khi nhân vật xuất hiện trên màn hình thiết bị của bạn.\n\nNhấn vào nút tạo Điều kiện để tạo Điều kiện đầu tiên của bạn."
+}
+{
+  "In this tutorial, we want to learn how to detect an image on the screen, so select Image Condition"
+  "Trong hướng dẫn này, chúng ta muốn học cách nhận diện một hình ảnh trên màn hình, vì vậy hãy chọn Điều kiện hình ảnh"
+}
+{
+  "The first step of a Screen Condition creation is to take a screenshot for it.\n\n As we want to click when the blue character is visible, the screenshot must contain it. Start the game again in order to display it, and then take the screenshot."
+  "Bước đầu tiên khi tạo Điều kiện màn hình là chụp ảnh màn hình cho nó.\n\nVì chúng ta muốn nhấp khi nhân vật màu xanh lam hiển thị, ảnh chụp màn hình phải chứa nhân vật đó. Hãy khởi động lại trò chơi để hiển thị nhân vật, sau đó chụp ảnh màn hình."
+}
+{
+  "Once the screenshot is taken, you can crop it in order to only get the part that is interesting for the detection."
+  "Sau khi chụp ảnh màn hình, bạn có thể cắt ảnh để chỉ giữ lại phần cần thiết cho quá trình nhận diện."
+}
+{
+  "Ensure the character is complete in the selector. Also try to crop it as close as possible to him in order to ease the image detection."
+  "Đảm bảo nhân vật hiển thị đầy đủ trong vùng chọn. Hãy cố gắng cắt sát nhân vật nhất có thể để giúp quá trình nhận diện hình ảnh diễn ra dễ dàng hơn."
+}
+{
+  "The third option is \"Whole screen\". The bigger than detection is, the slower the detection will be. Keep that in mind when your Scenario execution timing is important."
+  "Tùy chọn thứ ba là \"Toàn màn hình\". Vùng phát hiện càng lớn thì tốc độ phát hiện càng chậm. Hãy ghi nhớ điều đó khi thời gian thực hiện Kịch bản của bạn là quan trọng."
+}
+{
+  "If your screenshot does not contains the blue character, you can press this button to take a new one."
+  "Nếu ảnh chụp màn hình của bạn không chứa nhân vật màu xanh lam, bạn có thể nhấn nút này để chụp ảnh mới."
+}
+{
+  "Welcome to your first tutorial!\n\nHere, you will try to beat the high score of a game with the help of Klick'r.\n\nFirst, start the game and try to win by yourself."
+  "Chào mừng bạn đến với hướng dẫn đầu tiên!\n\nTại đây, bạn sẽ thử phá kỷ lục điểm số cao của một trò chơi với sự trợ giúp của Klick'r.\n\nĐầu tiên, hãy khởi động trò chơi và cố gắng tự mình giành chiến thắng."
+}
+{
+  "Your Condition image is now recorded!\n\nThere is now several adjustments that can be made to it, but the default settings suits our basic use case. As our target is not moving, it will only detect at the capture position, which is faster than detecting on the whole screen.\n\nClick on the save button to register it and return to the Conditions list."
+  "Hình ảnh Điều kiện của bạn đã được ghi lại!\n\nBây giờ có một số điều chỉnh có thể được thực hiện đối với nó, nhưng các cài đặt mặc định phù hợp với trường hợp sử dụng cơ bản của chúng ta. Vì mục tiêu của chúng ta không di chuyển, nó sẽ chỉ phát hiện ở vị trí chụp, nhanh hơn so với việc phát hiện trên toàn màn hình.\n\nNhấn vào nút lưu để ghi lại và quay lại danh sách Điều kiện."
+}
+{
+  "With this Condition, the scenario knows when to trigger the Actions.\n\n You now need to define what Actions to trigger, so for this game, a click on the blue character.\n\nClick on the Actions field to display the Actions list."
+  "Với Điều kiện này, kịch bản biết khi nào cần kích hoạt các Hành động.\n\nBây giờ bạn cần xác định những Hành động nào sẽ được kích hoạt, đối với trò chơi này là một cú nhấp vào nhân vật màu xanh lam.\n\nNhấp vào trường Hành động để hiển thị danh sách Hành động."
+}
+{
+  "First, we need to pick a type for your Action.\n\nFor this game, we simply need to click on the blue character, so choose Click to create a new Click Action."
+  "Đầu tiên, chúng ta cần chọn một loại cho Hành động của bạn.\n\nĐối với trò chơi này, chúng ta chỉ cần nhấp vào nhân vật màu xanh lam, vì vậy hãy chọn Click để tạo một Hành động Click mới."
+}
+{
+  "You need to select the exact position to be clicked, so you need to start the game again to display the blue character, and then select its position.\n\nOnce the position is correct, click on the validate button to save it."
+  "Bạn cần chọn chính xác vị trí cần nhấp, vì vậy bạn cần khởi động lại trò chơi để hiển thị nhân vật màu xanh lam, sau đó chọn vị trí của nó.\n\nKhi vị trí đã chính xác, hãy nhấp vào nút xác nhận để lưu."
+}
+{
+  "Your Event now have a Condition and an Action, which means it knows what to execute and when to execute it.\n\nClick on the save button to register it and return to the Scenario dialog."
+  "Sự kiện của bạn giờ đây đã có Điều kiện và Hành động, có nghĩa là nó biết phải thực thi cái gì và thực thi khi nào.\n\nNhấp vào nút lưu để ghi lại và quay lại hộp thoại Kịch bản."
+}
+{
+  "The only requirement for a Scenario is to have at least one Event.\n As our Event already cover how to win the game, we don't need anything else.\n\nClick on the save button the save the Scenario in database and close the configuration dialogs."
+  "Yêu cầu duy nhất cho một Kịch bản là phải có ít nhất một Sự kiện.\n Vì Sự kiện của chúng ta đã bao gồm cách để chiến thắng trò chơi, chúng ta không cần thêm gì nữa.\n\nNhấp vào nút lưu để lưu Kịch bản vào cơ sở dữ liệu và đóng các hộp thoại cấu hình."
+}
+{
+  "As you can see, the play button is now available, meaning that your Scenario is valid and can be used for detection\n\nClick on it to start the detection."
+  "Như bạn có thể thấy, nút phát hiện nay đã khả dụng, có nghĩa là Kịch bản của bạn hợp lệ và có thể được sử dụng để phát hiện.\n\nNhấp vào nó để bắt đầu quá trình phát hiện."
+}
+{
+  "It's playing but nothing happens?\n\nThat's normal, it will click only when the blue character is visible, remember? While keeping the scenario running, press the start game button and just watch as Klick'r will beat it for you!"
+  "Trò chơi đang chạy nhưng không có chuyện gì xảy ra?\n\nĐó là điều bình thường, nó sẽ chỉ nhấp khi nhân vật màu xanh lam hiển thị, bạn nhớ chứ? Trong khi vẫn giữ cho kịch bản chạy, hãy nhấn nút bắt đầu trò chơi và chỉ cần ngồi xem Klick'r chơi thay bạn nhé!"
+}
+{
+  "Congratulations!\n\nYou now know the basics of Klick'r, but not all use cases will be as simple as this game.\nTake a look at the next tutorial to learn how to track a moving target"
+  "Chúc mừng bạn!\n\nBây giờ bạn đã biết những điều cơ bản về Klick'r, nhưng không phải mọi trường hợp sử dụng đều đơn giản như trò chơi này.\nHãy xem hướng dẫn tiếp theo để tìm hiểu cách theo dõi một mục tiêu đang di chuyển"
+}
+{
+  "Difficult, isn't it?\nLet's use Klick'r to beat it !\n\n Click on the scenario configuration icon to start editing your new scenario."
+  "Khó phải không?\nHãy sử dụng Klick'r để vượt qua nó!\n\n Nhấp vào biểu tượng cấu hình kịch bản để bắt đầu chỉnh sửa kịch bản mới của bạn."
+}
+{
+  "A Scenario is the root structure of Klick'r automation.\n\n It contains the general detection settings and a list of Events describing what will be executed when running your Scenario. \n\nClick on the create event button to create your first event."
+  "Kịch bản là cấu trúc gốc của tự động hóa Klick'r.\n\n Nó chứa các cài đặt phát hiện chung và danh sách các Sự kiện mô tả những gì sẽ được thực thi khi chạy Kịch bản của bạn.\n\nNhấp vào nút tạo Sự kiện để tạo Sự kiện đầu tiên của bạn."
+}
+{
+  "An Event describe what Actions (click, swipe…) to execute when certain Conditions are met.\n\nYou must create at least one Condition and one Action in order to create a valid Event and use it in your scenario\n\nClick on the Conditions field to display the Conditions list."
+  "Một Sự kiện mô tả những Hành động nào (nhấp, vuốt…) sẽ được thực thi khi đáp ứng các Điều kiện nhất định.\n\nBạn phải tạo ít nhất một Điều kiện và một Hành động để tạo một Sự kiện hợp lệ và sử dụng nó trong kịch bản của mình\n\nNhấp vào trường Điều kiện để hiển thị danh sách Điều kiện."
+}
+{
+  "A Condition is a part of a screenshot that will be compared to each screen frame of your device.\n\nTo beat the game, we want to click on the blue character when it's visible, so we need a Condition that is fulfilled when the character is shown on your device screen.\n\nClick on the create Condition button to create your first Condition."
+  "Điều kiện là một phần của ảnh chụp màn hình sẽ được so sánh với từng khung hình trên thiết bị của bạn.\n\nĐể vượt qua trò chơi, chúng ta muốn nhấp vào nhân vật màu xanh lam khi nó hiển thị, vì vậy chúng ta cần một Điều kiện được thỏa mãn khi nhân vật xuất hiện trên màn hình thiết bị.\n\nNhấp vào nút tạo Điều kiện để tạo Điều kiện đầu tiên của bạn."
+}
+{
+  "The first step of a Condition creation is to take a screenshot for it.\n\n As we want to click when the blue character is visible, the screenshot must contains it. Start the game again in order to display it, and then take the screenshot."
+  "Bước đầu tiên trong việc tạo Điều kiện là chụp ảnh màn hình cho nó.\n\n Vì chúng ta muốn nhấp khi nhân vật màu xanh lam hiển thị, ảnh chụp màn hình phải chứa nhân vật đó. Hãy khởi động lại trò chơi để hiển thị nhân vật, sau đó chụp ảnh màn hình."
+}
+{
+  "Welcome to the moving text condition tutorial!\n\nHere, you will try to beat the high score of a game with the help of Klick'r.\n\nYou can first try it by pressing start game, or proceed to the Scenario configuration directly."
+  "Chào mừng bạn đến với hướng dẫn điều kiện mục tiêu di chuyển!\n\nTại đây, bạn sẽ thử phá kỷ lục điểm số cao của một trò chơi với sự trợ giúp của Klick'r.\n\nBạn có thể thử trước bằng cách nhấn bắt đầu trò chơi, hoặc tiến hành cấu hình Kịch bản trực tiếp."
+}
+{
+  "With this Condition, the scenario knows when to trigger the Actions.\n\n You now need to define what Actions to trigger, so for this game, a click on the \"Hello\" button.\n\nClick on the Actions field to display the Actions list."
+  "Với Điều kiện này, kịch bản biết khi nào cần kích hoạt các Hành động.\n\nBây giờ bạn cần xác định những Hành động nào sẽ được kích hoạt, đối với trò chơi này là một cú nhấp vào nút ..Hello...;\n\nNhấp vào trường Hành động để hiển thị danh sách Hành động."
+}
+{
+  "Since the \"Hello\" is moving, we cannot use a fixed position. Change the \"Click on\" setting to \"Condition\" to click on the detection Condition."
+  "Vì chữ \"Hello\" đang di chuyển, chúng ta không thể sử dụng một vị trí cố định. Hãy thay đổi cài đặt \"Nhấp vào\" thành \"Sự kiện\" để nhấp vào Điều kiện phát hiện."
+}
+{
+  "For our use case it is easy, we only have one Condition, the \"Hello\" text. \n\nSelect it to click on this Condition position when it is detected on your screen."
+  "Đối với trường hợp sử dụng của chúng ta thì rất đơn giản, chúng ta chỉ có một Điều kiện duy nhất là văn bản \"Hello\". \n\nChọn nó để nhấp vào vị trí Điều kiện này khi nó được phát hiện trên màn hình của bạn."
+}
+{
+  "It's playing but nothing happens?\n\nThat's normal, it will click only when the button displays \"Hello\", remember? While keeping the scenario running, press the start game button and just watch as Klick'r will beat it for you!"
+  "Trò chơi đang chạy nhưng không có chuyện gì xảy ra?\n\nĐó là điều bình thường, nó sẽ chỉ nhấp khi nút hiển thị \"Hello\", bạn nhớ chứ? Trong khi vẫn giữ cho kịch bản chạy, hãy nhấn nút bắt đầu trò chơi và chỉ cần ngồi xem Klick'r chơi thay bạn nhé!"
+}
+{
+  "Congratulations!\n\nYou now know how to detect a moving text displayed on the screen.\nTake a look at the other tutorials to discover more use cases."
+  "Chúc mừng bạn!\n\nBây giờ bạn đã biết cách phát hiện một văn bản đang di chuyển hiển thị trên màn hình.\nHãy xem các hướng dẫn khác để khám phá thêm nhiều trường hợp sử dụng."
+}
+{
+  "In this tutorial, we want to learn how to detect a text on the screen, so select Text Condition"
+  "Trong hướng dẫn này, chúng ta muốn tìm hiểu cách phát hiện văn bản trên màn hình, vì vậy hãy chọn Điều kiện Văn bản"
+}
+{
+  "A Text Condition is defined by the text to detect and the area of the screen to search it in.\n\nAs we want to click on the game button when it displays \"Hello\", type Hello in the text to detect field."
+  "Điều kiện Văn bản được định nghĩa bằng văn bản cần phát hiện và vùng màn hình để tìm kiếm.\n\nVì chúng ta muốn nhấp vào nút trò chơi khi nó hiển thị \"Hello\", hãy nhập Hello vào trường văn bản cần phát hiện."
+}
+{
+  "Now, we need to tell Klick'r where to search for the text.\n\nClick on the detection area selector to define it."
+  "Bây giờ, chúng ta cần cho Klick'r biết vị trí cần tìm kiếm văn bản.\n\nNhấp vào trình chọn vùng phát hiện để xác định vùng đó."
+}
+{
+  "Position and resize the detection rectangle so it covers the four buttons, as \"Hello\" can randomly appear in those 4 places. Once the area is correct, press the validate button to save it."
+  "Đặt vị trí và thay đổi kích thước hình chữ nhật phát hiện sao cho nó bao phủ bốn nút, vì \"Hello\" có thể xuất hiện ngẫu nhiên ở 4 vị trí đó. Khi khu vực đã chính xác, hãy nhấn nút xác nhận để lưu lại."
+}
+{
+  "The Alphabet field defines the writing system of the text to detect. \"Hello\" uses the latin alphabet, so you can keep the default value here, but don't forget to change it when detecting non-latin texts."
+  "Trường Bảng chữ cái xác định hệ thống chữ viết của văn bản cần phát hiện. \"Hello\" sử dụng bảng chữ cái Latinh, vì vậy bạn có thể giữ nguyên giá trị mặc định ở đây, nhưng đừng quên thay đổi nó khi phát hiện các văn bản không phải chữ Latinh."
+}
+{
+  "As usual, try to use the smaller possible box while keeping a margin around the text to detect. The smaller the area is, the fastest the detection is."
+  "Như thường lệ, hãy cố gắng sử dụng khung nhỏ nhất có thể trong khi vẫn giữ một khoảng lề xung quanh văn bản cần phát hiện. Khu vực càng nhỏ, tốc độ phát hiện càng nhanh."
+}
+{
+  "Welcome to the text condition tutorial!\n\nHere, you will try to beat the high score of a game with the help of Klick'r.\n\nYou can first try it by pressing start game, or proceed to the Scenario configuration directly."
+  "Chào mừng bạn đến với hướng dẫn điều kiện văn bản!\n\nTại đây, bạn sẽ thử phá kỷ lục điểm số của một trò chơi với sự trợ giúp của Klick'r.\n\nBạn có thể thử trước bằng cách nhấn bắt đầu trò chơi, hoặc tiến hành cấu hình Kịch bản trực tiếp."
+}
+{
+  "Congratulations!\n\nYou now know how to detect a text displayed on the screen.\nTake a look at the other tutorials to discover more use cases."
+  "Chúc mừng bạn!\n\nBây giờ bạn đã biết cách phát hiện văn bản hiển thị trên màn hình.\nHãy xem các hướng dẫn khác để khám phá thêm nhiều trường hợp sử dụng."
+}
+{
+  "Position and resize the detection rectangle so it covers the game button, as that's where \"Hello\" will be displayed. Once the area is correct, press the validate button to save it."
+  "Đặt vị trí và thay đổi kích thước hình chữ nhật phát hiện sao cho nó bao phủ nút trò chơi, vì đó là nơi ..Hello... sẽ được hiển thị. Khi khu vực đã chính xác, hãy nhấn nút xác nhận để lưu lại."
+}
+{
+  "Try to use the smaller possible box while keeping a margin around the text to detect."
+  "Hãy cố gắng sử dụng khung nhỏ nhất có thể trong khi vẫn giữ một khoảng lề xung quanh văn bản cần phát hiện."
+}
+{
+  "Welcome to the Timer reached condition tutorial! \n\nHere, you will try to trigger an action at a given cycle. You can try to beat the game first, or skip directly to the scenario configuration to start automating it."
+  "Chào mừng bạn đến với hướng dẫn điều kiện đạt đến Bộ đếm thời gian!\n\nTại đây, bạn sẽ thử kích hoạt một hành động ở một chu kỳ nhất định. Bạn có thể thử chơi trò chơi trước, hoặc bỏ qua để chuyển thẳng đến phần cấu hình kịch bản nhằm bắt đầu tự động hóa."
+}
+{
+  "That's all the conditions we need. Close the dialog to return to the Trigger Event configuration."
+  "Đó là tất cả các điều kiện chúng ta cần. Đóng hộp thoại để quay lại phần cấu hình Sự kiện Kích hoạt."
+}
+{
+  "Now the event knows when to trigger its actions, but we still need to define what to trigger. Click on the Action field to display the action list."
+  "Bây giờ Sự kiện đã biết khi nào nên kích hoạt các hành động của nó, nhưng chúng ta vẫn cần xác định những gì cần kích hoạt. Bấm vào trường Hành động để hiển thị danh sách hành động."
+}
+{
+  "When the condition is fulfilled (so, every second), we need to click on the game button. Simply create a new Click action and set its position on the game button. \n\nTutorial will proceed once you return to the event list with your created event."
+  "Khi Sự kiện được đáp ứng (mỗi giây), chúng ta cần nhấp vào nút trò chơi. Chỉ cần tạo hành động Nhấp chuột mới và đặt vị trí của nó trên nút trò chơi. \n\nHướng dẫn sẽ tiếp tục khi bạn quay lại danh sách Sự kiện với Sự kiện đã tạo của mình."
+}
+{
+  "Our Trigger Event knows when to act and what to do, we can now save our scenario and try to beat the game. \n\nTutorial will proceed once you save the scenario."
+  "Sự kiện kích hoạt của chúng tôi biết khi nào nên hành động và phải làm gì, giờ đây chúng tôi có thể lưu kịch bản của mình và cố gắng đánh bại trò chơi. \n\nHướng dẫn sẽ tiếp tục sau khi bạn lưu kịch bản."
+}
+{
+  "Now restart the game, start your scenario and watch Klick'r beat the game for you!"
+  "Bây giờ hãy khởi động lại trò chơi, bắt đầu kịch bản của bạn và xem Klick'r đánh bại trò chơi giúp bạn!"
+}
+{
+  "The Trigger Events are in a separate list from the Screen Events, click on Trigger Event icon to open it."
+  "Sự kiện kích hoạt nằm trong danh sách riêng biệt với Sự kiện trên màn hình, hãy nhấp vào biểu tượng Sự kiện kích hoạt để mở."
+}
+{
+  "Now, click on create to create a new Trigger Event."
+  "Bây giờ, hãy nhấp vào tạo để tạo Sự kiện kích hoạt mới."
+}
+{
+  "As you can see, the Trigger Event structure is roughly the same as the Screen Event. We need first to declare when we want to execute our actions. \n\nClick on the Trigger Conditions field to open the condition list."
+  "Như bạn có thể thấy, cấu trúc Sự kiện kích hoạt gần giống với Sự kiện màn hình. Trước tiên chúng ta cần khai báo khi nào chúng ta muốn thực hiện hành động của mình. \n\nBấm vào trường Sự kiện kích hoạt để mở danh sách Sự kiện."
+}
+{
+  "For now, the list is empty. Click on the create button to create a new Trigger Condition."
+  "Hiện tại, danh sách này trống. Nhấp vào nút tạo để tạo Sự kiện kích hoạt mới."
+}
+{
+  "To beat the game, we need to click at a given time, so select the Timer Reached condition type."
+  "Để đánh bại trò chơi, chúng ta cần nhấp chuột vào một thời điểm nhất định, vì vậy hãy chọn loại Sự kiện Đã đạt đến bộ đếm thời gian."
+}
+{
+  "The timer reached condition is considered fulfilled after a given amount of time. We want to click every second, so let's use 1000 ms. \n\nThe tutorial will continue once you input 1000 in the \"After\" box."
+  "Sự kiện đạt được của bộ đếm thời gian được coi là đã hoàn thành sau một khoảng thời gian nhất định. Chúng tôi muốn nhấp chuột mỗi giây, vì vậy hãy sử dụng 1000 mili giây. \n\nHướng dẫn sẽ tiếp tục khi bạn nhập 1000 vào hộp \"Sau\"."
+}
+{
+  "By default, Timer Reached Conditions are triggered only once, but here we want to click every second, not just one second after start. \n\nClick on the checkbox to restart the condition timer once it has been reached."
+  "Theo mặc định, Sự kiện đạt đến bộ hẹn giờ chỉ được kích hoạt một lần, nhưng ở đây chúng tôi muốn nhấp vào mỗi giây chứ không chỉ một giây sau khi bắt đầu. \n\nNhấp vào hộp kiểm để khởi động lại bộ đếm thời gian Sự kiện khi đã đạt đến mức đó."
+}
+{
+  "Our condition is now configured to be fulfilled every second. Keep in mind that your other scenario elements will still need to be processed, so a scenario with plenty of enabled Events can delay this condition. \n\nClick on save to close the dialog and return to the Trigger Condition list."
+  "Sự kiện của chúng tôi hiện được cấu hình để được đáp ứng mỗi giây. Hãy nhớ rằng các thành phần kịch bản khác của bạn vẫn cần được xử lý, do đó, một kịch bản có nhiều Sự kiện được bật có thể trì hoãn Sự kiện này. \n\nBấm vào lưu để đóng hộp thoại và quay lại danh sách Sự kiện kích hoạt."
+}
+{
+  "If your scenario is clicking too quickly, it can block you from using Klick'r menu to stop it.\n\nIn that case, you can press the physical \"Volume Down\" button of your device to stop the running scenario."
+  "Nếu kịch bản của bạn nhấp quá nhanh, nó có thể chặn bạn sử dụng menu Klick'r để dừng nó.\n\nTrong trường hợp đó, bạn có thể nhấn nút \"Giảm âm lượng\" vật lý trên thiết bị của mình để dừng kịch bản đang chạy."
+}
+{
+  "New notification"
+  "Thông báo mới"
+}
+{
+  "icon"
+  "biểu tượng"
+}
+{
+  "icon path"
+  "đường dẫn biểu tượng"
+}
+{
+  "button"
+  "cái nút"
+}
+{
+  "button path"
+  "đường dẫn nút"
+}
+{
+  "Checked"
+  "Đã kiểm tra"
+}
+{
+  "Partially checked"
+  "Đã kiểm tra một phần"
+}
+{
+  "Not checked"
+  "Chưa được kiểm tra"
+}
+{
+  "Remove %1$s"
+  "Xóa %1$s"
+}
+{
+  "More than %1$d new notifications"
+  "Hơn %1$d thông báo mới"
+}
+{
+  "circle_group"
+  "nhóm_vòng tròn"
+}
+{
+  "circle"
+  "vòng tròn"
+}
+{
+  "Hide"
+  "Ẩn"
+}
+{
+  "Pause"
+  "Tắt"
+}
+{
+  "Play"
+  "Sẵn sàng"
+}
+{
+  "Show"
+  "Hiện"
+}
+{
+  "Stop"
+  "Dừng lại"
+}
+{
+  "Press to change the scenario"
+  "Nhấn để thay đổi kịch bản"
+}
+{
+  "Klick'r scenarios"
+  "kịch bản Klick'r"
+}
+{
+  "Scenario: %1$s"
+  "Kịch bản: %1$s"
+}
+{
+  "Recording gesture…"
+  "Đang ghi lại cử chỉ…"
+}
+{
+  "Results"
+  "Kết quả"
+}
+{
+  "Threshold"
+  "Ngưỡng"
+}
+{
+  "Show password"
+  "Hiển thị mật khẩu"
+}
+{
+  "Search by action name"
+  "Tìm kiếm theo tên hành động"
+}
+{
+  "Search by condition name"
+  "Tìm kiếm theo tên Sự kiện"
+}
+{
+  "Search by event name"
+  "Tìm kiếm theo tên Sự kiện"
+}
+{
+  "Side Sheet"
+  "Trang bên"
+}
+{
+  "Start Klick'r"
+  "Start click'r"
+}
+{
+  "No Scenario defined"
+  "Không có kịch bản nào được xác định"
+}
+{
+  "No counters"
+  "Không có bộ đếm"
+}
+{
+  "Screenshot failed, no frames were generated."
+  "Ảnh chụp màn hình không thành công, không có khung nào được tạo."
+}
+{
+  "Touch the position to click on"
+  "Chạm vào vị trí để nhấp vào"
+}
+{
+  "Touch the position to start the swipe from"
+  "Chạm vào vị trí để bắt đầu vuốt từ"
+}
+{
+  "Touch the position to end the swipe to"
+  "Chạm vào vị trí để kết thúc thao tác vuốt tới"
+}
+{
+  "User denied foreground service permission"
+  "Người dùng bị từ chối quyền sử dụng dịch vụ trên nền trước"
+}
+{
+  "User denied screen sharing permission"
+  "Người dùng bị từ chối quyền chia sẻ màn hình"
+}
+{
+  "An Action is executed when an Event's Conditions are fulfilled. Actions range from gestures (Click, Swipe) to flow control (ToggleEvent, ChangeCounter, Pause) and system interactions (Intent, Notification, SystemAction, SetText).\n\n Learn here how to use each Action type to build your automation scripts."
+  "Một Hành động được thực thi khi Sự kiện của Sự kiện được đáp ứng. Các hành động bao gồm từ cử chỉ (Nhấp, Vuốt) đến điều khiển luồng (ToggleEvent, ChangeCounter, Tạm dừng) và tương tác hệ thống (Ý định, Thông báo, SystemAction, SetText).\n\n Tìm hiểu ở đây cách sử dụng từng loại Hành động để xây dựng tập lệnh tự động hóa của bạn."
+}
+{
+  "Execute something once your conditions are fulfilled"
+  "Thực hiện điều gì đó khi Sự kiện của bạn được đáp ứng"
+}
+{
+  "A Scenario is the root element of your automation script. It contains a list of ScreenEvents and a list of TriggerEvents.\nAn Event is a list of ScreenConditions/TriggerConditions to fulfill in order to execute a list of Actions.\n\n Learn here how to use each element of a Scenario."
+  "Kịch bản là thành phần gốc của tập lệnh tự động hóa của bạn. Nó chứa danh sách ScreenEvents và danh sách TriggerEvents.\nSự kiện là danh sách các Sự kiện màn hình/Sự kiện kích hoạt cần thực hiện để thực thi danh sách Hành động.\n\n Tìm hiểu ở đây cách sử dụng từng thành phần của Kịch bản."
+}
+{
+  "Learn how to use each Scenario element"
+  "Tìm hiểu cách sử dụng từng phần tử Kịch bản"
+}
+{
+  "Scenario Basics"
+  "Kịch bản cơ bản"
+}
+{
+  "A Change Counter Action modifies a named Counter variable by setting it to a fixed value, adding to it, or subtracting from it. Counters can then be read by Conditions or other Actions.\n\n Learn here how to use it to manage state across your Scenario."
+  "Hành động phản đối thay đổi sửa đổi một biến Bộ đếm được đặt tên bằng cách đặt biến đó thành một giá trị cố định, thêm vào hoặc trừ đi. Sau đó, bộ đếm có thể được đọc theo Điều kiện hoặc Hành động khác.\n\n Tìm hiểu ở đây cách sử dụng nó để quản lý trạng thái trong Kịch bản của bạn."
+}
+{
+  "Set, add, or subtract a value on a Counter"
+  "Đặt, cộng hoặc trừ một giá trị trên Bộ đếm"
+}
+{
+  "Change Counter"
+  "Bộ đếm thay đổi"
+}
+{
+  "A Change Event State Action enables, disables, or toggles one or more Events at runtime. This lets you build multi-step flows where earlier steps gate later ones.\n\n Learn here how to use it to control the flow of your Scenario."
+  "Hành động trạng thái Sự kiện thay đổi sẽ bật, tắt hoặc chuyển đổi một hoặc nhiều Sự kiện trong thời gian chạy. Điều này cho phép bạn xây dựng các quy trình gồm nhiều bước trong đó các bước trước sẽ kiểm soát các bước sau.\n\n Tìm hiểu ở đây cách sử dụng nó để kiểm soát luồng Kịch bản của bạn."
+}
+{
+  "Enable, disable, or toggle one or more Events"
+  "Bật, tắt hoặc chuyển đổi một hoặc nhiều Sự kiện"
+}
+{
+  "Change Event State"
+  "Thay đổi trạng thái Bật/Tắt của Sự kiện"
+}
+{
+  "A Click Action simulates a tap at a fixed coordinate or at the center of a matched Condition. You can configure the press duration to simulate long presses. \n\n Learn here how to use it to interact with your screen."
+  "Hành động nhấp chuột mô phỏng một lần nhấn tại tọa độ cố định hoặc ở giữa Điều kiện phù hợp. Bạn có thể định cấu hình thời lượng nhấn để mô phỏng các lần nhấn dài. \n\n Tìm hiểu ở đây cách sử dụng nó để tương tác với màn hình của bạn."
+}
+{
+  "Tap at a fixed position or on a matched condition"
+  "Nhấn vào một vị trí cố định hoặc vào một điều kiện phù hợp"
+}
+{
+  "A Color Condition checks the color of a specific pixel on your screen and compares it to a target color. It is the lightest condition type, with no image processing involved.\n\n Learn here how to use it to react to color changes on your screen."
+  "Sự kiện màu sẽ kiểm tra màu của một pixel cụ thể trên màn hình của bạn và so sánh nó với màu mục tiêu. Đây là loại Sự kiện nhẹ nhất, không liên quan đến xử lý hình ảnh.\n\n Tìm hiểu ở đây cách sử dụng nó để phản ứng với những thay đổi màu sắc trên màn hình của bạn."
+}
+{
+  "Verify if a specific color is displayed"
+  "Xác minh xem một màu cụ thể có được hiển thị hay không"
+}
+{
+  "Color Conditions"
+  "Sự kiện màu sắc"
+}
+{
+  "Each Event has a condition operator:AND requires all conditions to be fulfilled, while OR requires at least one. Mixing condition types and operators lets you handle complex real-world scenarios.\n\n Learn here how to combine conditions effectively."
+  "Mỗi Sự kiện có một điều kiện Sự kiện:AND yêu cầu phải đáp ứng tất cả các Sự kiện, trong khi OR yêu cầu ít nhất một Sự kiện. Việc kết hợp các loại Sự kiện và điều kiện cho phép bạn xử lý các tình huống phức tạp trong thế giới thực.\n\n Tìm hiểu ở đây cách kết hợp các Sự kiện một cách hiệu quả."
+}
+{
+  "Trigger events using multiple conditions together."
+  "Kích hoạt các Sự kiện sử dụng nhiều Sự kiện cùng nhau."
+}
+{
+  "Combine Conditions"
+  "Sự kiện kết hợp"
+}
+{
+  "Klick'r lets you coordinate multiple Events to build advanced automation flows. By controlling the order in which Events are evaluated and enabling or disabling them at runtime, you can create complex, multi-step Scenarios.\n\n Learn here how to combine Events effectively to take full control of your automation."
+  "Klick'r cho phép bạn điều phối nhiều Sự kiện để xây dựng các luồng tự động hóa nâng cao. Bằng cách kiểm soát thứ tự đánh giá Sự kiện và bật hoặc tắt chúng trong thời gian chạy, bạn có thể tạo các Kịch bản phức tạp gồm nhiều bước.\n\n Tìm hiểu ở đây cách kết hợp Sự kiện hiệu quả để kiểm soát hoàn toàn quá trình tự động hóa của bạn."
+}
+{
+  "Use multiple events for complex logic control"
+  "Sử dụng nhiều Sự kiện để điều khiển logic phức tạp"
+}
+{
+  "Combine Events"
+  "Kết hợp Sự kiện"
+}
+{
+  "A Counter is a named numeric variable scoped to your Scenario. It starts at a default value and can be read by Conditions or Actions, and written by the Change Counter Action.\n\n Learn here how to use Counters to build smarter automation scripts."
+  "Bộ đếm là một biến số được đặt tên trong phạm vi Kịch bản của bạn. Nó bắt đầu ở một giá trị mặc định và có thể được đọc theo Sự kiện hoặc Hành động và được ghi bởi Hành động phản đối thay đổi.\n\n Tìm hiểu ở đây cách sử dụng Bộ đếm để xây dựng các tập lệnh tự động hóa thông minh hơn."
+}
+{
+  "Track and use numeric values in your Scenario."
+  "Theo dõi và sử dụng các giá trị số trong Kịch bản của bạn."
+}
+{
+  "Screen Events are evaluated in priority order during each detection cycle. An Event higher in the list is checked before lower Events, letting you define which Event take precedence when multiple Events could trigger at the same time.\n\n Learn here how to set Event priorities to fine-tune the execution order of your Scenario."
+  "Sự kiện màn hình được đánh giá theo thứ tự ưu tiên trong mỗi chu kỳ phát hiện. Sự kiện cao hơn trong danh sách được kiểm tra trước Sự kiện thấp hơn, cho phép bạn xác định Sự kiện nào được ưu tiên khi nhiều Sự kiện có thể kích hoạt cùng một lúc.\n\n Tìm hiểu ở đây cách đặt mức độ ưu tiên của Sự kiện để tinh chỉnh thứ tự thực hiện Kịch bản của bạn."
+}
+{
+  "Control the importance of your events"
+  "Kiểm soát tầm quan trọng của Sự kiện của bạn"
+}
+{
+  "Events priority"
+  "Ưu tiên Sự kiện"
+}
+{
+  "Events can be enabled or disabled at runtime using the Change Event State Action. This lets you build multistep automation flows where earlier steps gate later ones, or where certain events are only active under specific conditions.\n\n Learn here how to control Event state to build advanced Scenarios."
+  "Sự kiện có thể được bật hoặc tắt trong thời gian chạy bằng cách sử dụng Hành động Thay đổi trạng thái Bật/Tắt của Sự kiện. Điều này cho phép bạn xây dựng các quy trình tự động hóa nhiều bước trong đó các bước trước sẽ kiểm soát các bước sau hoặc khi một số Sự kiện nhất định chỉ hoạt động trong các điều kiện cụ thể.\n\n Tìm hiểu ở đây cách kiểm soát trạng thái Sự kiện để xây dựng các Kịch bản nâng cao."
+}
+{
+  "Enable or disable Events dynamically."
+  "Bật hoặc tắt Sự kiện một cách linh hoạt."
+}
+{
+  "Events state"
+  "Trạng thái Sự kiện"
+}
+{
+  "An Image Condition captures a screenshot of a part of your screen and looks for it later, either at an exact position, anywhere on the screen, or within a defined area. A threshold controls how strict the match must be.\n\n Learn here how to use it to react to images appearing on your screen."
+  "Sự kiện Hình ảnh chụp ảnh chụp màn hình của một phần màn hình của bạn và tìm kiếm nó sau, ở một vị trí chính xác, ở bất kỳ đâu trên màn hình hoặc trong một khu vực xác định. Một ngưỡng kiểm soát mức độ nghiêm ngặt của trận đấu.\n\n Tìm hiểu ở đây cách sử dụng nó để phản ứng với hình ảnh xuất hiện trên màn hình của bạn."
+}
+{
+  "Verify if a specific image is displayed"
+  "Xác minh nếu một hình ảnh cụ thể được hiển thị"
+}
+{
+  "Image Conditions"
+  "Sự kiện hình ảnh"
+}
+{
+  "An Intent Action sends an Android Intent, either as a broadcast or to start an Activity or Service. You can attach extra key-value pairs to pass data along with the Intent.\n\n Learn here how to use it to trigger actions in other applications."
+  "Một Hành động có ý định sẽ gửi một Ý định của Android, dưới dạng phát sóng hoặc để bắt đầu một Hoạt động hoặc Dịch vụ. Bạn có thể đính kèm các cặp khóa-giá trị bổ sung để truyền dữ liệu cùng với Ý định.\n\n Tìm hiểu ở đây cách sử dụng nó để kích hoạt các hành động trong các ứng dụng khác."
+}
+{
+  "Send an Android Intent to another app or component"
+  "Gửi Ý định Android đến một ứng dụng hoặc thành phần khác"
+}
+{
+  "A Notification Action posts an Android system notification with a custom title and message. It is useful to alert the user when a specific condition is detected.\n\n Learn here how to use it to surface information while your Scenario runs in the background."
+  "Hành động thông báo đăng thông báo hệ thống Android với tiêu đề và thông báo tùy chỉnh. Sẽ rất hữu ích khi cảnh báo người dùng khi phát hiện một tình trạng cụ thể.\n\n Tìm hiểu ở đây cách sử dụng nó để hiển thị thông tin trong khi Kịch bản của bạn chạy ở chế độ nền."
+}
+{
+  "Post a system notification"
+  "Đăng thông báo hệ thống"
+}
+{
+  "A Number Condition reads a number displayed in a defined area on your screen and compares it to a fixed value or a Counter using operators such as equal, greater than, or less than.\n\n Learn here how to use it to react to numeric values displayed on your screen."
+  "Sự kiện Số đọc một số được hiển thị trong một vùng xác định trên màn hình của bạn và so sánh nó với một giá trị cố định hoặc Bộ đếm bằng cách sử dụng các điều kiện như bằng, lớn hơn hoặc nhỏ hơn.\n\n Tìm hiểu ở đây cách sử dụng nó để phản ứng với các giá trị số được hiển thị trên màn hình của bạn."
+}
+{
+  "Verify if a specific number is displayed"
+  "Xác minh nếu một số cụ thể được hiển thị"
+}
+{
+  "Number Conditions"
+  "Sự kiện số"
+}
+{
+  "A Pause Action delays execution for a configured amount of time. It is useful to insert a wait between two actions when the app needs time to react. \n\n Learn here how to use it to pace your automation scripts."
+  "Hành động tạm dừng sẽ trì hoãn việc thực thi trong một khoảng thời gian được định cấu hình. Sẽ rất hữu ích khi chèn khoảng thời gian chờ giữa hai hành động khi ứng dụng cần thời gian để phản ứng. \n\n Tìm hiểu ở đây cách sử dụng nó để tăng tốc các tập lệnh tự động hóa của bạn."
+}
+{
+  "Wait for a duration before executing the next action"
+  "Đợi một lúc trước khi thực hiện hành động tiếp theo"
+}
+{
+  "Klick'r automation is based on what is displayed on your screen, which is pretty different from your time-based regular autoclicker.\n\nLearn here how to use it."
+  "Tự động hóa Klick'r dựa trên những gì được hiển thị trên màn hình của bạn, điều này khá khác so với trình nhấp chuột tự động thông thường dựa trên thời gian của bạn.\n\nTìm hiểu ở đây làm thế nào để sử dụng nó."
+}
+{
+  "Tutorials"
+  "Hướng dẫn"
+}
+{
+  "A Screen Condition is the \"when\" part of your Screen Event: When an Event's Screen Conditions are fulfilled, then this Event's Actions are executed.\nFor a Screen Condition to be fulfilled, the content of your device screen must match a given color, image, text or number. \n\n Learn here how to use them with simple interactive use cases."
+  "Sự kiện màn hình là phần \"khi\" của Sự kiện màn hình của bạn: Khi Sự kiện màn hình của Sự kiện được đáp ứng thì Hành động của Sự kiện này sẽ được thực thi.\nĐể đáp ứng Sự kiện màn hình, nội dung trên màn hình thiết bị của bạn phải khớp với màu sắc, hình ảnh, văn bản hoặc số nhất định. \n\n Tìm hiểu ở đây cách sử dụng chúng với các trường hợp sử dụng tương tác đơn giản."
+}
+{
+  "Verify what's displayed on your screen"
+  "Xác minh những gì hiển thị trên màn hình của bạn"
+}
+{
+  "Screen Conditions"
+  "Sự kiện màn hình"
+}
+{
+  "A Swipe Action simulates a drag gesture from a start coordinate to an end coordinate. You can configure the swipe duration to control the speed of the gesture. \n\n Learn here how to use it to scroll or drag elements on your screen."
+  "Hành động vuốt mô phỏng cử chỉ kéo từ tọa độ bắt đầu đến tọa độ kết thúc. Bạn có thể định cấu hình thời lượng vuốt để kiểm soát tốc độ của cử chỉ. \n\n Tìm hiểu ở đây cách sử dụng nó để cuộn hoặc kéo các phần tử trên màn hình của bạn."
+}
+{
+  "Slide from one point to another on the screen"
+  "Trượt từ điểm này sang điểm khác trên màn hình"
+}
+{
+  "A System Action invokes a global Android navigation action such as pressing Back, Home or Recent. These actions do not require a coordinate and act at the system level.\n\n Learn here how to use it to navigate the device during automation."
+  "Hành động hệ thống gọi ra hành động điều hướng chung của Android chẳng hạn như nhấn Quay lại, Trang chủ hoặc Gần đây. Những hành động này không yêu cầu phối hợp và hành động ở cấp hệ thống.\n\n Tìm hiểu ở đây cách sử dụng nó để điều hướng thiết bị trong quá trình tự động hóa."
+}
+{
+  "Invoke a global Android navigation action"
+  "Gọi một hành động điều hướng Android toàn cầu"
+}
+{
+  "System Action"
+  "Hành động hệ thống"
+}
+{
+  "A Text Condition reads text displayed in a defined area on your screen and checks whether it matches a given value.\n\n Learn here how to use it to react to text appearing on your screen."
+  "Sự kiện văn bản đọc văn bản được hiển thị trong một khu vực xác định trên màn hình của bạn và kiểm tra xem nó có khớp với một giá trị nhất định hay không.\n\n Tìm hiểu ở đây cách sử dụng nó để phản ứng với văn bản xuất hiện trên màn hình của bạn."
+}
+{
+  "Verify if specific text is displayed"
+  "Xác minh nếu văn bản cụ thể được hiển thị"
+}
+{
+  "Text Conditions"
+  "Sự kiện văn bản"
+}
+{
+  "A Trigger Condition is the \"when\" part of a Trigger Event: it fires based on non-visual signals such as a timer expiring, a Counter reaching a value, or an Android broadcast being received.\n\n Learn here how to use them to build time-based or state-driven automation flows."
+  "Sự kiện kích hoạt là phần \"khi\" của Sự kiện kích hoạt: nó kích hoạt dựa trên các tín hiệu không trực quan như hết giờ, Bộ đếm đạt đến giá trị hoặc chương trình phát sóng Android được nhận.\n\n Tìm hiểu ở đây cách sử dụng chúng để xây dựng các luồng tự động hóa dựa trên thời gian hoặc theo trạng thái."
+}
+{
+  "Verify the state of the Scenario"
+  "Xác minh trạng thái của Kịch bản"
+}
+{
+  "Trigger Conditions"
+  "Sự kiện kích hoạt"
+}
+{
+  "A Write Text Action pastes a configured string into the currently focused input field using the AccessibilityService. It is useful for filling forms or search fields without simulating individual key presses.\n\n Learn here how to use it to enter text during automation."
+  "Hành động Viết văn bản sẽ dán một chuỗi đã định cấu hình vào trường nhập hiện được tập trung bằng AccessibilityService. Nó rất hữu ích để điền vào biểu mẫu hoặc trường tìm kiếm mà không cần mô phỏng các lần nhấn phím riêng lẻ.\n\n Tìm hiểu ở đây cách sử dụng nó để nhập văn bản trong quá trình tự động hóa."
+}
+{
+  "Paste text into the focused input field"
+  "Dán văn bản vào trường nhập tập trung"
+}
+{
+  "Write Text"
+  "Viết văn bản"
+}
+{
+  "Learn how the action list is executed"
+  "Tìm hiểu cách thực thi danh sách hành động"
+}
+{
+  "Actions are executed in order, one after the other. You can change the order of an action using the &lt;&lt; and &gt;&gt; buttons, or by tapping directly on its index box.\n\nTry to keep your action lists short. A regular autoclicker taps one place per event; that's the model to follow. If you find yourself adding many actions to a single event, it is usually a sign that the work should be split across several events, each reacting to what is actually on the screen. This is the see-and-act philosophy of Klick'r: detect first, then act."
+  "Các hành động được thực hiện theo thứ tự, lần lượt từng hành động. Bạn có thể thay đổi thứ tự của một hành động bằng cách sử dụng các nút &lt;&lt; và &gt;&gt; hoặc bằng cách nhấn trực tiếp vào hộp chỉ mục của hành động đó.\n\nCố gắng giữ danh sách hành động của bạn ngắn gọn. Trình nhấp chuột tự động thông thường sẽ chạm vào một địa điểm cho mỗi Sự kiện; đó là hình mẫu để noi theo. Nếu bạn thấy mình đang thêm nhiều hành động vào một Sự kiện, đó thường là dấu hiệu cho thấy công việc nên được chia thành nhiều Sự kiện, mỗi Sự kiện sẽ phản ứng với những gì thực sự có trên màn hình. Đây là triết lý nhìn và hành động của Klick'r: phát hiện trước, sau đó hành động."
+}
+{
+  "Action list"
+  "Danh sách hành động"
+}
+{
+  "Listen to broadcasts from other apps"
+  "Nghe chương trình phát sóng từ các ứng dụng khác"
+}
+{
+  "On Android, when applications want to share their state with other apps, they use a Broadcast Intent. \n\nWith the \"On Broadcast Received\" condition, you can monitor those states and react with an action in Klick'r. Some default values for the Android system state are provided, but keep in mind that broadcast conditions are more for developers, as mastering them requires Android development knowledge."
+  "Trên Android, khi ứng dụng muốn chia sẻ trạng thái của mình với các ứng dụng khác, chúng sẽ sử dụng Broadcast Intent. \n\nVới Sự kiện \"Đã nhận khi phát sóng\", bạn có thể theo dõi các trạng thái đó và phản ứng bằng một hành động trong Klick'r. Một số giá trị mặc định cho trạng thái hệ thống Android được cung cấp nhưng hãy nhớ rằng các Sự kiện phát sóng dành cho nhà phát triển nhiều hơn vì việc nắm vững chúng đòi hỏi kiến ​​thức phát triển Android."
+}
+{
+  "On Broadcast Received"
+  "Đang phát sóng đã nhận được"
+}
+{
+  "Learn how to modify a counter value"
+  "Tìm hiểu cách sửa đổi giá trị bộ đếm"
+}
+{
+  "A Change Counter action applies an operation to a counter using a predefined static value. Three operations are available: add the value to the counter (+), subtract it from the counter (−), or set the counter to that exact value (=).\n\nThis is the most common way to update a counter. For example, adding 1 each time a condition is detected, or resetting it to 0 when a goal is reached."
+  "Hành động Bộ đếm thay đổi áp dụng một thao tác cho bộ đếm sử dụng giá trị tĩnh được xác định trước. Có ba thao tác: thêm giá trị vào bộ đếm (+), trừ giá trị đó khỏi bộ đếm (-) hoặc đặt bộ đếm về giá trị chính xác đó (=).\n\nĐây là cách phổ biến nhất để cập nhật bộ đếm. Ví dụ: thêm 1 mỗi khi phát hiện được điều kiện hoặc đặt lại về 0 khi đạt được mục tiêu."
+}
+{
+  "Instead of a static value, you can use the current value of another counter as the operand. \n\nThe same three operations (+, −, =) apply, but the amount is read from the selected counter at runtime rather than being fixed at configuration time.\n\nThis lets you build dynamic scenarios where counters interact with each other."
+  "Thay vì giá trị tĩnh, bạn có thể sử dụng giá trị hiện tại của bộ đếm khác làm toán hạng. \n\nÁp dụng ba thao tác tương tự (+, −, =), nhưng số lượng được đọc từ bộ đếm đã chọn trong thời gian chạy thay vì cố định tại thời điểm cấu hình.\n\nĐiều này cho phép bạn xây dựng các kịch bản động trong đó các bộ đếm tương tác với nhau."
+}
+{
+  "Change counter action"
+  "Thay đổi hành động phản công"
+}
+{
+  "Learn how to fine-tune the click position on a detected condition"
+  "Tìm hiểu cách tinh chỉnh vị trí nhấp chuột trên điều kiện được phát hiện"
+}
+{
+  "When clicking on a detected condition, the click is applied at the center of the matched area by default. \n\nThe click offset lets you shift that position by a fixed number of pixels along the X and Y axes, relative to the condition's center. This is useful when the element you want to tap is close to — but not exactly at — the center of the detected area."
+  "Khi nhấp vào một điều kiện được phát hiện, nhấp chuột được áp dụng ở giữa khu vực phù hợp theo mặc định. \n\nKhoảng bù nhấp chuột cho phép bạn dịch chuyển vị trí đó theo số pixel cố định dọc theo trục X và Y, so với tâm của điều kiện. Điều này hữu ích khi phần tử bạn muốn chạm ở gần — nhưng không chính xác — ở giữa khu vực được phát hiện."
+}
+{
+  "Learn how to configure where the click will be applied"
+  "Tìm hiểu cách định cấu hình nơi nhấp chuột sẽ được áp dụng"
+}
+{
+  "A Click Action can target two types of positions: a static position that is always the same, or the position of a detected condition.\n\nChoose your targeting method in the click target selector of the action configuration dialog."
+  "Hành động nhấp chuột có thể nhắm mục tiêu hai loại vị trí: vị trí tĩnh luôn giống nhau hoặc vị trí của tình trạng được phát hiện.\n\nChọn phương pháp nhắm mục tiêu của bạn trong bộ chọn mục tiêu nhấp chuột của hộp thoại cấu hình hành động."
+}
+{
+  "When using a static position, the click will always occur at the exact same coordinates, regardless of what is currently on screen.\n\nKeep in mind that those coordinates are screen-rotation-sensitive: if the device rotates, the click may end up at an unexpected position or even outside the screen boundaries."
+  "Khi sử dụng vị trí tĩnh, nhấp chuột sẽ luôn xảy ra ở cùng tọa độ, bất kể nội dung hiện có trên màn hình.\n\nHãy nhớ rằng các tọa độ đó rất nhạy cảm với việc xoay màn hình: nếu thiết bị xoay, lần nhấp có thể kết thúc ở vị trí không mong muốn hoặc thậm chí nằm ngoài ranh giới màn hình."
+}
+{
+  "When using a condition position, the click is applied at the center of a detected Image Condition. This makes the click follow the target wherever it appears on screen.\n\nWhen the event's operator is AND, all conditions must be fulfilled, so every Image Condition has a detected position available. You can freely pick any of them as your click target, and optionally refine it with a click offset."
+  "Khi sử dụng vị trí điều kiện, nhấp chuột được áp dụng ở giữa Điều kiện hình ảnh được phát hiện. Điều này làm cho cú nhấp chuột đi theo mục tiêu ở bất cứ nơi nào nó xuất hiện trên màn hình.\n\nKhi điều kiện của Sự kiện là AND, tất cả các điều kiện phải được đáp ứng, do đó, mọi Điều kiện Hình ảnh đều có sẵn vị trí được phát hiện. Bạn có thể tự do chọn bất kỳ mục tiêu nào trong số đó làm mục tiêu nhấp chuột của mình và tùy ý tinh chỉnh mục tiêu đó bằng phần bù nhấp chuột."
+}
+{
+  "When the event's operator is OR, only one condition will be fulfilled, and the next ones will be skipped. Because of this, Klick'r cannot know in advance which condition will be detected.\n\nAs a consequence, when using the OR operator, you cannot choose a specific condition as the click target: the click will always be applied on the first detected condition, whichever that turns out to be at runtime."
+  "Khi điều kiện của Sự kiện là OR, chỉ một điều kiện sẽ được đáp ứng và các điều kiện tiếp theo sẽ bị bỏ qua. Vì điều này, Klick'r không thể biết trước tình trạng nào sẽ được phát hiện.\n\nDo đó, khi sử dụng điều kiện OR, bạn không thể chọn một điều kiện cụ thể làm mục tiêu lượt nhấp: lượt nhấp sẽ luôn được áp dụng cho điều kiện được phát hiện đầu tiên, bất kể điều kiện nào diễn ra trong thời gian chạy."
+}
+{
+  "Click target"
+  "Mục tiêu nhấp chuột"
+}
+{
+  "How the order of your conditions affects how fast your event is checked"
+  "Thứ tự các điều kiện của bạn ảnh hưởng như thế nào đến tốc độ kiểm tra Sự kiện của bạn"
+}
+{
+  "The order of conditions in the list affects how fast your event is checked.\n\nWith the AND operator, the check stops as soon as the first condition that is NOT met is found. Putting the least likely conditions first lets the app skip the rest sooner, making your event faster."
+  "Thứ tự các điều kiện trong danh sách ảnh hưởng đến tốc độ kiểm tra Sự kiện của bạn.\n\nVới điều kiện AND, quá trình kiểm tra sẽ dừng ngay khi tìm thấy điều kiện đầu tiên KHÔNG được đáp ứng. Đặt các điều kiện ít có khả năng xảy ra nhất trước tiên cho phép ứng dụng bỏ qua phần còn lại sớm hơn, giúp Sự kiện của bạn diễn ra nhanh hơn."
+}
+{
+  "With the OR operator, the check stops as soon as the first condition that IS met is found. Putting the most likely conditions first lets the app finish sooner, without checking the rest.\n\nIn both cases, putting the most important condition at the top of the list is an easy way to keep your scenario running fast."
+  "Với điều kiện OR, quá trình kiểm tra sẽ dừng ngay khi tìm thấy điều kiện đầu tiên mà IS đáp ứng. Đặt các điều kiện có khả năng xảy ra nhất lên đầu tiên sẽ cho phép ứng dụng hoàn thành sớm hơn mà không cần kiểm tra phần còn lại.\n\nTrong cả hai trường hợp, đặt điều kiện quan trọng nhất lên đầu danh sách là cách dễ dàng để kịch bản của bạn diễn ra nhanh chóng."
+}
+{
+  "Condition order and speed"
+  "Thứ tự điều kiện và tốc độ"
+}
+{
+  "React to your scenario's counter values"
+  "Phản ứng với các giá trị truy cập trong kịch bản của bạn"
+}
+{
+  "Counters are variables declared in your scenario that can be modified, displayed or verified during its execution. \n\nWith the \"On Counter Reached\" condition, you can verify the current value of a counter to trigger actions. All mathematical comparison operators are available to customize the verification. \n\nCounters can be used in various ways and using a single counter-related condition or action is often not enough to use them correctly. Interactive tutorials covering the Counter feature are available in their dedicated section."
+  "Bộ đếm là các biến được khai báo trong kịch bản của bạn và có thể được sửa đổi, hiển thị hoặc xác minh trong quá trình thực thi. \n\nVới Sự kiện \"Đã đạt đến số lượt truy cập\", bạn có thể xác minh giá trị hiện tại của bộ đếm để kích hoạt hành động. Tất cả các điều kiện so sánh toán học đều có sẵn để tùy chỉnh việc xác minh. \n\nBộ đếm có thể được sử dụng theo nhiều cách khác nhau và việc sử dụng một Sự kiện hoặc hành động liên quan đến bộ đếm thường không đủ để sử dụng chúng một cách chính xác. Các hướng dẫn tương tác về tính năng Bộ đếm có sẵn trong phần dành riêng cho chúng."
+}
+{
+  "On Counter Reached"
+  "Đã đạt số lượt truy cập"
+}
+{
+  "Learn the different ways to display and use counter values in your scenario"
+  "Tìm hiểu các cách khác nhau để hiển thị và sử dụng giá trị bộ đếm trong kịch bản của bạn"
+}
+{
+  "You can show the current value of a counter inside a Notification action. This is useful to monitor progress while your scenario is running, or to display a summary at the end.\n\nTo insert a counter, press the Append Counter button in the action configuration. This adds a placeholder like <b>{counterName</b>} into your text. At runtime, the placeholder is replaced by the counter's actual value. \n\nFor example, if a counter named <i>scor</i>e has the value 42, the text \"Current score: {score}\" becomes \"Current score: 42\"."
+  "Bạn có thể hiển thị giá trị hiện tại của bộ đếm bên trong hành động Thông báo. Điều này rất hữu ích để theo dõi tiến trình trong khi kịch bản của bạn đang chạy hoặc để hiển thị bản tóm tắt ở cuối.\n\nĐể chèn bộ đếm, nhấn nút Nối bộ đếm trong cấu hình hành động. Thao tác này sẽ thêm phần giữ chỗ như <b>{counterName</b>} vào văn bản của bạn. Khi chạy, phần giữ chỗ được thay thế bằng giá trị thực của bộ đếm. \n\nVí dụ: nếu bộ đếm có tên <i>scor</i>e có giá trị 42 thì văn bản \"Điểm hiện tại: {score}\" sẽ trở thành \"Điểm hiện tại: 42\"."
+}
+{
+  "You can also insert a counter's value into a Write Text action, so the typed text includes the current value at the moment the action runs.\n\nThe placeholder works the same way as in the Notification action: press the Append Counter button or type <b>{counterName</b>} directly. \n\nFor example, if a counter named <i>scor</i>e has the value 42, the text \"My score is {score}\" becomes \"My score is 42\"."
+  "Bạn cũng có thể chèn giá trị của bộ đếm vào tác vụ Viết văn bản để văn bản đã nhập bao gồm giá trị hiện tại tại thời điểm tác vụ chạy.\n\nTrình giữ chỗ hoạt động theo cách tương tự như trong hành động Thông báo: nhấn nút Nối bộ đếm hoặc nhập trực tiếp <b>{counterName</b>}. \n\nVí dụ: nếu bộ đếm có tên <i>scor</i>e có giá trị 42 thì văn bản \"Điểm của tôi là {score}\" sẽ trở thành \"Điểm của tôi là 42\"."
+}
+{
+  "Counter values are tracked in the debug report. If something is not working as expected in your scenario, capturing a debug report will show you exactly how your counters changed over time, making it easier to find the issue."
+  "Giá trị bộ đếm được theo dõi trong báo cáo gỡ lỗi. Nếu có điều gì đó không hoạt động như mong đợi trong kịch bản của bạn, việc ghi lại báo cáo gỡ lỗi sẽ cho bạn thấy chính xác cách bộ đếm của bạn thay đổi theo thời gian, giúp bạn dễ dàng tìm thấy sự cố hơn."
+}
+{
+  "Using counter values"
+  "Sử dụng giá trị bộ đếm"
+}
+{
+  "Learn how the order of events in your list affects which events run"
+  "Tìm hiểu xem thứ tự các Sự kiện trong danh sách của bạn ảnh hưởng như thế nào đến những Sự kiện sẽ diễn ra"
+}
+{
+  "Every screen frame captured from your display is processed by checking your events <b>one by one, from top to botto</b>m.\n\nThe position of an event in your event list determines when it gets a chance to run. By default, as soon as an event's conditions are met and its actions are executed, <b>the frame is considered don</b>e. Processing stops for that frame, and the next frame starts over from the first event in the list.\n\nThis means only one event can run per frame by default."
+  "Mọi khung hình màn hình được chụp từ màn hình của bạn đều được xử lý bằng cách kiểm tra <b>từng Sự kiện một, từ trên xuống dưới</b>.\n\nVị trí của một Sự kiện trong danh sách Sự kiện của bạn sẽ xác định thời điểm Sự kiện đó có cơ hội diễn ra. Theo mặc định, ngay khi các điều kiện của Sự kiện được đáp ứng và hành động của Sự kiện được thực thi, <b>khung được coi là không</b>. Quá trình xử lý dừng lại đối với khung đó và khung tiếp theo sẽ bắt đầu lại từ Sự kiện đầu tiên trong danh sách.\n\nĐiều này có nghĩa là theo mặc định chỉ có một Sự kiện có thể chạy trên mỗi khung hình."
+}
+{
+  "You can change this behavior using the <b>Keep executin</b>g field in the event settings. When enabled, after that event runs, processing <b>continues to the next even</b>t in the list instead of stopping.\n\nThis lets multiple events run on the same frame.\n\n<b>Example</b>: your list contains Event A followed by Event B. If Event A keeps being detected and does not have <b>Keep executin</b>g enabled, it will run every frame and Event B will never get a chance to execute.\n\nEnable <b>Keep executin</b>g on Event A, and both events will be checked on every frame. \n\nAn interactive tutorial is also available to practice this concept."
+  "Bạn có thể thay đổi hành vi này bằng cách sử dụng trường <b>Tiếp tục thực thi</b> trong cài đặt Sự kiện. Khi được bật, sau khi Sự kiện đó chạy, quá trình xử lý <b>tiếp tục diễn ra Sự kiện tiếp theo</b> trong danh sách thay vì dừng lại.\n\nĐiều này cho phép nhiều Sự kiện chạy trên cùng một khung.\n\n<b>Ví dụ</b>: danh sách của bạn chứa Sự kiện A, theo sau là Sự kiện B. Nếu Sự kiện A tiếp tục được phát hiện và không bật <b>Tiếp tục thực thi</b>, thì Sự kiện này sẽ chạy mọi khung và Sự kiện B sẽ không bao giờ có cơ hội thực thi.\n\nBật <b>Tiếp tục thực thi</b> trên Sự kiện A và cả hai Sự kiện sẽ được kiểm tra trên mọi khung hình. \n\nMột hướng dẫn tương tác cũng có sẵn để thực hành khái niệm này."
+}
+{
+  "Event priority"
+  "Ưu tiên Sự kiện"
+}
+{
+  "Learn how the reloading of an Event behaves in your scenario"
+  "Tìm hiểu cách thời gian hồi Sự kiện trong trường hợp của bạn"
+}
+{
+  "The event reloading parameter allows you to skip an event for a given amount of time once it is fulfilled. \n\nEven if skipped, an event in reloading state is still considered enabled: reloading and the event state are independent. \n\nIf the Event is disabled while in reloading state, the reloading timer will be cleared, so the cooldown no longer applies when the event is re-enabled."
+  "Thời gian hồi Sự kiện cho phép bạn bỏ qua một Sự kiện trong một khoảng thời gian nhất định sau khi Sự kiện đó được thực hiện. \n\nNgay cả khi bị bỏ qua, một Sự kiện ở trạng thái thời gian hồi vẫn được coi là đã bật: thời gian hồi và trạng thái Sự kiện là độc lập. \n\nNếu Sự kiện bị vô hiệu hóa khi ở trạng thái thời gian hồi, bộ đếm thời gian thời gian hồi sẽ bị xóa, do đó thời gian hồi chiêu không còn áp dụng khi Sự kiện được kích hoạt lại."
+}
+{
+  "Event reloading"
+  "Thời gian hồi Sự kiện"
+}
+{
+  "Learn how to enable and disable events while a scenario is running"
+  "Tìm hiểu cách bật và tắt Sự kiện trong khi một kịch bản đang chạy"
+}
+{
+  "Every event in your scenario (Screen Events and Trigger Events) has a state: it is either <b>enable</b>d or <b>disable</b>d.\n\nWhen enabled, the event runs normally and checks its conditions as usual. When disabled, it is completely skipped, as if it did not exist.\n\nBy default, every event starts enabled. You can change this with the <b>Initial Stat</b>e field in the event settings."
+  "Mọi Sự kiện trong kịch bản của bạn (Sự kiện màn hình và Sự kiện kích hoạt) đều có trạng thái: đó là <b>bật</b> hoặc <b>tắt</b>.\n\nKhi được bật, Sự kiện sẽ diễn ra bình thường và kiểm tra các điều kiện của nó như bình thường. Khi bị tắt, nó hoàn toàn bị bỏ qua, như thể nó không tồn tại.\n\nTheo mặc định, mọi Sự kiện đều bắt đầu được bật. Bạn có thể thay đổi điều này bằng trường <b>Trạng thái ban đầu</b> trong cài đặt Sự kiện."
+}
+{
+  "While a scenario is running, you can change the state of any event using the <b>Change Event Stat</b>e action. This action lets you enable, disable, or toggle one or more events in your scenario.\n\nThis opens up many possibilities: events that turn each other on one after another, events that turn themselves off after running once, or groups of events where only one is active at a time."
+  "Trong khi một kịch bản đang chạy, bạn có thể Thay đổi trạng thái Bật/Tắt của Sự kiện của bất kỳ Sự kiện nào bằng cách sử dụng hành động <b>Thay đổi trạng thái Bật/Tắt của Sự kiện</b>. Hành động này cho phép bạn bật, tắt hoặc chuyển đổi một hoặc nhiều Sự kiện trong kịch bản của mình.\n\nĐiều này mở ra nhiều khả năng: các Sự kiện lần lượt bật lên, các Sự kiện tự tắt sau khi chạy một lần hoặc các nhóm Sự kiện mà mỗi lần chỉ có một Sự kiện hoạt động."
+}
+{
+  "When <b>all events in the scenario are disable</b>d, the scenario stops on its own. There is nothing left to do, so Klick'r stops automatically.\n\nThis is a simple way to end a scenario: have your last event disable all the others once its job is done, and everything stops by itself."
+  "Khi <b>tất cả Sự kiện trong kịch bản bị tắt</b>, kịch bản sẽ tự dừng. Không còn gì để làm nên Klick'r tự động dừng lại.\n\nĐây là cách đơn giản để kết thúc một kịch bản: yêu cầu Sự kiện cuối cùng của bạn vô hiệu hóa tất cả những Sự kiện khác sau khi công việc của nó hoàn thành và mọi thứ sẽ tự dừng lại."
+}
+{
+  "Learn about the impact on your scenario performances"
+  "Tìm hiểu về tác động đến hiệu suất kịch bản của bạn"
+}
+{
+  "When creating an Image Condition, you can define where the detection will occur on the screen by changing the detection type.\n\nBy default, a new Image Condition will always detect at the same spot as the capture. This is the fastest way for detecting an image. \n\nIf the image you need to detect can be displayed at several places, you then need to use one of the other options."
+  "Khi tạo Sự kiện hình ảnh, bạn có thể xác định vị trí phát hiện sẽ xảy ra trên màn hình bằng cách thay đổi loại phát hiện.\n\nTheo mặc định, Sự kiện hình ảnh mới sẽ luôn phát hiện tại cùng một vị trí khi chụp. Đây là cách nhanh nhất để phát hiện hình ảnh. \n\nNếu hình ảnh bạn cần phát hiện có thể được hiển thị ở một số nơi thì bạn cần sử dụng một trong các tùy chọn khác."
+}
+{
+  "When selecting \"In area\", the area selection field will enable; allowing you to define a detection area.\n\nBy default, the area will be the same as the capture area, but you can move and expand it. The bigger the area is, the slower the detection will be, so try to only include the interesting parts of the screen."
+  "Khi chọn \"Trong khu vực\", trường chọn khu vực sẽ bật; cho phép bạn xác định khu vực phát hiện.\n\nTheo mặc định, khu vực này sẽ giống với khu vực chụp nhưng bạn có thể di chuyển và mở rộng nó. Diện tích càng lớn thì khả năng phát hiện sẽ càng chậm, vì vậy hãy cố gắng chỉ bao gồm những phần thú vị của màn hình."
+}
+{
+  "The last option, \"Whole screen\" will change the detection area to the whole display. \n\nThis is by far the slowest detection type and you should use it only as a last resort."
+  "Tùy chọn cuối cùng, \"Toàn màn hình\" sẽ thay đổi vùng phát hiện thành toàn bộ màn hình. \n\nĐây là loại phát hiện chậm nhất cho đến nay và bạn chỉ nên sử dụng nó như là phương sách cuối cùng."
+}
+{
+  "Tips about optimal image capture"
+  "Lời khuyên về chụp ảnh tối ưu"
+}
+{
+  "When capturing for an image condition, you need to avoid changing parts such as the background. The capture needs to look as close as possible to what will be displayed when detecting.\n\nTry to always capture as close as possible to the target you want to match while keeping enough details for detection.\n\nNote: You can pinch to zoom to the capture and control more precisely the area."
+  "Khi chụp ảnh theo Sự kiện, bạn cần tránh thay đổi các phần như nền. Việc chụp cần phải nhìn gần nhất có thể với những gì sẽ được hiển thị khi phát hiện.\n\nCố gắng luôn chụp càng gần mục tiêu bạn muốn khớp càng tốt trong khi vẫn giữ đủ chi tiết để phát hiện.\n\nLưu ý: Bạn có thể chụm để thu phóng để chụp và kiểm soát khu vực chính xác hơn."
+}
+{
+  "Be careful with images containing transparent areas. If the background behind the transparent surface changes, the detection algorithm will detect the changes in color or shape and will not consider it as detected. \n\nTry to avoid transparent parts in your condition while keeping enough static details for detection. You can also change the detection tolerance in order to compensate for the possible changes in small transparent areas. \n\nIf there is a text within the target you want to match, you might want to consider using a Text Condition, as they are less impacted by background change noise."
+  "Hãy cẩn thận với những hình ảnh có chứa vùng trong suốt. Nếu nền phía sau bề mặt trong suốt thay đổi, thuật toán phát hiện sẽ phát hiện những thay đổi về màu sắc hoặc hình dạng và sẽ không coi đó là đã phát hiện. \n\nCố gắng tránh các phần trong suốt trong Sự kiện của bạn trong khi vẫn giữ đủ chi tiết tĩnh để phát hiện. Bạn cũng có thể thay đổi dung sai phát hiện để bù đắp cho những thay đổi có thể xảy ra ở các vùng nhỏ trong suốt. \n\nNếu có văn bản trong mục tiêu mà bạn muốn khớp, bạn có thể cân nhắc sử dụng Sự kiện văn bản vì chúng ít bị ảnh hưởng bởi nhiễu thay đổi nền."
+}
+{
+  "Image detection is more accurate when applied to things to detect that have a lot of borders. It is also faster if the image is smaller, but it will lose confidence if the image is too small and lacks details. Try to keep that in mind when creating new image conditions.\n\nIf you are trying to detect very small things, you might want to use one or several Color Conditions instead, they are more reliable for such cases, and way faster."
+  "Tính năng phát hiện hình ảnh sẽ chính xác hơn khi áp dụng cho những vật thể có nhiều đường viền. Nó cũng nhanh hơn nếu hình ảnh nhỏ hơn, nhưng sẽ mất tự tin nếu hình ảnh quá nhỏ và thiếu chi tiết. Hãy cố gắng ghi nhớ điều đó khi tạo Sự kiện hình ảnh mới.\n\nNếu bạn đang cố gắng phát hiện những thứ rất nhỏ, thay vào đó, bạn có thể muốn sử dụng một hoặc một số Sự kiện màu, chúng đáng tin cậy hơn cho những trường hợp như vậy và nhanh hơn nhiều."
+}
+{
+  "Image capture"
+  "Chụp ảnh"
+}
+{
+  "Learn how to communicate with other applications"
+  "Tìm hiểu cách giao tiếp với các ứng dụng khác"
+}
+{
+  "Intents are the way applications communicate with each other on Android. The Intent action lets you tap into this system directly from your scenario.\n\nA set of predefined templates is available to make this easy. The most common one is Start Application, which launches another app on your device exactly as if you had tapped its icon from the launcher."
+  "Ý định là cách các ứng dụng giao tiếp với nhau trên Android. Hành động Ý định cho phép bạn truy cập vào hệ thống này trực tiếp từ kịch bản của mình.\n\nMột tập hợp các mẫu được xác định trước có sẵn để thực hiện việc này dễ dàng. Ứng dụng phổ biến nhất là Khởi động ứng dụng, khởi chạy một ứng dụng khác trên thiết bị của bạn chính xác như thể bạn đã nhấn vào biểu tượng của nó từ trình khởi chạy."
+}
+{
+  "The Advanced tab lets you define a raw Intent manually, giving you full control over the action, category, data, and extras. This is not recommended for regular users; it is aimed at Android developers who already know how Intents work.\n\nMore ready-to-use templates will be added in future updates to make common use cases easier to set up without going into the advanced options."
+  "Tab Nâng cao cho phép bạn xác định Ý định thô theo cách thủ công, cung cấp cho bạn toàn quyền kiểm soát hành động, danh mục, dữ liệu và các tính năng bổ sung. Điều này không được khuyến khích cho người dùng thường xuyên; nó nhắm đến các nhà phát triển Android đã biết cách hoạt động của Ý định.\n\nNhiều mẫu sẵn sàng sử dụng hơn sẽ được thêm vào trong các bản cập nhật trong tương lai để giúp thiết lập các trường hợp sử dụng phổ biến dễ dàng hơn mà không cần đi sâu vào các tùy chọn nâng cao."
+}
+{
+  "Intent action"
+  "Ý định hành động"
+}
+{
+  "Learn how to display a notification during your scenario"
+  "Tìm hiểu cách hiển thị thông báo trong kịch bản của bạn"
+}
+{
+  "A Notification action displays an Android notification with a title and a message of your choice.\n\nYou can insert the current value of a counter into the notification text using the Append Counter button, or by typing the <b>{counterName</b>} placeholder directly. At runtime it is replaced by the counter's value — for example, \"I have {apples} apples\" becomes \"I have 18 apples\"."
+  "Hành động Thông báo hiển thị thông báo Android có tiêu đề và thông báo bạn chọn.\n\nBạn có thể chèn giá trị hiện tại của bộ đếm vào văn bản thông báo bằng nút Nối bộ đếm hoặc bằng cách nhập trực tiếp phần giữ chỗ <b>{counterName</b>}. Trong thời gian chạy, nó được thay thế bằng giá trị của bộ đếm — ví dụ: \"Tôi có {táo} táo\" trở thành \"Tôi có 18 quả táo\"."
+}
+{
+  "The notification importance level controls how intrusively the notification is presented. Higher importance levels may show a heads-up banner and play a sound, while lower ones are delivered silently to the notification drawer.\n\nThe exact behaviour depends on the device and can be further customized in the Android notification settings for Klick'r."
+  "Mức độ quan trọng của thông báo kiểm soát mức độ hiển thị của thông báo. Mức độ quan trọng cao hơn có thể hiển thị biểu ngữ hướng dẫn và phát âm thanh, trong khi mức độ quan trọng thấp hơn được chuyển âm thầm đến ngăn thông báo.\n\nHành vi chính xác tùy thuộc vào thiết bị và có thể được tùy chỉnh thêm trong cài đặt thông báo Android cho Klick'r."
+}
+{
+  "Notification action"
+  "Hành động thông báo"
+}
+{
+  "Tips about optimal number detection"
+  "Lời khuyên về phát hiện số tối ưu"
+}
+{
+  "The tips here are the same as for the Text Condition: when detecting a number on the screen, you need to define a detection area that will be scanned for numbers during detection. \n\nWhen detecting a static number, you want the area to be close to the number while keeping a small margin around it. The number should not touch the borders of the area or the detection confidence will drop significantly. \n\nNote: for very small numbers, you might need to increase the detection quality of your scenario, as higher resolution will help the detection of those."
+  "Các mẹo ở đây cũng giống như đối với Sự kiện văn bản: khi phát hiện một số trên màn hình, bạn cần xác định vùng phát hiện sẽ được quét để tìm số trong quá trình phát hiện. \n\nKhi phát hiện một số tĩnh, bạn muốn vùng đó gần với số đó trong khi vẫn giữ một lề nhỏ xung quanh nó. Con số không được chạm vào ranh giới của khu vực, nếu không độ tin cậy phát hiện sẽ giảm đáng kể. \n\nLưu ý: đối với những số lượng rất nhỏ, bạn có thể cần phải tăng chất lượng phát hiện kịch bản của mình vì độ phân giải cao hơn sẽ giúp phát hiện những số đó."
+}
+{
+  "Number detection area"
+  "Khu vực phát hiện số"
+}
+{
+  "Learn how the pause affects action execution and detection"
+  "Tìm hiểu cách tạm dừng ảnh hưởng đến việc thực hiện và phát hiện hành động"
+}
+{
+  "A Pause Action suspends the entire scenario for a configured duration: during that time, no action runs and no screen detection occurs.\n\nA very common use case is to add a Pause at the end of your action list. When you click somewhere, the app you clicked on needs time to process the click and display the result, and you usually want to wait during that moment before Klick'r starts looking at the screen again.\n\nA pause between two actions is also valid, but adding one at the end of the list is often the more common use case."
+  "Hành động tạm dừng sẽ tạm dừng toàn bộ kịch bản trong khoảng thời gian được định cấu hình: trong thời gian đó, không có hành động nào được thực hiện và không có hoạt động phát hiện màn hình nào xảy ra.\n\nMột trường hợp sử dụng rất phổ biến là thêm Tạm dừng vào cuối danh sách hành động của bạn. Khi bạn nhấp vào một nơi nào đó, ứng dụng bạn đã nhấp vào cần có thời gian để xử lý nhấp chuột và hiển thị kết quả và bạn thường muốn đợi trong thời điểm đó trước khi Klick'r bắt đầu nhìn lại màn hình.\n\nViệc tạm dừng giữa hai hành động cũng hợp lệ, nhưng việc thêm một hành động vào cuối danh sách thường là trường hợp sử dụng phổ biến hơn."
+}
+{
+  "Pause action"
+  "Tạm dừng hành động"
+}
+{
+  "Tips about detection confidence"
+  "Lời khuyên về độ tin cậy phát hiện"
+}
+{
+  "Klick'r does a lot of pre-processing before looking for your screen condition in order to speed up the process and reduce battery impact. This creates uncertainties and approximations in the results that are expressed as the confidence score. \n\nTo ensure your conditions are working as expected, you can test them individually by pressing the play arrow button while focusing a condition on the screen condition list."
+  "Klick'r thực hiện rất nhiều bước xử lý trước khi tìm kiếm Sự kiện màn hình của bạn nhằm tăng tốc quá trình và giảm tác động đến pin. Điều này tạo ra sự không chắc chắn và gần đúng trong các kết quả được thể hiện dưới dạng điểm tin cậy. \n\nĐể đảm bảo các Sự kiện của bạn hoạt động như mong đợi, bạn có thể kiểm tra từng Sự kiện bằng cách nhấn nút mũi tên phát trong khi tập trung một Sự kiện vào danh sách Sự kiện trên màn hình."
+}
+{
+  "When testing a screen condition, the detection confidence score will be displayed, and you can modify the tolerated difference directly here, allowing you to get rid of false positive or be more flexible with allowed results."
+  "Khi kiểm tra Sự kiện màn hình, điểm tin cậy phát hiện sẽ được hiển thị và bạn có thể sửa đổi chênh lệch được chấp nhận ngay tại đây, cho phép bạn loại bỏ kết quả dương tính giả hoặc linh hoạt hơn với các kết quả được phép."
+}
+{
+  "Detection results are also impacted by the detection resolution. Available in the Scenario dialog, it allows you to change how much Klick'r downscales your screen content before processing it. \n\nThis can impact the confidence score of all of your screen conditions, with higher resolution meaning better detection, but also slower execution time."
+  "Kết quả phát hiện cũng bị ảnh hưởng bởi độ phân giải phát hiện. Có sẵn trong hộp thoại Kịch bản, nó cho phép bạn thay đổi mức độ thu nhỏ nội dung màn hình của Klick'r trước khi xử lý nó. \n\nĐiều này có thể ảnh hưởng đến điểm tin cậy của tất cả các Sự kiện màn hình của bạn, với độ phân giải cao hơn nghĩa là khả năng phát hiện tốt hơn nhưng thời gian thực hiện cũng chậm hơn."
+}
+{
+  "Detection confidence"
+  "Độ tin cậy phát hiện"
+}
+{
+  "Learn which one to use depending on your use case"
+  "Tìm hiểu nên sử dụng cái nào tùy thuộc vào trường hợp sử dụng của bạn"
+}
+{
+  "Color condition is the fastest way of detecting with Klick'r. It simply verifies the color of a pixel on your screen. \n\nThis condition is convenient when trying to detect simple UI elements such as a button color or progress bar completion, or small changes."
+  "Sự kiện màu sắc là cách phát hiện nhanh nhất bằng Klick'r. Nó chỉ đơn giản là xác minh màu sắc của một pixel trên màn hình của bạn. \n\nSự kiện này thuận tiện khi cố gắng phát hiện các thành phần UI đơn giản như màu nút hoặc hoàn thành thanh tiến trình hoặc những thay đổi nhỏ."
+}
+{
+  "Image condition is slower than a color condition, but it allows more flexibility for the screen content detection. Execution time is pretty low when detecting in a small area, but it can greatly increase when the area is bigger. \n\nThis condition is convenient when trying to detect clear shapes and colors, like the content of a card, or an icon."
+  "Sự kiện hình ảnh chậm hơn Sự kiện màu sắc, nhưng nó cho phép phát hiện nội dung màn hình linh hoạt hơn. Thời gian thực hiện khá thấp khi phát hiện ở một khu vực nhỏ nhưng có thể tăng lên rất nhiều khi khu vực đó lớn hơn. \n\nSự kiện này thuận tiện khi cố gắng phát hiện các hình dạng và màu sắc rõ ràng, như nội dung của thẻ hoặc biểu tượng."
+}
+{
+  "Text conditions and Number conditions both use the same detection process. \n\nText detection is the slowest detection type, but unlike the image detection, it is not sensitive to transparency and allows more precision in complex detection scenes. Execution time increase with detection area size and also depends on the alphabet selected. \n\nThis condition is convenient when trying to detect a text or a number independently of how it is displayed."
+  "Sự kiện văn bản và Sự kiện Số đều sử dụng cùng một quy trình phát hiện. \n\nPhát hiện văn bản là loại phát hiện chậm nhất, nhưng không giống như phát hiện hình ảnh, nó không nhạy cảm với độ trong suốt và cho phép độ chính xác cao hơn trong các cảnh phát hiện phức tạp. Thời gian thực hiện tăng lên theo kích thước vùng phát hiện và cũng phụ thuộc vào bảng chữ cái được chọn. \n\nSự kiện này thuận tiện khi cố gắng phát hiện một văn bản hoặc một số độc lập với cách nó được hiển thị."
+}
+{
+  "Screen condition types"
+  "Các loại Sự kiện màn hình"
+}
+{
+  "Learn how the swipe gesture is performed"
+  "Tìm hiểu cách thực hiện cử chỉ vuốt"
+}
+{
+  "A Swipe Action performs a straight-line drag gesture from a start position to an end position. Both coordinates are fixed and set when configuring the action. \n\nThe swipe duration controls how long the gesture takes to travel from start to end: a shorter duration produces a faster swipe, while a longer one produces a slower, more controlled drag."
+  "Hành động vuốt thực hiện cử chỉ kéo theo đường thẳng từ vị trí bắt đầu đến vị trí kết thúc. Cả hai tọa độ đều được cố định và đặt khi định cấu hình hành động. \n\nThời lượng vuốt kiểm soát khoảng thời gian cử chỉ di chuyển từ đầu đến cuối: thời lượng ngắn hơn tạo ra thao tác vuốt nhanh hơn, trong khi thời lượng dài hơn tạo ra thao tác kéo chậm hơn, được kiểm soát nhiều hơn."
+}
+{
+  "Swipe action"
+  "Thao tác vuốt"
+}
+{
+  "Learn how to trigger Android navigation actions"
+  "Tìm hiểu cách kích hoạt các hành động điều hướng của Android"
+}
+{
+  "A System Action executes one of Android's built-in navigation actions: Back, Home, or Recents.\n\nThese are the same actions as the navigation buttons at the bottom of your screen. They require no coordinates and work at the system level, regardless of which app is currently open."
+  "Hành động hệ thống thực thi một trong các hành động điều hướng tích hợp của Android: Quay lại, Trang chủ hoặc Gần đây.\n\nĐây là những hành động tương tự như các nút điều hướng ở cuối màn hình của bạn. Chúng không yêu cầu tọa độ và hoạt động ở cấp hệ thống, bất kể ứng dụng nào hiện đang mở."
+}
+{
+  "Tips about optimal text detection"
+  "Mẹo về phát hiện văn bản tối ưu"
+}
+{
+  "When detecting a text on the screen, you need to define a detection area that will be scanned for text during detection. \n\nWhen detecting static text, you want the area to be close to the text while keeping a small margin around it. The text should not touch the borders of the area or the detection confidence will drop significantly. \n\nNote: for very small text, you might need to increase the detection quality of your scenario, as higher resolution will help the detection of those."
+  "Khi phát hiện văn bản trên màn hình, bạn cần xác định vùng phát hiện sẽ được quét văn bản trong quá trình phát hiện. \n\nKhi phát hiện văn bản tĩnh, bạn muốn vùng đó ở gần văn bản trong khi vẫn giữ một lề nhỏ xung quanh nó. Văn bản không được chạm vào đường viền của khu vực, nếu không độ tin cậy phát hiện sẽ giảm đáng kể. \n\nLưu ý: đối với văn bản rất nhỏ, bạn có thể cần tăng chất lượng phát hiện kịch bản của mình vì độ phân giải cao hơn sẽ giúp phát hiện những văn bản đó."
+}
+{
+  "When detecting a text that can appear in multiple positions, use the smallest detection area possible. The bigger the detection area is, the slower the detection will be. \n\nIf the different positions are known and not random, it might be faster to use separate text conditions for each position than one with a very big area. You can test your timings using the debug report if you are into deep optimization of your scenario timings."
+  "Khi phát hiện văn bản có thể xuất hiện ở nhiều vị trí, hãy sử dụng vùng phát hiện nhỏ nhất có thể. Vùng phát hiện càng lớn thì tốc độ phát hiện sẽ càng chậm. \n\nNếu các vị trí khác nhau được biết đến và không phải ngẫu nhiên, thì việc sử dụng các Sự kiện văn bản riêng biệt cho từng vị trí có thể sẽ nhanh hơn so với vị trí có diện tích rất lớn. Bạn có thể kiểm tra thời gian của mình bằng cách sử dụng báo cáo gỡ lỗi nếu bạn muốn tối ưu hóa sâu về thời gian của kịch bản."
+}
+{
+  "Text detection area"
+  "Khu vực phát hiện văn bản"
+}
+{
+  "Learn how to enable and disable events at runtime"
+  "Tìm hiểu cách bật và tắt Sự kiện trong thời gian chạy"
+}
+{
+  "A disabled event is completely skipped during the scenario loop; its conditions are never checked and its actions never run. This means it consumes no processing time at all.\n\nDisabling events you are not currently using is a great way to improve performance. For example, in a scenario that alternates between a menu phase and a game phase, disabling all menu events while you are in the game phase (and vice versa) keeps only the relevant events active at any given time."
+  "Một Sự kiện bị vô hiệu hóa sẽ bị bỏ qua hoàn toàn trong vòng lặp kịch bản; các điều kiện của nó không bao giờ được kiểm tra và các hành động của nó không bao giờ chạy. Điều này có nghĩa là nó không tiêu tốn thời gian xử lý chút nào.\n\nVô hiệu hóa các Sự kiện bạn hiện không sử dụng là một cách tuyệt vời để cải thiện hiệu suất. Ví dụ: trong kịch bản xen kẽ giữa giai đoạn menu và giai đoạn trò chơi, việc vô hiệu hóa tất cả các Sự kiện trong menu khi bạn đang ở giai đoạn trò chơi (và ngược lại) chỉ giữ cho các Sự kiện liên quan hoạt động tại bất kỳ thời điểm nào."
+}
+{
+  "When configuring the action, you can choose to change the state of all events in the scenario at once, or define a new state for each event individually. \n\nThree state changes are available for each event: enable it, disable it, or toggle it from its current value; so an enabled event becomes disabled and a disabled one becomes enabled."
+  "Khi định cấu hình hành động, bạn có thể chọn Thay đổi trạng thái Bật/Tắt của Sự kiện của tất cả các Sự kiện trong kịch bản cùng một lúc hoặc xác định trạng thái mới cho từng Sự kiện riêng lẻ. \n\nCó ba Thay đổi trạng thái Bật/Tắt của Sự kiện có sẵn cho mỗi Sự kiện: bật, tắt hoặc chuyển đổi nó khỏi giá trị hiện tại; vì vậy một Sự kiện đã kích hoạt sẽ bị vô hiệu hóa và một Sự kiện bị vô hiệu hóa sẽ được kích hoạt."
+}
+{
+  "If every event in the scenario ends up disabled at the same time, the scenario stops itself automatically, since there is nothing left to execute.\n\nThis can be used intentionally as a clean way to terminate a scenario once a goal is reached: a final Change Event State action that disables all events will bring the scenario to a halt."
+  "Nếu mọi Sự kiện trong kịch bản đều bị vô hiệu hóa cùng lúc thì kịch bản đó sẽ tự động dừng vì không còn gì để thực thi.\n\nĐiều này có thể được sử dụng có chủ ý như một cách rõ ràng để chấm dứt một kịch bản sau khi đạt được mục tiêu: một hành động cuối cùng về Trạng thái Sự kiện thay đổi nhằm vô hiệu hóa tất cả các Sự kiện sẽ khiến kịch bản bị dừng lại."
+}
+{
+  "Change event state action"
+  "Thay đổi hành động trạng thái Sự kiện"
+}
+{
+  "Learn how to set text into a focused input field"
+  "Tìm hiểu cách đặt văn bản vào trường nhập tập trung"
+}
+{
+  "Before the Write Text action runs, the target input field must already be focused, just as you would tap it to bring up the keyboard. \n\nTo achieve this, add a Click action on that field before the Write Text action to focus it. If a transition animation plays after the click, a Wait action between the two can help ensure the field is ready. \n\nThe action also has a Validate option: when enabled, it will automatically press Enter after the text is set, confirming or submitting the input."
+  "Trước khi tác vụ Viết văn bản chạy, trường nhập mục tiêu phải được tập trung, giống như bạn chạm vào trường đó để hiển thị bàn phím. \n\nĐể đạt được điều này, hãy thêm hành động Nhấp vào trường đó trước hành động Viết văn bản để tập trung vào trường đó. Nếu hoạt ảnh chuyển tiếp phát sau khi nhấp chuột, hành động Chờ giữa hai hành động này có thể giúp đảm bảo trường đã sẵn sàng. \n\nHành động này cũng có tùy chọn Xác thực: khi được bật, nó sẽ tự động nhấn Enter sau khi văn bản được đặt, xác nhận hoặc gửi đầu vào."
+}
+{
+  "You can insert the value of a counter into the text to write. Press the Append Counter button in the action configuration to pick a counter: it will insert the placeholder <b>{counterName</b>} at the current cursor position in the text field.\n\nAt runtime, every <b>{counterName</b>} placeholder is replaced by the counter's current value before the text is pasted into the field. For example, if a counter named <i>apple</i>s has the value 18, the text \"I have {apples} apples\" becomes \"I have 18 apples\"."
+  "Bạn có thể chèn giá trị của bộ đếm vào văn bản để viết. Nhấn nút Nối bộ đếm trong cấu hình hành động để chọn bộ đếm: thao tác này sẽ chèn phần giữ chỗ <b>{counterName</b>} vào vị trí con trỏ hiện tại trong trường văn bản.\n\nTrong thời gian chạy, mọi phần giữ chỗ <b>{counterName</b>} được thay thế bằng giá trị hiện tại của bộ đếm trước khi văn bản được dán vào trường. Ví dụ: nếu bộ đếm có tên <i>apple</i>s có giá trị 18 thì văn bản \"Tôi có {apples} táo\" sẽ trở thành \"Tôi có 18 quả táo\"."
+}
+{
+  "Write text action"
+  "Viết hành động văn bản"
+}
+{
+  "You have unsaved modifications, do you want to discard them?"
+  "Bạn có những sửa đổi chưa được lưu, bạn có muốn loại bỏ chúng không?"
+}
+{
+  "This condition have one or more actions referencing it. Deleting this condition will delete the associated actions as well.\nAre you sure ?"
+  "Sự kiện này có một hoặc nhiều hành động tham chiếu đến nó. Xóa Sự kiện này cũng sẽ xóa các hành động liên quan.\nBạn có chắc không?"
+}
+{
+  "You are about to delete this item, are you sure ?"
+  "Bạn sắp xóa mục này, bạn có chắc chắn không?"
+}
+{
+  "This event have one or more actions referencing it. Deleting this event will delete the associated actions as well.\nAre you sure ?"
+  "Sự kiện này có một hoặc nhiều hành động tham chiếu đến nó. Xóa Sự kiện này cũng sẽ xóa các hành động liên quan.\nBạn có chắc không?"
+}
