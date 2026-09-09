@@ -100,7 +100,6 @@ Không có dữ liệu sẽ được thu thập từ ứng dụng này. Vui lòn
     <string name="desc_event_occurrence_counters_empty">Không có bộ đếm nào được xác định cho kịch bản này.</string>
     <string name="desc_event_occurrence_empty">Không có Sự kiện nào được thực hiện trong phiên kịch bản cuối cùng.</string>
     <string name="dialog_condition_migration_title">Di chuyển</string>
-    <string name="dialog_intent_extra_title">Thêm</string>
     <string name="dialog_move_to_position_label">chỉ mục</string>
     <string name="dialog_move_to_title">Di chuyển đến</string>
     <string name="dialog_overlay_title_copy_from">Sao chép từ</string>
@@ -245,8 +244,7 @@ Thật không may, đây là một hạn chế về phần cứng không thể k
 Để bỏ chặn, bạn cần chạm vào màn hình bằng nhiều ngón tay cùng lúc. Cài đặt này cố gắng mô phỏng điều này cứ sau 10 giây.</string>
     <string name="field_input_block_workaround_title">Bỏ chặn màn hình cảm ứng</string>
     <string name="field_input_set_text_text_to_write_title">Chữ</string>
-    <string name="field_intent_extra_key_label">Chìa khóa</string>
-    <string name="field_intent_extra_title">Tiện ích bổ sung</string>
+    <string name="field_intent_extra_key_label">Khóa</string>
     <string name="field_intent_extra_value_title">Giá trị</string>
     <string name="field_label_counter_starting_value">Giá trị ban đầu</string>
     <string name="field_legacy_action_ui_desc">Thay đổi hiển thị hành động theo danh sách. Hữu ích cho các tình huống phức tạp.</string>
@@ -318,6 +316,16 @@ Nếu bạn tăng độ phân giải, quá trình nhận diện sẽ chậm hơn
     <string name="input_field_label_swipe_duration">Thời lượng vuốt (ms)</string>
     <string name="input_field_label_timer_duration_no_unit">Sau</string>
     <string name="item_alphabet_name_arabic">Arabic</string>
+    <string name="item_alphabet_name_chinese_simplified">Chinese simplified</string>
+    <string name="item_alphabet_name_chinese_traditional">Chinese traditional</string>
+    <string name="item_alphabet_name_cyrillic">Cyrillic</string>
+    <string name="item_alphabet_name_devanagari">Devanagari</string>
+    <string name="item_alphabet_name_japanese">Japanese</string>
+    <string name="item_alphabet_name_kannada">Kannada</string>
+    <string name="item_alphabet_name_korean">Korean</string>
+    <string name="item_alphabet_name_latin">Latin</string>
+    <string name="item_alphabet_name_tamil">Tamil</string>
+    <string name="item_alphabet_name_telugu">Telugu</string>
     <string name="item_alphabet_required_header">Để chạy kịch bản này, bạn cần tải xuống các mô hình bảng chữ cái sau.
 
 Mỗi mô hình có thể chiếm tới 5MB.</string>
@@ -1311,28 +1319,11 @@ Bấm vào lưu để đóng hộp thoại và quay lại danh sách Sự kiện
 Trong trường hợp đó, bạn có thể nhấn nút "Giảm âm lượng" vật lý trên thiết bị của mình để dừng kịch bản đang chạy.</string>
     <string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
     <string name="mtrl_button_snackbar_close_content_description">Đóng</string>
-    <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
-    <string name="mtrl_checkbox_button_icon_path_group_name">biểu tượng</string>
-    <string name="mtrl_checkbox_button_icon_path_indeterminate">M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
-    <string name="mtrl_checkbox_button_icon_path_name">đường dẫn biểu tượng</string>
-    <string name="mtrl_checkbox_button_path_checked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
-    <string name="mtrl_checkbox_button_path_group_name">cái nút</string>
-    <string name="mtrl_checkbox_button_path_name">đường dẫn nút</string>
-    <string name="mtrl_checkbox_button_path_unchecked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
     <string name="mtrl_checkbox_state_description_checked">Đã đánh dấu</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Đã đánh dấu một phần</string>
     <string name="mtrl_checkbox_state_description_unchecked">Chưa đánh dấu</string>
     <string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Hơn %1$d thông báo mới</string>
-    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
-    <string name="mtrl_switch_thumb_group_name">nhóm_vòng tròn</string>
-    <string name="mtrl_switch_thumb_path_checked">M4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16</string>
-    <string name="mtrl_switch_thumb_path_morphing">M0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16</string>
-    <string name="mtrl_switch_thumb_path_name">vòng tròn</string>
-    <string name="mtrl_switch_thumb_path_pressed">M2,16 A14,14 0 0,1 16,2 H16 A14,14 0 0,1 16,30 H16 A14,14 0 0,1 2,16</string>
-    <string name="mtrl_switch_thumb_path_unchecked">M8,16 A8,8 0 0,1 16,8 H16 A8,8 0 0,1 16,24 H16 A8,8 0 0,1 8,16</string>
-    <string name="mtrl_switch_track_decoration_path">M1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16</string>
-    <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
     <string name="notification_button_config">Cấu hình</string>
     <string name="notification_button_hide">Ẩn</string>
     <string name="notification_button_pause">Tắt</string>
@@ -1344,18 +1335,11 @@ Trong trường hợp đó, bạn có thể nhấn nút "Giảm âm lượng" v�
     <string name="notification_scenario_channel_group_name">kịch bản Klick'r</string>
     <string name="notification_scenario_channel_high_name">Cao</string>
     <string name="notification_scenario_channel_low_name">Thấp</string>
-    <string name="notification_service_channel_name">Klick'r</string>
     <string name="notification_title">Kịch bản: %1$s</string>
     <string name="overlay_instructions_gesture_record">Đang ghi lại cử chỉ…</string>
     <string name="overlay_title_results">Kết quả</string>
     <string name="overlay_title_threshold">Ngưỡng</string>
     <string name="password_toggle_content_description">Hiện mật khẩu</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-    <string name="path_pause">M 25 33 L 25 56 L 103 56 L 103 33 Z M 25 95 L 25 72 L 103 72 L 103 95 Z</string>
-    <string name="path_play">M 34 22 L 34 64 L 100 64 L 100 64 Z M 34 106 L 34 64 L 100 64 L 100 64 Z</string>
     <string name="search_view_hint_action_copy">Tìm kiếm theo tên hành động</string>
     <string name="search_view_hint_condition_copy">Tìm kiếm theo tên Sự kiện</string>
     <string name="search_view_hint_dumb_action_copy">Tìm kiếm theo tên hành động</string>
@@ -1372,9 +1356,9 @@ Trong trường hợp đó, bạn có thể nhấn nút "Giảm âm lượng" v�
     <string name="toast_configure_swipe_to">Chạm vào vị trí để kết thúc thao tác vuốt tới</string>
     <string name="toast_denied_foreground_permission">Người dùng bị từ chối quyền sử dụng dịch vụ trên nền trước</string>
     <string name="toast_denied_screen_sharing_permission">Người dùng bị từ chối quyền chia sẻ màn hình</string>
-    <string name="tutorial_category_action_desc_long">Một Hành động được thực thi khi Điều kiện của Sự kiện được đáp ứng. Các hành động bao gồm từ cử chỉ (Nhấp, Vuốt) đến điều khiển luồng (ToggleEvent, ChangeCounter, Wait) và tương tác hệ thống (Ý định, Thông báo, SystemAction, SetText).
+    <string name="tutorial_category_action_desc_long">Một Hành động được thực thi khi Sự kiện của Sự kiện được đáp ứng. Các hành động bao gồm từ cử chỉ (Nhấp, Vuốt) đến điều khiển luồng (ToggleEvent, ChangeCounter, Tạm dừng) và tương tác hệ thống (Ý định, Thông báo, SystemAction, SetText).
 
- Tìm hiểu ở đây cách sử dụng từng loại Hành động để xây dựng tập lệnh tự động hóa của bạn.</string>
+Tìm hiểu ở đây cách sử dụng từng loại Hành động để xây dựng tập lệnh tự động hóa của bạn.</string>
     <string name="tutorial_category_action_desc_short">Thực hiện điều gì đó khi Sự kiện của bạn được đáp ứng</string>
     <string name="tutorial_category_action_name">hành động</string>
     <string name="tutorial_category_basics_desc_long">Kịch bản là thành phần gốc của tập lệnh tự động hóa của bạn. Nó chứa danh sách ScreenEvents và danh sách TriggerEvents.
@@ -1448,11 +1432,11 @@ Tìm hiểu ở đây cách sử dụng nó để hiển thị thông tin trong 
 Tìm hiểu ở đây cách sử dụng nó để phản ứng với các giá trị số được hiển thị trên màn hình của bạn.</string>
     <string name="tutorial_category_number_condition_desc_short">Xác minh nếu một số cụ thể được hiển thị</string>
     <string name="tutorial_category_number_condition_name">Sự kiện số</string>
-    <string name="tutorial_category_pause_action_desc_long">Hành động chờ trì hoãn việc thực thi trong một khoảng thời gian được định cấu hình. Sẽ rất hữu ích khi chèn khoảng thời gian chờ giữa hai hành động khi ứng dụng cần thời gian để phản ứng. 
+    <string name="tutorial_category_pause_action_desc_long">Hành động tạm dừng sẽ trì hoãn việc thực thi trong một khoảng thời gian được định cấu hình. Sẽ rất hữu ích khi chèn khoảng thời gian chờ giữa hai hành động khi ứng dụng cần thời gian để phản ứng.
 
 Tìm hiểu ở đây cách sử dụng nó để tăng tốc các tập lệnh tự động hóa của bạn.</string>
     <string name="tutorial_category_pause_action_desc_short">Đợi một lúc trước khi thực hiện hành động tiếp theo</string>
-    <string name="tutorial_category_pause_action_name">Chờ đợi</string>
+    <string name="tutorial_category_pause_action_name">Tắt</string>
     <string name="tutorial_category_root_desc_long">Tự động hóa Klick'r dựa trên những gì được hiển thị trên màn hình của bạn, điều này khá khác so với trình nhấp chuột tự động thông thường dựa trên thời gian của bạn.
 
 Tìm hiểu ở đây làm thế nào để sử dụng nó.</string>
@@ -1494,9 +1478,9 @@ Tìm hiểu ở đây cách sử dụng nó để nhập văn bản trong quá t
 Cố gắng giữ danh sách hành động của bạn ngắn gọn. Trình nhấp chuột tự động thông thường sẽ chạm vào một địa điểm cho mỗi Sự kiện; đó là hình mẫu để noi theo. Nếu bạn thấy mình đang thêm nhiều hành động vào một Sự kiện, đó thường là dấu hiệu cho thấy công việc nên được chia thành nhiều Sự kiện, mỗi Sự kiện sẽ phản ứng với những gì thực sự có trên màn hình. Đây là triết lý nhìn và hành động của Klick'r: phát hiện trước, sau đó hành động.</string>
     <string name="tutorial_slideshow_actions_list_title">Danh sách hành động</string>
     <string name="tutorial_slideshow_broadcast_received_desc">Nghe chương trình phát sóng từ các ứng dụng khác</string>
-    <string name="tutorial_slideshow_broadcast_received_step_1_text">Trên Android, khi ứng dụng muốn chia sẻ trạng thái của mình với các ứng dụng khác, chúng sẽ sử dụng Broadcast Intent. 
+    <string name="tutorial_slideshow_broadcast_received_step_1_text">Trên Android, khi ứng dụng muốn chia sẻ trạng thái của mình với các ứng dụng khác, chúng sẽ sử dụng Broadcast Intent.
 
-Với điều kiện "Đã nhận khi phát sóng", bạn có thể theo dõi các trạng thái đó và phản ứng bằng một hành động trong Klick'r. Một số giá trị mặc định cho trạng thái hệ thống Android được cung cấp nhưng hãy nhớ rằng các điều kiện phát sóng dành cho nhà phát triển nhiều hơn vì việc nắm vững chúng đòi hỏi kiến ​​thức phát triển Android.</string>
+Với Sự kiện "Đã nhận khi phát sóng", bạn có thể theo dõi các trạng thái đó và phản ứng bằng một hành động trong Klick'r. Một số giá trị mặc định cho trạng thái hệ thống Android được cung cấp nhưng hãy nhớ rằng các Sự kiện phát sóng dành cho nhà phát triển nhiều hơn vì việc nắm vững chúng đòi hỏi kiến thức phát triển Android.</string>
     <string name="tutorial_slideshow_broadcast_received_title">Đang phát sóng đã nhận được</string>
     <string name="tutorial_slideshow_change_counter_action_desc">Tìm hiểu cách sửa đổi giá trị bộ đếm</string>
     <string name="tutorial_slideshow_change_counter_action_step_1_text">Hành động Bộ đếm thay đổi áp dụng một thao tác cho bộ đếm sử dụng giá trị tĩnh được xác định trước. Có ba thao tác: thêm giá trị vào bộ đếm (+), trừ giá trị đó khỏi bộ đếm (-) hoặc đặt bộ đếm về giá trị chính xác đó (=).
